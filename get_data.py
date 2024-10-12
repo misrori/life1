@@ -1,6 +1,12 @@
+from dotenv import load_dotenv
+import os
 from scrapethat import *
 import pandas as pd
 from datetime import datetime, timedelta
+load_dotenv()
+
+TELEGRAMTOKEN = os.getenv("TELEGRAMTOKEN")
+
 
 today = datetime.today()
 today_date_file_name = f"data/life1_class_{today.strftime('%Y-%m-%d')}.csv"
