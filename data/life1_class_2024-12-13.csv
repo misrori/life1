@@ -1,0 +1,1265 @@
+day,date,sport,time,edző,klub
+Hétfő,2024-12-09,Funkcionális köredzés,06:30-07:30,Dán Vanda,allee
+Szerda,2024-12-11,Funkcionális köredzés,06:30-07:30,Dán Vanda,allee
+Hétfő,2024-12-09,Alakformáló,07:00-08:00,Szalma Borka,allee
+Kedd,2024-12-10,Alakformáló,07:00-08:00,Némethy Panna ,allee
+Kedd,2024-12-10,Pilates,07:00-08:00,Oli Renáta,allee
+Szerda,2024-12-11,Alakformáló,07:00-08:00,Szalma Borka,allee
+Csütörtök,2024-12-12,Pilates,07:00-08:00,Oli Renáta,allee
+Péntek,2024-12-13,Alakformáló,07:00-08:00,Szalma Borka,allee
+Péntek,2024-12-13,Pilates,07:00-08:00,Némethy Panna ,allee
+Péntek,2024-12-13,Zsírégető,08:00-09:00,Némethy Panna ,allee
+Péntek,2024-12-13,Funkcionális köredzés,09:00-10:00,Némethy Panna ,allee
+Szombat,2024-12-14,Alakformáló,09:00-10:00,Dobos Fanny,allee
+Szombat,2024-12-14,Funkcionális köredzés,09:00-10:00,Serrano Gergő,allee
+Vasárnap,2024-12-15,Gerinctorna+stretching,09:00-10:00,Reitter Zsófia,allee
+Hétfő,2024-12-09,Hot Iron I,10:00-11:00,Dobos Fanny,allee
+Szerda,2024-12-11,Hot Iron I,10:00-11:00,Dobos Fanny,allee
+Péntek,2024-12-13,Hot Iron I,10:00-11:00,Dobos Fanny,allee
+Szombat,2024-12-14,Cross Training,10:00-11:00,Serrano Gergő,allee
+Szombat,2024-12-14,Hot Iron I,10:00-11:00,Dobos Fanny,allee
+Vasárnap,2024-12-15,Alakformáló,10:00-11:00,Dobos Fanny,allee
+Vasárnap,2024-12-15,Cross Training,10:00-11:00,Jónás Gergely,allee
+Vasárnap,2024-12-15,Pilates,10:00-11:00,Reitter Zsófia,allee
+Hétfő,2024-12-09,Senior torna,11:00-12:00,Béres Réka,allee
+Kedd,2024-12-10,Stretching.,11:00-12:00,Kovács Laura,allee
+Szerda,2024-12-11,gerinctorna,11:00-12:00,Dobos Fanny,allee
+Csütörtök,2024-12-12,Senior torna,11:00-12:00,Béres Réka,allee
+Csütörtök,2024-12-12,Stretching.,11:00-12:00,Kovács Laura,allee
+Péntek,2024-12-13,Gerinctorna,11:00-12:00,Kovács Laura,allee
+Szombat,2024-12-14,Stretching.,11:00-12:00,Dobos Fanny,allee
+Vasárnap,2024-12-15,Funkcionális köredzés,11:00-12:00,Jónás Gergely,allee
+Vasárnap,2024-12-15,Gerinctorna,11:00-12:00,Dobos Fanny,allee
+Hétfő,2024-12-09,Alakformáló,12:00-13:00,Béres Réka,allee
+Kedd,2024-12-10,Alakformáló,12:00-13:00,Kovács Laura,allee
+Szerda,2024-12-11,Alakformáló,12:00-13:00,Dobos Fanny,allee
+Csütörtök,2024-12-12,Alakformáló,12:00-13:00,Béres Réka,allee
+Péntek,2024-12-13,Alakformáló,12:00-13:00,Kovács Laura,allee
+Kedd,2024-12-10,Alakformáló,16:00-17:00,Dobos Fanny,allee
+Kedd,2024-12-10,Zumba,16:30-17:30,Oli Renáta,allee
+Csütörtök,2024-12-12,Alakformáló,16:00-17:00,Dobos Fanny,allee
+Csütörtök,2024-12-12,Zumba,16:30-17:30,Oli Renáta,allee
+Hétfő,2024-12-09,Alakformáló,17:00-18:00,Elek-Tóth Évi,allee
+Hétfő,2024-12-09,Cross Training,17:00-18:00,Kalamár Eszter,allee
+Hétfő,2024-12-09,Gerinctorna+stretching.,17:30-18:30,Heiszer Eszter,allee
+Kedd,2024-12-10,Hot Iron I,17:00-18:00,Dobos Fanny,allee
+Kedd,2024-12-10,Cross Training,17:15-18:15,Kovács Anikó,allee
+Kedd,2024-12-10,Pilates.,17:30-18:30,Oli Renáta,allee
+Szerda,2024-12-11,Alakformáló,17:00-18:00,Fogasy Fatime,allee
+Szerda,2024-12-11,Funkcionális köredzés,17:15-18:15,Mező Beatrix ,allee
+Szerda,2024-12-11,Gerinctorna+stretching.,17:30-18:30,Heiszer Eszter,allee
+Csütörtök,2024-12-12,Hot Iron I,17:00-18:00,Dobos Fanny,allee
+Csütörtök,2024-12-12,Cross Training,17:15-18:15,Vujicsity Viktória,allee
+Csütörtök,2024-12-12,Pilates.,17:30-18:30,Oli Renáta,allee
+Péntek,2024-12-13,Alakformáló,17:00-18:00,Dobos Fanny,allee
+Péntek,2024-12-13,Zumba,17:30-18:30,Jámbor Bea,allee
+Szombat,2024-12-14,Pilates,17:30-18:30,Reitter Zsófia,allee
+Vasárnap,2024-12-15,Cross Training,17:00-18:00,Auer Bernadett,allee
+Vasárnap,2024-12-15,Hot Iron I,17:00-18:00,Dobos Fanny,allee
+Vasárnap,2024-12-15,Stretching,17:30-18:30,Kovács Laura,allee
+Hétfő,2024-12-09,Cardio Kick-box,18:00-19:00,Kalamár Eszter,allee
+Hétfő,2024-12-09,DEEPWORK ,18:15-19:15,Kocsomba Nelli ,allee
+Hétfő,2024-12-09,Yin  jóga,18:30-19:30,Kovács Rózsa ,allee
+Kedd,2024-12-10,Alakformáló,18:00-19:00,Némethy Panna ,allee
+Kedd,2024-12-10,TRX köredzés,18:15-19:15,Kovács Anikó,allee
+Kedd,2024-12-10,Gerinctorna,18:30-19:30,Vincze Kata,allee
+Szerda,2024-12-11,Cardio Kick-box,18:00-19:00,Kalamár Eszter,allee
+Szerda,2024-12-11,DEEPWORK ,18:15-19:15,Kocsomba Nelli ,allee
+Csütörtök,2024-12-12,Alakformáló,18:00-19:00,Némethy Panna ,allee
+Csütörtök,2024-12-12,TRX köredzés,18:15-19:15,Vujicsity Viktória,allee
+Csütörtök,2024-12-12,Gerinctorna,18:30-19:30,Vincze Kata,allee
+Péntek,2024-12-13,Funkcionális köredzés,18:00-19:00,Vujicsity Viktória,allee
+Péntek,2024-12-13,Hot Iron I,18:00-19:00,Dobos Fanny,allee
+Szombat,2024-12-14,Funkcionális köredzés,18:00-19:00,Auer Bernadett,allee
+Szombat,2024-12-14,Gerinctorna,18:30-19:30,Reitter Zsófia,allee
+Vasárnap,2024-12-15,Alakformáló,18:00-19:00,Dobos Fanny,allee
+Vasárnap,2024-12-15,TRX,18:00-19:00,Auer Bernadett,allee
+Hétfő,2024-12-09,Zsírégető,19:00-20:00,Kalamár Eszter,allee
+Hétfő,2024-12-09,Funkcionális köredzés,19:15-20:15,Vujicsity Viktória,allee
+Hétfő,2024-12-09,Pilates.,19:30-20:30,Kovács Rózsa ,allee
+Kedd,2024-12-10,Zsírégető,19:00-20:00,Paulovics Adrienn,allee
+Kedd,2024-12-10,Funkcionális köredzés,19:15-20:15,Vujicsity Viktória,allee
+Szerda,2024-12-11,Zsírégető,19:00-20:00,Kalamár Eszter,allee
+Szerda,2024-12-11,Cross Training,19:15-20:15,Serrano Gergő,allee
+Csütörtök,2024-12-12,Zsírégető,19:00-20:00,Paulovics Adrienn,allee
+Csütörtök,2024-12-12,Funkcionális köredzés,19:15-20:15,Sánta Stella,allee
+Csütörtök,2024-12-12,Dinamikus jóga,19:30-20:30,Erdős Réka ,allee
+Péntek,2024-12-13,Stretching,19:00-20:00,Dobos Fanny,allee
+Hétfő,2024-12-09,Hot Iron I,20:00-21:00,Dobos Fanny,allee
+Kedd,2024-12-10,Gerinctorna,20:00-21:00,Paulovics Adrienn,allee
+Szerda,2024-12-11,Hot Iron I,20:00-21:00,Dobos Fanny,allee
+Csütörtök,2024-12-12,Gerinctorna+stretching,20:00-21:00,Paulovics Adrienn,allee
+Hétfő,2024-12-16,Funkcionális köredzés,06:30-07:30,Dán Vanda,allee
+Szerda,2024-12-18,Funkcionális köredzés,06:30-07:30,Dán Vanda,allee
+Hétfő,2024-12-16,Alakformáló,07:00-08:00,Szalma Borka,allee
+Kedd,2024-12-17,Alakformáló,07:00-08:00,Némethy Panna ,allee
+Kedd,2024-12-17,Pilates,07:00-08:00,Oli Renáta,allee
+Szerda,2024-12-18,Alakformáló,07:00-08:00,Szalma Borka,allee
+Csütörtök,2024-12-19,Pilates,07:00-08:00,Oli Renáta,allee
+Péntek,2024-12-20,Alakformáló,07:00-08:00,Szalma Borka,allee
+Péntek,2024-12-20,Pilates,07:00-08:00,Némethy Panna ,allee
+Péntek,2024-12-20,Zsírégető,08:00-09:00,Némethy Panna ,allee
+Péntek,2024-12-20,Funkcionális köredzés,09:00-10:00,Némethy Panna ,allee
+Szombat,2024-12-21,Funkcionális köredzés,09:00-10:00,Serrano Gergő,allee
+Vasárnap,2024-12-22,Gerinctorna+stretching,09:00-10:00,Reitter Zsófia,allee
+Hétfő,2024-12-16,Hot Iron I,10:00-11:00,Dobos Fanny,allee
+Szerda,2024-12-18,Hot Iron I,10:00-11:00,Dobos Fanny,allee
+Szombat,2024-12-21,Cross Training,10:00-11:00,Serrano Gergő,allee
+Vasárnap,2024-12-22,Cross Training,10:00-11:00,Jónás Gergely,allee
+Vasárnap,2024-12-22,Pilates,10:00-11:00,Reitter Zsófia,allee
+Hétfő,2024-12-16,Senior torna,11:00-12:00,Béres Réka,allee
+Kedd,2024-12-17,Stretching.,11:00-12:00,Kovács Laura,allee
+Szerda,2024-12-18,gerinctorna,11:00-12:00,Dobos Fanny,allee
+Csütörtök,2024-12-19,Senior torna,11:00-12:00,Béres Réka,allee
+Csütörtök,2024-12-19,Stretching.,11:00-12:00,Kovács Laura,allee
+Péntek,2024-12-20,Gerinctorna,11:00-12:00,Kovács Laura,allee
+Vasárnap,2024-12-22,Funkcionális köredzés,11:00-12:00,Jónás Gergely,allee
+Hétfő,2024-12-16,Alakformáló,12:00-13:00,Béres Réka,allee
+Kedd,2024-12-17,Alakformáló,12:00-13:00,Kovács Laura,allee
+Szerda,2024-12-18,Alakformáló,12:00-13:00,Dobos Fanny,allee
+Csütörtök,2024-12-19,Alakformáló,12:00-13:00,Béres Réka,allee
+Péntek,2024-12-20,Alakformáló,12:00-13:00,Kovács Laura,allee
+Kedd,2024-12-17,Alakformáló,16:00-17:00,Dobos Fanny,allee
+Kedd,2024-12-17,Zumba,16:30-17:30,Oli Renáta,allee
+Csütörtök,2024-12-19,Alakformáló,16:00-17:00,Dobos Fanny,allee
+Csütörtök,2024-12-19,Zumba,16:30-17:30,Oli Renáta,allee
+Hétfő,2024-12-16,Alakformáló,17:00-18:00,Molnár Dani,allee
+Hétfő,2024-12-16,Cross Training,17:00-18:00,Kalamár Eszter,allee
+Hétfő,2024-12-16,Gerinctorna+stretching.,17:30-18:30,Heiszer Eszter,allee
+Kedd,2024-12-17,Hot Iron I,17:00-18:00,Dobos Fanny,allee
+Kedd,2024-12-17,Cross Training,17:15-18:15,Kovács Anikó,allee
+Kedd,2024-12-17,Pilates.,17:30-18:30,Oli Renáta,allee
+Szerda,2024-12-18,Alakformáló,17:00-18:00,Fogasy Fatime,allee
+Szerda,2024-12-18,Funkcionális köredzés,17:15-18:15,Harnos Erika ,allee
+Szerda,2024-12-18,Gerinctorna+stretching.,17:30-18:30,Heiszer Eszter,allee
+Csütörtök,2024-12-19,Hot Iron I,17:00-18:00,Dobos Fanny,allee
+Csütörtök,2024-12-19,Cross Training,17:15-18:15,Kovács Anikó,allee
+Csütörtök,2024-12-19,Pilates.,17:30-18:30,Oli Renáta,allee
+Péntek,2024-12-20,Alakformáló,17:00-18:00,Dobos Fanny,allee
+Péntek,2024-12-20,Zumba,17:30-18:30,Jámbor Bea,allee
+Szombat,2024-12-21,Pilates,17:30-18:30,Reitter Zsófia,allee
+Vasárnap,2024-12-22,Cross Training,17:00-18:00,Csényi Fanni,allee
+Vasárnap,2024-12-22,Hot Iron I,17:00-18:00,Dobos Fanny,allee
+Vasárnap,2024-12-22,Stretching,17:30-18:30,Kovács Laura,allee
+Hétfő,2024-12-16,Cardio Kick-box,18:00-19:00,Kalamár Eszter,allee
+Hétfő,2024-12-16,DEEPWORK ,18:15-19:15,Kocsomba Nelli ,allee
+Hétfő,2024-12-16,Yin  jóga,18:30-19:30,Kovács Rózsa ,allee
+Kedd,2024-12-17,Alakformáló,18:00-19:00,Némethy Panna ,allee
+Kedd,2024-12-17,TRX köredzés,18:15-19:15,Kovács Anikó,allee
+Kedd,2024-12-17,Gerinctorna,18:30-19:30,Vincze Kata,allee
+Szerda,2024-12-18,Cardio Kick-box,18:00-19:00,Kalamár Eszter,allee
+Szerda,2024-12-18,DEEPWORK ,18:15-19:15,Kocsomba Nelli ,allee
+Csütörtök,2024-12-19,Alakformáló,18:00-19:00,Némethy Panna ,allee
+Csütörtök,2024-12-19,TRX köredzés,18:15-19:15,Kovács Anikó,allee
+Csütörtök,2024-12-19,Gerinctorna,18:30-19:30,Vincze Kata,allee
+Péntek,2024-12-20,Funkcionális köredzés,18:00-19:00,Vujicsity Viktória,allee
+Péntek,2024-12-20,Hot Iron I,18:00-19:00,Dobos Fanny,allee
+Szombat,2024-12-21,Funkcionális köredzés,18:00-19:00,Auer Bernadett,allee
+Szombat,2024-12-21,Gerinctorna,18:30-19:30,Reitter Zsófia,allee
+Vasárnap,2024-12-22,Alakformáló,18:00-19:00,Dobos Fanny,allee
+Vasárnap,2024-12-22,TRX,18:00-19:00,Csényi Fanni,allee
+Hétfő,2024-12-16,Zsírégető,19:00-20:00,Kalamár Eszter,allee
+Hétfő,2024-12-16,Funkcionális köredzés,19:15-20:15,Vujicsity Viktória,allee
+Hétfő,2024-12-16,Pilates.,19:30-20:30,Kovács Rózsa ,allee
+Kedd,2024-12-17,Zsírégető,19:00-20:00,Paulovics Adrienn,allee
+Kedd,2024-12-17,Funkcionális köredzés,19:15-20:15,Vujicsity Viktória,allee
+Szerda,2024-12-18,Zsírégető,19:00-20:00,Kalamár Eszter,allee
+Szerda,2024-12-18,Cross Training,19:15-20:15,Serrano Gergő,allee
+Csütörtök,2024-12-19,Zsírégető,19:00-20:00,Paulovics Adrienn,allee
+Csütörtök,2024-12-19,Funkcionális köredzés,19:15-20:15,Sánta Stella,allee
+Csütörtök,2024-12-19,Dinamikus jóga,19:30-20:30,Erdős Réka ,allee
+Péntek,2024-12-20,Stretching,19:00-20:00,Dobos Fanny,allee
+Hétfő,2024-12-16,Hot Iron I,20:00-21:00,Dobos Fanny,allee
+Kedd,2024-12-17,Gerinctorna,20:00-21:00,Paulovics Adrienn,allee
+Szerda,2024-12-18,Hot Iron I,20:00-21:00,Dobos Fanny,allee
+Csütörtök,2024-12-19,Gerinctorna+stretching,20:00-21:00,Paulovics Adrienn,allee
+Kedd,2024-12-10,Funkcionális köredzés,06:30-07:30,Csényi Fanni,nyugati
+Szerda,2024-12-11,KRAV-MAGA,06:00-07:30,Sira Gyula,nyugati
+Csütörtök,2024-12-12,KRAV-MAGA,06:00-07:30,Sira Gyula,nyugati
+Csütörtök,2024-12-12,Funkcionális köredzés,06:30-07:30,Csényi Fanni,nyugati
+Péntek,2024-12-13,Cross Training,06:45-07:45,Kárpáti Ildikó,nyugati
+Hétfő,2024-12-09,Alakformáló,07:00-08:00,Berki Betti ,nyugati
+Hétfő,2024-12-09,Indoor Cycling ICG,07:00-08:00,Kazi Alex,nyugati
+Hétfő,2024-12-09,Cross Training,07:15-08:15,Szebenyi Szabina,nyugati
+Kedd,2024-12-10,Indoor Cycling ICG,07:45-08:45,Králik Eszter,nyugati
+Szerda,2024-12-11,Alakformáló,07:00-08:00,Berki Betti ,nyugati
+Szerda,2024-12-11,Indoor Cycling ICG,07:00-08:00,Trankó Ida ,nyugati
+Szerda,2024-12-11,Cross Training,07:15-08:15,Szebenyi Szabina,nyugati
+Szerda,2024-12-11,Pilates,07:30-08:30,Reitter Zsófia,nyugati
+Péntek,2024-12-13,Gerinctorna+stretching,07:00-08:00,Reitter Zsófia,nyugati
+Péntek,2024-12-13,Indoor Cycling ICG,07:00-08:00,Kazi Alex,nyugati
+Péntek,2024-12-13,TRX köredzés,07:45-08:45,Kárpáti Ildikó,nyugati
+Kedd,2024-12-10,Pilates,08:30-09:30,Gál Lilien ,nyugati
+Csütörtök,2024-12-12,Pilates,08:30-09:30,Gál Lilien ,nyugati
+Péntek,2024-12-13,Pilates,08:00-09:00,Antal Laura ,nyugati
+Szombat,2024-12-14,KRAV-MAGA,08:00-09:30,Sira Gyula,nyugati
+Kedd,2024-12-10,Hot Iron Cross,09:00-10:00,Szalka Andi,nyugati
+Kedd,2024-12-10,Detox jóga,09:30-10:30,Völgyes Flávia,nyugati
+Csütörtök,2024-12-12,Hot Iron Cross,09:00-10:00,Szalka Andi,nyugati
+Csütörtök,2024-12-12,Detox jóga,09:30-10:30,Völgyes Flávia,nyugati
+Péntek,2024-12-13,Flow jóga,09:00-10:00,Antal Laura ,nyugati
+Szombat,2024-12-14,Alakformáló,09:00-10:00,Hodosi Tamás,nyugati
+Szombat,2024-12-14,Funkcionális köredzés,09:00-10:00,Gerencsér Ágnes,nyugati
+Szombat,2024-12-14,Dinamikus jóga,09:30-10:30,Palkó Roberta,nyugati
+Vasárnap,2024-12-15,Indoor Cycling ICG,09:30-10:30,Králik Eszter,nyugati
+Vasárnap,2024-12-15,Jóga,09:45-10:45,Palkó Roberta,nyugati
+Szombat,2024-12-14,Cross Training,10:00-11:00,Gerencsér Ágnes,nyugati
+Szombat,2024-12-14,Giryafit,10:00-11:00,Fischer Gábor,nyugati
+Szombat,2024-12-14,Pilates,10:30-11:30,Reitter Zsófia,nyugati
+Vasárnap,2024-12-15,Zsírégető,10:00-11:00,Gerencsér Ágnes,nyugati
+Vasárnap,2024-12-15,Funkcionális köredzés,11:00-12:00,Auer Bernadett,nyugati
+Hétfő,2024-12-09,Hot Iron 1,12:00-13:00,Dobos Fanny,nyugati
+Kedd,2024-12-10,Pilates&stretching,12:00-13:00,Polányi Petra,nyugati
+Kedd,2024-12-10,Funkcionális köredzés,12:15-13:15,Kalamár Eszter,nyugati
+Szerda,2024-12-11,Funkcionális köredzés,12:15-13:15,Gál Lilien ,nyugati
+Csütörtök,2024-12-12,Pilates&stretching,12:00-13:00,Polányi Petra,nyugati
+Csütörtök,2024-12-12,Funkcionális köredzés,12:15-13:15,Kalamár Eszter,nyugati
+Péntek,2024-12-13,Hot Iron 1,12:00-13:00,Dobos Fanny,nyugati
+Vasárnap,2024-12-15,Hot Iron I,14:00-15:00,Radácsy Petra,nyugati
+Péntek,2024-12-13,Pilates.,15:00-16:00,Polányi Petra,nyugati
+Vasárnap,2024-12-15,Hot Iron II,15:00-16:00,Radácsy Petra,nyugati
+Vasárnap,2024-12-15,Pilates,15:45-16:45,Erdős Réka ,nyugati
+Hétfő,2024-12-09,Pilates.,16:00-17:00,Polányi Petra,nyugati
+Hétfő,2024-12-09,Zumba,16:45-17:45,Kovács Andrea,nyugati
+Kedd,2024-12-10,Alakformáló,16:00-17:00,Ábrahám Zsanna,nyugati
+Kedd,2024-12-10,Gerinctorna+stretching,16:45-17:45,Kocsis Kata,nyugati
+Szerda,2024-12-11,Pilates.,16:00-17:00,Polányi Petra,nyugati
+Szerda,2024-12-11,Kezdő TRX köredzés ,16:15-17:15,Gál Lilien ,nyugati
+Szerda,2024-12-11,Zumba,16:45-17:45,Kovács Andrea,nyugati
+Csütörtök,2024-12-12,Alakformáló,16:00-17:00,Gál Lilien ,nyugati
+Csütörtök,2024-12-12,Gerinctorna+stretching,16:45-17:45,Kocsis Kata,nyugati
+Péntek,2024-12-13,Alakformáló,16:00-17:00,Polányi Petra,nyugati
+Péntek,2024-12-13,Kezdő TRX köredzés ,16:15-17:15,Gál Lilien ,nyugati
+Péntek,2024-12-13,Jóga & Stretching,16:45-17:45,Macsári Dzsenifer ,nyugati
+Vasárnap,2024-12-15,Hot Iron Cross,16:00-17:00,Radácsy Petra,nyugati
+Vasárnap,2024-12-15,Stretching,16:45-17:45,Erdős Réka ,nyugati
+Hétfő,2024-12-09,Alakformáló,17:00-18:00,Polányi Petra,nyugati
+Hétfő,2024-12-09,Funkcionális köredzés,17:15-18:15,Balog Bíborka Bella ,nyugati
+Hétfő,2024-12-09,Indoor Cycling ICG,17:30-18:30,Csonka Anita ,nyugati
+Hétfő,2024-12-09,Pilates,17:45-18:45,Tornai Piroska,nyugati
+Kedd,2024-12-10,Zsírégető,17:00-18:00,Recsnik Zsófia,nyugati
+Kedd,2024-12-10,Cross Training,17:15-18:15,Keserű Dóri,nyugati
+Kedd,2024-12-10,Indoor Cycling ICG,17:30-18:30,Kazi Alex,nyugati
+Kedd,2024-12-10,Pilates,17:45-18:45,Kocsis Kata,nyugati
+Szerda,2024-12-11,Alakformáló,17:00-18:00,Polányi Petra,nyugati
+Szerda,2024-12-11,Funkcionális köredzés,17:15-18:15,Balog Bíborka Bella ,nyugati
+Szerda,2024-12-11,Indoor Cycling ICG,17:30-18:30,Csonka Anita ,nyugati
+Szerda,2024-12-11,Pilates,17:45-18:45,Tornai Piroska,nyugati
+Csütörtök,2024-12-12,Zsírégető,17:00-18:00,Recsnik Zsófia,nyugati
+Csütörtök,2024-12-12,Cross Training,17:15-18:15,Keserű Dóri,nyugati
+Csütörtök,2024-12-12,Indoor Cycling ICG,17:30-18:30,Kazi Alex,nyugati
+Csütörtök,2024-12-12,Pilates,17:45-18:45,Kocsis Kata,nyugati
+Péntek,2024-12-13,Hot Iron Cross,17:00-18:00,Radácsy Petra,nyugati
+Péntek,2024-12-13,Cross Training,17:15-18:30,Balog Bíborka Bella ,nyugati
+Péntek,2024-12-13,Indoor Cycling ICG,17:30-18:30,Králik Eszter,nyugati
+Péntek,2024-12-13,Gerinctorna,17:45-18:45,Palkó Roberta,nyugati
+Szombat,2024-12-14,Alakformáló,17:00-18:00,Angyal Mercédesz ,nyugati
+Vasárnap,2024-12-15,Alakformáló,17:00-18:00,Böröcz Anita,nyugati
+Hétfő,2024-12-09,Hot Iron Cross,18:00-19:00,Radácsy Petra,nyugati
+Hétfő,2024-12-09,TRX köredzés,18:15-19:15,Serrano Gergő,nyugati
+Hétfő,2024-12-09,Indoor Cycling ICG,18:30-19:30,Takács Henriett,nyugati
+Hétfő,2024-12-09,Gerinctorna,18:45-19:45,Csonka Anita ,nyugati
+Kedd,2024-12-10,Giryafit,18:00-19:00,Fischer Gábor,nyugati
+Kedd,2024-12-10,TRX köredzés,18:15-19:15,Ajanidisz Teodóra,nyugati
+Kedd,2024-12-10,Indoor Cycling ICG,18:30-19:30,Kazi Alex,nyugati
+Kedd,2024-12-10,Jóga,18:45-19:45,Kovács Rózsa ,nyugati
+Szerda,2024-12-11,Hot Iron II,18:00-19:00,Radácsy Petra,nyugati
+Szerda,2024-12-11,Cross Training,18:15-19:15,Balog Bíborka Bella ,nyugati
+Szerda,2024-12-11,Indoor Cycling ICG,18:30-19:30,Takács Henriett,nyugati
+Szerda,2024-12-11,Gerinctorna,18:45-19:45,Csonka Anita ,nyugati
+Csütörtök,2024-12-12,Giryafit,18:00-19:00,Fischer Gábor,nyugati
+Csütörtök,2024-12-12,TRX köredzés,18:15-19:15,Ajanidisz Teodóra,nyugati
+Csütörtök,2024-12-12,Indoor Cycling ICG,18:30-19:30,Kazi Alex,nyugati
+Péntek,2024-12-13,Hot Iron I,18:00-19:00,Radácsy Petra,nyugati
+Vasárnap,2024-12-15,Funkcionális köredzés,18:15-19:15,Keserű Dóri,nyugati
+Hétfő,2024-12-09,Alakformáló,19:00-20:00,Csapó Aliz,nyugati
+Hétfő,2024-12-09,Cross Training,19:15-20:15,Serrano Gergő,nyugati
+Hétfő,2024-12-09,Indoor Cycling ICG,19:30-20:30,Szőcs Gabi,nyugati
+Hétfő,2024-12-09,Flow jóga,19:45-20:45,Völgyes Flávia,nyugati
+Kedd,2024-12-10,Zsírégető,19:00-20:00,Kabai Petra,nyugati
+Kedd,2024-12-10,Funkcionális köredzés,19:15-20:15,Böröcz Anita,nyugati
+Kedd,2024-12-10,Pilates,19:45-20:45,Ajanidisz Teodóra,nyugati
+Szerda,2024-12-11,Alakformáló,19:00-20:00,Csapó Aliz,nyugati
+Szerda,2024-12-11,Indoor Cycling ICG,19:30-20:30,Takács Henriett,nyugati
+Szerda,2024-12-11,Flow jóga,19:45-20:45,Völgyes Flávia,nyugati
+Csütörtök,2024-12-12,Zsírégető,19:00-20:00,Kabai Petra,nyugati
+Csütörtök,2024-12-12,Funkcionális köredzés,19:15-20:15,Böröcz Anita,nyugati
+Csütörtök,2024-12-12,Pilates,19:45-20:45,Ajanidisz Teodóra,nyugati
+Hétfő,2024-12-09,Aerial yoga,20:00-21:00,Angyal Kyra ,nyugati
+Kedd,2024-12-10,Alakformáló,20:00-21:00,Berki Betti ,nyugati
+Csütörtök,2024-12-12,Alakformáló,20:00-21:00,Berki Betti ,nyugati
+Kedd,2024-12-17,Funkcionális köredzés,06:30-07:30,Csényi Fanni,nyugati
+Szerda,2024-12-18,KRAV-MAGA,06:00-07:30,Sira Gyula,nyugati
+Csütörtök,2024-12-19,KRAV-MAGA,06:00-07:30,Sira Gyula,nyugati
+Csütörtök,2024-12-19,Funkcionális köredzés,06:30-07:30,Csényi Fanni,nyugati
+Péntek,2024-12-20,Cross Training,06:45-07:45,Kárpáti Ildikó,nyugati
+Hétfő,2024-12-16,Alakformáló,07:00-08:00,Berki Betti ,nyugati
+Hétfő,2024-12-16,Indoor Cycling ICG,07:00-08:00,Kazi Alex,nyugati
+Hétfő,2024-12-16,Cross Training,07:15-08:15,Szebenyi Szabina,nyugati
+Hétfő,2024-12-16,Jóga,07:30-08:30,Antal Laura ,nyugati
+Kedd,2024-12-17,Indoor Cycling ICG,07:45-08:45,Králik Eszter,nyugati
+Szerda,2024-12-18,Alakformáló,07:00-08:00,Berki Betti ,nyugati
+Szerda,2024-12-18,Indoor Cycling ICG,07:00-08:00,Trankó Ida ,nyugati
+Szerda,2024-12-18,Cross Training,07:15-08:15,Szebenyi Szabina,nyugati
+Szerda,2024-12-18,Pilates,07:30-08:30,Reitter Zsófia,nyugati
+Péntek,2024-12-20,Gerinctorna+stretching,07:00-08:00,Reitter Zsófia,nyugati
+Péntek,2024-12-20,Indoor Cycling ICG,07:00-08:00,Kazi Alex,nyugati
+Péntek,2024-12-20,TRX köredzés,07:45-08:45,Kárpáti Ildikó,nyugati
+Kedd,2024-12-17,Pilates,08:30-09:30,Gál Lilien ,nyugati
+Csütörtök,2024-12-19,Pilates,08:30-09:30,Gál Lilien ,nyugati
+Péntek,2024-12-20,Pilates,08:00-09:00,Erdős Réka ,nyugati
+Szombat,2024-12-21,KRAV-MAGA,08:00-09:30,Sira Gyula,nyugati
+Kedd,2024-12-17,Hot Iron Cross,09:00-10:00,Szalka Andi,nyugati
+Kedd,2024-12-17,Detox jóga,09:30-10:30,Völgyes Flávia,nyugati
+Csütörtök,2024-12-19,Hot Iron Cross,09:00-10:00,Szalka Andi,nyugati
+Csütörtök,2024-12-19,Detox jóga,09:30-10:30,Völgyes Flávia,nyugati
+Péntek,2024-12-20,Flow jóga,09:00-10:00,Erdős Réka ,nyugati
+Szombat,2024-12-21,Alakformáló,09:00-10:00,Hodosi Tamás,nyugati
+Szombat,2024-12-21,Funkcionális köredzés,09:00-10:00,Gerencsér Ágnes,nyugati
+Szombat,2024-12-21,Dinamikus jóga,09:30-10:30,Erdős Réka ,nyugati
+Vasárnap,2024-12-22,Indoor Cycling ICG,09:30-10:30,Králik Eszter,nyugati
+Vasárnap,2024-12-22,Jóga,09:45-10:45,Palkó Roberta,nyugati
+Szombat,2024-12-21,Cross Training,10:00-11:00,Gerencsér Ágnes,nyugati
+Szombat,2024-12-21,Giryafit,10:00-11:00,Fischer Gábor,nyugati
+Szombat,2024-12-21,Pilates,10:30-11:30,Erdős Réka ,nyugati
+Vasárnap,2024-12-22,Zsírégető,10:00-11:00,Auer Bernadett,nyugati
+Hétfő,2024-12-16,Pilates,11:00-12:00,Erdős Réka ,nyugati
+Szerda,2024-12-18,Pilates,11:00-12:00,Erdős Réka ,nyugati
+Vasárnap,2024-12-22,Funkcionális köredzés,11:00-12:00,Auer Bernadett,nyugati
+Hétfő,2024-12-16,Dinamikus jóga,12:00-13:00,Erdős Réka ,nyugati
+Hétfő,2024-12-16,Hot Iron 1,12:00-13:00,Dobos Fanny,nyugati
+Kedd,2024-12-17,Pilates&stretching,12:00-13:00,Polányi Petra,nyugati
+Kedd,2024-12-17,Funkcionális köredzés,12:15-13:15,Kalamár Eszter,nyugati
+Szerda,2024-12-18,Dinamikus jóga,12:00-13:00,Erdős Réka ,nyugati
+Szerda,2024-12-18,Funkcionális köredzés,12:15-13:15,Gál Lilien ,nyugati
+Csütörtök,2024-12-19,Pilates&stretching,12:00-13:00,Polányi Petra,nyugati
+Csütörtök,2024-12-19,Funkcionális köredzés,12:15-13:15,Kalamár Eszter,nyugati
+Péntek,2024-12-20,Pilates.,15:00-16:00,Polányi Petra,nyugati
+Vasárnap,2024-12-22,Pilates,15:45-16:45,Erdős Réka ,nyugati
+Hétfő,2024-12-16,Pilates.,16:00-17:00,Polányi Petra,nyugati
+Hétfő,2024-12-16,Zumba,16:45-17:45,Kovács Andrea,nyugati
+Kedd,2024-12-17,Alakformáló,16:00-17:00,Ábrahám Zsanna,nyugati
+Kedd,2024-12-17,Gerinctorna+stretching,16:45-17:45,Kocsis Kata,nyugati
+Szerda,2024-12-18,Pilates.,16:00-17:00,Polányi Petra,nyugati
+Szerda,2024-12-18,Kezdő TRX köredzés ,16:15-17:15,Gál Lilien ,nyugati
+Szerda,2024-12-18,Zumba,16:45-17:45,Kovács Andrea,nyugati
+Csütörtök,2024-12-19,Alakformáló,16:00-17:00,Gál Lilien ,nyugati
+Csütörtök,2024-12-19,Gerinctorna+stretching,16:45-17:45,Kocsis Kata,nyugati
+Péntek,2024-12-20,Alakformáló,16:00-17:00,Polányi Petra,nyugati
+Péntek,2024-12-20,Kezdő TRX köredzés ,16:15-17:15,Gál Lilien ,nyugati
+Péntek,2024-12-20,Jóga & Stretching,16:45-17:45,Macsári Dzsenifer ,nyugati
+Vasárnap,2024-12-22,Stretching,16:45-17:45,Erdős Réka ,nyugati
+Hétfő,2024-12-16,Alakformáló,17:00-18:00,Polányi Petra,nyugati
+Hétfő,2024-12-16,Funkcionális köredzés,17:15-18:15,Balog Bíborka Bella ,nyugati
+Hétfő,2024-12-16,Indoor Cycling ICG,17:30-18:30,Csonka Anita ,nyugati
+Hétfő,2024-12-16,Pilates,17:45-18:45,Tornai Piroska,nyugati
+Kedd,2024-12-17,Zsírégető,17:00-18:00,Recsnik Zsófia,nyugati
+Kedd,2024-12-17,Cross Training,17:15-18:15,Keserű Dóri,nyugati
+Kedd,2024-12-17,Indoor Cycling ICG,17:30-18:30,Kazi Alex,nyugati
+Kedd,2024-12-17,Pilates,17:45-18:45,Kocsis Kata,nyugati
+Szerda,2024-12-18,Alakformáló,17:00-18:00,Polányi Petra,nyugati
+Szerda,2024-12-18,Funkcionális köredzés,17:15-18:15,Balog Bíborka Bella ,nyugati
+Szerda,2024-12-18,Indoor Cycling ICG,17:30-18:30,Csonka Anita ,nyugati
+Szerda,2024-12-18,Pilates,17:45-18:45,Tornai Piroska,nyugati
+Csütörtök,2024-12-19,Zsírégető,17:00-18:00,Recsnik Zsófia,nyugati
+Csütörtök,2024-12-19,Cross Training,17:15-18:15,Keserű Dóri,nyugati
+Csütörtök,2024-12-19,Indoor Cycling ICG,17:30-18:30,Kazi Alex,nyugati
+Csütörtök,2024-12-19,Pilates,17:45-18:45,Kocsis Kata,nyugati
+Péntek,2024-12-20,Hot Iron Cross,17:00-18:00,Radácsy Petra,nyugati
+Péntek,2024-12-20,Cross Training,17:15-18:30,Balog Bíborka Bella ,nyugati
+Péntek,2024-12-20,Indoor Cycling ICG,17:30-18:30,Králik Eszter,nyugati
+Péntek,2024-12-20,Gerinctorna,17:45-18:45,Böröcz Anita,nyugati
+Szombat,2024-12-21,Alakformáló,17:00-18:00,Berki Betti ,nyugati
+Vasárnap,2024-12-22,Alakformáló,17:00-18:00,Berki Betti ,nyugati
+Hétfő,2024-12-16,Hot Iron Cross,18:00-19:00,Radácsy Petra,nyugati
+Hétfő,2024-12-16,TRX köredzés,18:15-19:15,Serrano Gergő,nyugati
+Hétfő,2024-12-16,Indoor Cycling ICG,18:30-19:30,Takács Henriett,nyugati
+Hétfő,2024-12-16,Gerinctorna,18:45-19:45,Csonka Anita ,nyugati
+Kedd,2024-12-17,Giryafit,18:00-19:00,Fischer Gábor,nyugati
+Kedd,2024-12-17,TRX köredzés,18:15-19:15,Ajanidisz Teodóra,nyugati
+Kedd,2024-12-17,Indoor Cycling ICG,18:30-19:30,Kazi Alex,nyugati
+Kedd,2024-12-17,Jóga,18:45-19:45,Kovács Rózsa ,nyugati
+Szerda,2024-12-18,Hot Iron II,18:00-19:00,Radácsy Petra,nyugati
+Szerda,2024-12-18,Cross Training,18:15-19:15,Balog Bíborka Bella ,nyugati
+Szerda,2024-12-18,Indoor Cycling ICG,18:30-19:30,Takács Henriett,nyugati
+Szerda,2024-12-18,Gerinctorna,18:45-19:45,Csonka Anita ,nyugati
+Csütörtök,2024-12-19,Giryafit,18:00-19:00,Fischer Gábor,nyugati
+Csütörtök,2024-12-19,TRX köredzés,18:15-19:15,Ajanidisz Teodóra,nyugati
+Csütörtök,2024-12-19,Indoor Cycling ICG,18:30-19:30,Kazi Alex,nyugati
+Csütörtök,2024-12-19,Jóga,18:45-19:45,Kovács Rózsa ,nyugati
+Péntek,2024-12-20,Hot Iron I,18:00-19:00,Radácsy Petra,nyugati
+Vasárnap,2024-12-22,Funkcionális köredzés,18:15-19:15,Keserű Dóri,nyugati
+Hétfő,2024-12-16,Alakformáló,19:00-20:00,Csapó Aliz,nyugati
+Hétfő,2024-12-16,Cross Training,19:15-20:15,Serrano Gergő,nyugati
+Hétfő,2024-12-16,Indoor Cycling ICG,19:30-20:30,Szőcs Gabi,nyugati
+Hétfő,2024-12-16,Flow jóga,19:45-20:45,Erdős Réka ,nyugati
+Kedd,2024-12-17,Zsírégető,19:00-20:00,Kabai Petra,nyugati
+Kedd,2024-12-17,Funkcionális köredzés,19:15-20:15,Böröcz Anita,nyugati
+Kedd,2024-12-17,Pilates,19:45-20:45,Ajanidisz Teodóra,nyugati
+Szerda,2024-12-18,Alakformáló,19:00-20:00,Csapó Aliz,nyugati
+Szerda,2024-12-18,Indoor Cycling ICG,19:30-20:30,Takács Henriett,nyugati
+Szerda,2024-12-18,Flow jóga,19:45-20:45,Erdős Réka ,nyugati
+Csütörtök,2024-12-19,Zsírégető,19:00-20:00,Hajdu Szonja,nyugati
+Csütörtök,2024-12-19,Funkcionális köredzés,19:15-20:15,Böröcz Anita,nyugati
+Csütörtök,2024-12-19,Pilates,19:45-20:45,Ajanidisz Teodóra,nyugati
+Hétfő,2024-12-16,Aerial yoga,20:00-21:00,Angyal Kyra ,nyugati
+Kedd,2024-12-17,Alakformáló,20:00-21:00,Berki Betti ,nyugati
+Csütörtök,2024-12-19,Alakformáló,20:00-21:00,Berki Betti ,nyugati
+Hétfő,2024-12-09,TRX köredzés,06:30-07:30,Ujvári Cili,corvin
+Szerda,2024-12-11,TRX köredzés,06:30-07:30,Ujvári Cili,corvin
+Péntek,2024-12-13,TRX köredzés,06:30-07:30,Ujvári Cili,corvin
+Hétfő,2024-12-09,Indoor Cycling ICG,07:00-08:00,Adamkó Szilvi,corvin
+Hétfő,2024-12-09,Cross Training,07:30-08:30,Kovács Laura,corvin
+Kedd,2024-12-10,Full kondi,07:00-08:00,Vincze Kata,corvin
+Kedd,2024-12-10,Funkcionális köredzés,07:00-08:00,Fogasy Fatime,corvin
+Kedd,2024-12-10,Gerinctorna.,07:00-08:00,Kocsis Kata,corvin
+Kedd,2024-12-10,Indoor Cycling ICG,07:00-08:00,Sas Eszter,corvin
+Szerda,2024-12-11,Alakformáló,07:00-08:00,Hankó Nóri,corvin
+Szerda,2024-12-11,Indoor Cycling ICG,07:00-08:00,Adamkó Szilvi,corvin
+Szerda,2024-12-11,Funkcionális köredzés,07:30-08:30,Kovács Laura,corvin
+Csütörtök,2024-12-12,Funkcionális köredzés,07:00-08:00,Fogasy Fatime,corvin
+Csütörtök,2024-12-12,Gerinctorna.,07:00-08:00,Adamkó Szilvi,corvin
+Csütörtök,2024-12-12,Indoor Cycling ICG,07:00-08:00,Sas Eszter,corvin
+Péntek,2024-12-13,Alakformáló,07:00-08:00,Hankó Nóri,corvin
+Péntek,2024-12-13,Gerinctorna+stretching.,07:00-08:00,Kocsis Kata,corvin
+Péntek,2024-12-13,Indoor Cycling ICG,07:00-08:00,Sas Eszter,corvin
+Péntek,2024-12-13,Funkcionális köredzés,07:30-08:30,Kovács Laura,corvin
+Hétfő,2024-12-09,Pilates,08:00-09:00,Tornai Piroska,corvin
+Kedd,2024-12-10,Pilates&stretching,08:00-09:00,Kocsis Kata,corvin
+Szerda,2024-12-11,Pilates,08:00-09:00,Tornai Piroska,corvin
+Hétfő,2024-12-09,Alakformáló,09:00-10:00,Kovács Laura,corvin
+Kedd,2024-12-10,Cross Training,09:30-10:30,Sas Eszter,corvin
+Szerda,2024-12-11,Alakformáló,09:00-10:00,Kovács Laura,corvin
+Csütörtök,2024-12-12,Cross Training,09:30-10:30,Sas Eszter,corvin
+Péntek,2024-12-13,Alakformáló,09:00-10:00,Kovács Laura,corvin
+Péntek,2024-12-13,Indoor Cycling ICG,09:00-10:00,Csonka Anita ,corvin
+Szombat,2024-12-14,Alakformáló,09:00-10:00,Kovács Laura,corvin
+Szombat,2024-12-14,Hatha jóga,09:00-10:00,Vörös Alexandra ,corvin
+Vasárnap,2024-12-15,Cross Training,09:30-10:30,Sas Eszter,corvin
+Hétfő,2024-12-09,Stretching.,10:00-11:00,Kovács Laura,corvin
+Kedd,2024-12-10,Jóga,10:00-11:00,Csonka Anita ,corvin
+Kedd,2024-12-10,Zsírégető,10:00-11:00,Gyurkovics Anikó,corvin
+Szerda,2024-12-11,Stretching.,10:00-11:00,Kovács Laura,corvin
+Csütörtök,2024-12-12,Zsírégető,10:00-11:00,Gyurkovics Anikó,corvin
+Péntek,2024-12-13,Jóga,10:00-11:00,Csonka Anita ,corvin
+Péntek,2024-12-13,Cross Training,10:30-11:30,Sas Eszter,corvin
+Szombat,2024-12-14,Gerinctorna,10:00-11:00,Kovács Laura,corvin
+Szombat,2024-12-14,Indoor Cycling ICG,10:00-11:30,Kilin Tomi,corvin
+Szombat,2024-12-14,Cross Training,10:30-11:45,Szőcs Gabi,corvin
+Vasárnap,2024-12-15,Alakformáló,10:00-11:00,Gyurkovics Anikó,corvin
+Vasárnap,2024-12-15,Hot Iron II,10:30-11:30,Molnár Dani,corvin
+Vasárnap,2024-12-15,Indoor Cycling ICG,10:30-11:30,Sas Eszter,corvin
+Hétfő,2024-12-09,Giryafit,11:00-12:00,Sas Eszter,corvin
+Kedd,2024-12-10,Stretching.,11:00-12:00,Gyurkovics Anikó,corvin
+Szerda,2024-12-11,Giryafit,11:00-12:00,Sas Eszter,corvin
+Csütörtök,2024-12-12,Stretching.,11:00-12:00,Gyurkovics Anikó,corvin
+Szombat,2024-12-14,Cardio Kick-box,11:00-12:30,Kalamár Eszter,corvin
+Vasárnap,2024-12-15,Kangoo,11:00-12:30,Gyurkovics Anikó,corvin
+Hétfő,2024-12-09,Cardio Kick-box,12:00-13:00,Kalamár Eszter,corvin
+Hétfő,2024-12-09,Jóga,12:00-13:30,Palkó Roberta,corvin
+Hétfő,2024-12-09,TRX,12:30-13:30,Sas Eszter,corvin
+Kedd,2024-12-10,Funkcionális köredzés,12:00-13:00,Csényi Fanni,corvin
+Kedd,2024-12-10,Indoor Cycling ICG,12:00-13:00,Adamkó Szilvi,corvin
+Kedd,2024-12-10,Kangoo,12:00-13:00,Gyurkovics Anikó,corvin
+Szerda,2024-12-11,Cross Training,12:00-13:00,Sas Eszter,corvin
+Szerda,2024-12-11,Pilates.,12:00-13:00,Némethy Panna ,corvin
+Csütörtök,2024-12-12,Funkcionális köredzés,12:00-13:00,Csényi Fanni,corvin
+Csütörtök,2024-12-12,Indoor Cycling ICG,12:00-13:00,Adamkó Szilvi,corvin
+Csütörtök,2024-12-12,Kangoo,12:00-13:00,Gyurkovics Anikó,corvin
+Péntek,2024-12-13,Pilates.,12:00-13:00,Némethy Panna ,corvin
+Vasárnap,2024-12-15,Jóga.,12:00-13:00,Palkó Roberta,corvin
+Péntek,2024-12-13,TRX köredzés,15:00-16:00,Némethy Panna ,corvin
+Hétfő,2024-12-09,Zsírégető,16:00-17:00,Kovács Laura,corvin
+Hétfő,2024-12-09,Kezdő funkcionális köredzés ,16:30-17:30,Oli Renáta,corvin
+Kedd,2024-12-10,Cardio kick- boksz,16:30-17:30,Kalamár Eszter,corvin
+Szerda,2024-12-11,Zsírégető,16:00-17:00,Kovács Laura,corvin
+Szerda,2024-12-11,Funkcionális step,16:30-17:30,Kalamár Eszter,corvin
+Csütörtök,2024-12-12,Indoor Cycling ICG,16:30-17:30,Dicső Inez,corvin
+Csütörtök,2024-12-12,TRX köredzés,16:30-17:30,Kovács Laura,corvin
+Péntek,2024-12-13,Zsírégető,16:00-17:00,Némethy Panna ,corvin
+Péntek,2024-12-13,Funkcionális step,16:30-17:30,Kalamár Eszter,corvin
+Péntek,2024-12-13,Indoor Cycling ICG,16:30-17:30,Viczián Gyöngyi,corvin
+Szombat,2024-12-14,Pilates,16:00-17:00,Kocsis Kata,corvin
+Vasárnap,2024-12-15,Salsa Fitness,16:00-17:00,Osvaldo,corvin
+Vasárnap,2024-12-15,Szauna felöntés,16:00-16:20,Szaunamester Corvin,corvin
+Vasárnap,2024-12-15,TRX köredzés,16:30-17:30,Ajanidisz Teodóra,corvin
+Vasárnap,2024-12-15,Szauna felöntés,16:50-17:10,Szaunamester Corvin,corvin
+Hétfő,2024-12-09,Dinamikus gerinctorna,17:00-18:00,Kocsis Kata,corvin
+Hétfő,2024-12-09,Gerinctorna+stretching.,17:15-18:15,Kovács Laura,corvin
+Hétfő,2024-12-09,Indoor Cycling ICG,17:30-18:30,Viczián Gyöngyi,corvin
+Hétfő,2024-12-09,TRX köredzés,17:30-18:30,Gyurkovics Anikó,corvin
+Kedd,2024-12-10,DEEPWORK ,17:00-18:00,Erdélyi Annamari,corvin
+Kedd,2024-12-10,Hatha jóga.,17:15-18:15,Vörös Alexandra ,corvin
+Kedd,2024-12-10,Intervall Cycling  ICG,17:30-18:30,Kilin Tomi,corvin
+Kedd,2024-12-10,TRX köredzés,17:30-18:30,Kovács Laura,corvin
+Szerda,2024-12-11,Dinamikus gerinctorna,17:00-18:00,Kocsis Kata,corvin
+Szerda,2024-12-11,Gerinctorna+stretching.,17:15-18:15,Kovács Laura,corvin
+Szerda,2024-12-11,Cross Training,17:30-18:30,Sas Eszter,corvin
+Szerda,2024-12-11,Indoor Cycling ICG,17:30-18:30,Viczián Gyöngyi,corvin
+Csütörtök,2024-12-12,Zsírégető,17:00-18:00,Majoros Anikó,corvin
+Csütörtök,2024-12-12,Hatha jóga,17:15-18:15,Vörös Alexandra ,corvin
+Csütörtök,2024-12-12,Cross Training,17:30-18:30,Kovács Laura,corvin
+Csütörtök,2024-12-12,Intervall Cycling  ICG,17:30-18:30,Kilin Tomi,corvin
+Péntek,2024-12-13,Kangoo,17:00-18:00,Gyurkovics Anikó,corvin
+Péntek,2024-12-13,Pilates.,17:15-18:15,Némethy Panna ,corvin
+Péntek,2024-12-13,Funkcionális köredzés,17:30-18:30,Ajanidisz Teodóra,corvin
+Péntek,2024-12-13,Indoor Cycling ICG,17:30-18:30,Viczián Gyöngyi,corvin
+Szombat,2024-12-14,Funkcionális köredzés,17:00-18:00,Kiss Evelin,corvin
+Szombat,2024-12-14,Stretching,17:00-18:00,Kocsis Kata,corvin
+Vasárnap,2024-12-15,Alakformáló,17:00-18:00,Majoros Anikó,corvin
+Vasárnap,2024-12-15,Funkcionális köredzés,17:30-18:30,Ajanidisz Teodóra,corvin
+Vasárnap,2024-12-15,Szauna felöntés,17:40-18:00,Szaunamester Corvin,corvin
+Hétfő,2024-12-09,Alakformáló,18:00-19:00,Czigány Betti,corvin
+Hétfő,2024-12-09,Pilates.,18:15-19:15,Kocsis Kata,corvin
+Hétfő,2024-12-09,Cross Training,18:30-19:30,Kovács Laura,corvin
+Hétfő,2024-12-09,Indoor Cycling ICG,18:30-19:30,Viczián Gyöngyi,corvin
+Kedd,2024-12-10,Full kondi,18:00-19:00,Erdélyi Annamari,corvin
+Kedd,2024-12-10,Pilates,18:15-19:15,Majoros Anikó,corvin
+Kedd,2024-12-10,Cross Training,18:30-19:30,Kovács Laura,corvin
+Kedd,2024-12-10,Indoor Cycling ICG,18:30-19:30,Kilin Tomi,corvin
+Szerda,2024-12-11,Alakformáló,18:00-19:00,Czigány Betti,corvin
+Szerda,2024-12-11,Pilates.,18:15-19:15,Kocsis Kata,corvin
+Szerda,2024-12-11,Indoor Cycling ICG,18:30-19:30,Dicső Inez,corvin
+Szerda,2024-12-11,TRX köredzés,18:30-19:30,Sas Eszter,corvin
+Csütörtök,2024-12-12,Full kondi,18:00-19:00,Hodosi Tamás,corvin
+Csütörtök,2024-12-12,Pilates,18:15-19:15,Majoros Anikó,corvin
+Csütörtök,2024-12-12,Hot Iron Cross,18:30-19:30,Molnár Dani,corvin
+Csütörtök,2024-12-12,Indoor Cycling ICG,18:30-19:30,Kilin Tomi,corvin
+Péntek,2024-12-13,Alakformáló,18:00-19:00,Gyurkovics Anikó,corvin
+Péntek,2024-12-13,Hatha jóga,18:15-19:15,Vörös Alexandra ,corvin
+Péntek,2024-12-13,Cross Training,18:30-19:30,Ajanidisz Teodóra,corvin
+Péntek,2024-12-13,Indoor Cycling ICG,18:30-19:30,Szőcs Gabi,corvin
+Szombat,2024-12-14,Dance Aerobik,18:00-19:00,Kiss Evelin,corvin
+Szombat,2024-12-14,Indoor Cycling ICG,18:00-19:00,Molnár Tibor ,corvin
+Vasárnap,2024-12-15,Pilates,18:00-19:00,Majoros Anikó,corvin
+Vasárnap,2024-12-15,Szauna felöntés,18:30-18:50,Szaunamester Corvin,corvin
+Hétfő,2024-12-09,Kangoo,19:00-20:00,Gyurkovics Anikó,corvin
+Hétfő,2024-12-09,Gerinctorna+stretching.,19:15-20:15,Paulovics Adrienn,corvin
+Hétfő,2024-12-09,Hot Iron Cross,19:30-20:30,Radácsy Petra,corvin
+Hétfő,2024-12-09,Indoor Cycling ICG,19:30-20:30,Viczián Gyöngyi,corvin
+Kedd,2024-12-10,Party Fitnesz,19:00-20:00,Lőrincz Ernő,corvin
+Kedd,2024-12-10,BODYART,19:15-20:15,Nyőgér Ági,corvin
+Kedd,2024-12-10,Indoor Cycling ICG,19:30-20:30,Molnár Tibor ,corvin
+Kedd,2024-12-10,TRX köredzés,19:30-20:30,Majoros Anikó,corvin
+Szerda,2024-12-11,Kangoo,19:00-20:00,Gyurkovics Anikó,corvin
+Szerda,2024-12-11,Gerinctorna+stretching.,19:15-20:15,Paulovics Adrienn,corvin
+Szerda,2024-12-11,Hot Iron II,19:30-20:30,Radácsy Petra,corvin
+Szerda,2024-12-11,Indoor Cycling ICG,19:30-20:30,Viczián Gyöngyi,corvin
+Csütörtök,2024-12-12,Alakformáló,19:00-20:00,Lőrincz Ernő,corvin
+Csütörtök,2024-12-12,BODYART,19:15-20:15,Nyőgér Ági,corvin
+Csütörtök,2024-12-12,Indoor Cycling ICG,19:30-20:30,Molnár Tibor ,corvin
+Csütörtök,2024-12-12,TRX köredzés,19:30-21:00,Majoros Anikó,corvin
+Péntek,2024-12-13,Salsa Fitness,19:00-20:00,Osvaldo,corvin
+Péntek,2024-12-13,Stretching.,19:30-20:30,Gyurkovics Anikó,corvin
+Hétfő,2024-12-09,Alakformáló,20:00-21:00,Gyurkovics Anikó,corvin
+Kedd,2024-12-10,SMR Stretching,20:30-21:30,Majoros Anikó,corvin
+Szerda,2024-12-11,Alakformáló,20:00-21:00,Gyurkovics Anikó,corvin
+Csütörtök,2024-12-12,Cardio Kick-box,20:00-21:00,Kalamár Eszter,corvin
+Hétfő,2024-12-16,TRX köredzés,06:30-07:30,Ujvári Cili,corvin
+Szerda,2024-12-18,TRX köredzés,06:30-07:30,Ujvári Cili,corvin
+Péntek,2024-12-20,TRX köredzés,06:30-07:30,Ujvári Cili,corvin
+Hétfő,2024-12-16,Indoor Cycling ICG,07:00-08:00,Adamkó Szilvi,corvin
+Hétfő,2024-12-16,Cross Training,07:30-08:30,Kovács Laura,corvin
+Kedd,2024-12-17,Funkcionális köredzés,07:00-08:00,Fogasy Fatime,corvin
+Kedd,2024-12-17,Gerinctorna.,07:00-08:00,Kocsis Kata,corvin
+Kedd,2024-12-17,Indoor Cycling ICG,07:00-08:00,Sas Eszter,corvin
+Szerda,2024-12-18,Alakformáló,07:00-08:00,Hankó Nóri,corvin
+Szerda,2024-12-18,Indoor Cycling ICG,07:00-08:00,Adamkó Szilvi,corvin
+Szerda,2024-12-18,Funkcionális köredzés,07:30-08:30,Kovács Laura,corvin
+Csütörtök,2024-12-19,Funkcionális köredzés,07:00-08:00,Fogasy Fatime,corvin
+Csütörtök,2024-12-19,Gerinctorna.,07:00-08:00,Adamkó Szilvi,corvin
+Csütörtök,2024-12-19,Indoor Cycling ICG,07:00-08:00,Sas Eszter,corvin
+Péntek,2024-12-20,Alakformáló,07:00-08:00,Hankó Nóri,corvin
+Péntek,2024-12-20,Gerinctorna+stretching.,07:00-08:00,Kocsis Kata,corvin
+Péntek,2024-12-20,Indoor Cycling ICG,07:00-08:00,Sas Eszter,corvin
+Péntek,2024-12-20,Funkcionális köredzés,07:30-08:30,Kovács Laura,corvin
+Hétfő,2024-12-16,Pilates,08:00-09:00,Tornai Piroska,corvin
+Kedd,2024-12-17,Pilates&stretching,08:00-09:00,Kocsis Kata,corvin
+Szerda,2024-12-18,Pilates,08:00-09:00,Tornai Piroska,corvin
+Hétfő,2024-12-16,Alakformáló,09:00-10:00,Kovács Laura,corvin
+Kedd,2024-12-17,Cross Training,09:30-10:30,Sas Eszter,corvin
+Szerda,2024-12-18,Alakformáló,09:00-10:00,Kovács Laura,corvin
+Csütörtök,2024-12-19,Cross Training,09:30-10:30,Sas Eszter,corvin
+Péntek,2024-12-20,Alakformáló,09:00-10:00,Kovács Laura,corvin
+Péntek,2024-12-20,Indoor Cycling ICG,09:00-10:00,Csonka Anita ,corvin
+Szombat,2024-12-21,Alakformáló,09:00-10:00,Paulovics Adrienn,corvin
+Szombat,2024-12-21,Hatha jóga,09:00-10:00,Vörös Alexandra ,corvin
+Szombat,2024-12-21,Kezdő dance step,09:30-10:30,Csonka Anita ,corvin
+Vasárnap,2024-12-22,Cross Training,09:30-10:30,Sas Eszter,corvin
+Hétfő,2024-12-16,Stretching.,10:00-11:00,Kovács Laura,corvin
+Kedd,2024-12-17,Jóga,10:00-11:00,Csonka Anita ,corvin
+Kedd,2024-12-17,Zsírégető,10:00-11:00,Gyurkovics Anikó,corvin
+Szerda,2024-12-18,Stretching.,10:00-11:00,Kovács Laura,corvin
+Csütörtök,2024-12-19,Zsírégető,10:00-11:00,Gyurkovics Anikó,corvin
+Péntek,2024-12-20,Jóga,10:00-11:00,Csonka Anita ,corvin
+Péntek,2024-12-20,Cross Training,10:30-11:30,Sas Eszter,corvin
+Szombat,2024-12-21,Gerinctorna,10:00-11:00,Paulovics Adrienn,corvin
+Szombat,2024-12-21,Cross Training,10:30-11:45,Szőcs Gabi,corvin
+Vasárnap,2024-12-22,Alakformáló,10:00-11:00,Gyurkovics Anikó,corvin
+Vasárnap,2024-12-22,Hot Iron II,10:30-11:30,Molnár Dani,corvin
+Vasárnap,2024-12-22,Indoor Cycling ICG,10:30-11:30,Sas Eszter,corvin
+Hétfő,2024-12-16,Giryafit,11:00-12:00,Sas Eszter,corvin
+Kedd,2024-12-17,Stretching.,11:00-12:00,Gyurkovics Anikó,corvin
+Szerda,2024-12-18,Giryafit,11:00-12:00,Sas Eszter,corvin
+Csütörtök,2024-12-19,Stretching.,11:00-12:00,Gyurkovics Anikó,corvin
+Szombat,2024-12-21,Cardio Kick-box,11:00-12:30,Kalamár Eszter,corvin
+Szombat,2024-12-21,Indoor Cycling ICG,11:00-12:00,Viczián Gyöngyi,corvin
+Vasárnap,2024-12-22,Kangoo,11:00-12:30,Gyurkovics Anikó,corvin
+Hétfő,2024-12-16,Cardio Kick-box,12:00-13:00,Kalamár Eszter,corvin
+Hétfő,2024-12-16,TRX,12:30-13:30,Sas Eszter,corvin
+Kedd,2024-12-17,Funkcionális köredzés,12:00-13:00,Csényi Fanni,corvin
+Kedd,2024-12-17,Indoor Cycling ICG,12:00-13:00,Adamkó Szilvi,corvin
+Kedd,2024-12-17,Kangoo,12:00-13:00,Gyurkovics Anikó,corvin
+Szerda,2024-12-18,Cross Training,12:00-13:00,Sas Eszter,corvin
+Szerda,2024-12-18,Pilates.,12:00-13:00,Némethy Panna ,corvin
+Csütörtök,2024-12-19,Funkcionális köredzés,12:00-13:00,Csényi Fanni,corvin
+Csütörtök,2024-12-19,Indoor Cycling ICG,12:00-13:00,Adamkó Szilvi,corvin
+Csütörtök,2024-12-19,Kangoo,12:00-13:00,Gyurkovics Anikó,corvin
+Péntek,2024-12-20,Pilates.,12:00-13:00,Némethy Panna ,corvin
+Szombat,2024-12-21,Indoor Cycling ICG,12:00-13:00,Viczián Gyöngyi,corvin
+Vasárnap,2024-12-22,Jóga.,12:00-13:00,Palkó Roberta,corvin
+Péntek,2024-12-20,TRX köredzés,15:00-16:00,Némethy Panna ,corvin
+Hétfő,2024-12-16,Zsírégető,16:00-17:00,Kovács Laura,corvin
+Hétfő,2024-12-16,Kezdő funkcionális köredzés ,16:30-17:30,Oli Renáta,corvin
+Kedd,2024-12-17,Cardio kick- boksz,16:30-17:30,Kalamár Eszter,corvin
+Szerda,2024-12-18,Zsírégető,16:00-17:00,Kovács Laura,corvin
+Szerda,2024-12-18,Funkcionális step,16:30-17:30,Kalamár Eszter,corvin
+Csütörtök,2024-12-19,Indoor Cycling ICG,16:30-17:30,Dicső Inez,corvin
+Csütörtök,2024-12-19,TRX köredzés,16:30-17:30,Kovács Laura,corvin
+Péntek,2024-12-20,Zsírégető,16:00-17:00,Némethy Panna ,corvin
+Péntek,2024-12-20,Funkcionális step,16:30-17:30,Kalamár Eszter,corvin
+Péntek,2024-12-20,Indoor Cycling ICG,16:30-17:30,Viczián Gyöngyi,corvin
+Szombat,2024-12-21,Pilates,16:00-17:00,Kocsis Kata,corvin
+Vasárnap,2024-12-22,Salsa Fitness,16:00-17:00,Osvaldo,corvin
+Vasárnap,2024-12-22,Szauna felöntés,16:00-16:20,Szaunamester Corvin,corvin
+Vasárnap,2024-12-22,TRX köredzés,16:30-17:30,Ajanidisz Teodóra,corvin
+Vasárnap,2024-12-22,Szauna felöntés,16:50-17:10,Szaunamester Corvin,corvin
+Hétfő,2024-12-16,Dinamikus gerinctorna,17:00-18:00,Kocsis Kata,corvin
+Hétfő,2024-12-16,Gerinctorna+stretching.,17:15-18:15,Kovács Laura,corvin
+Hétfő,2024-12-16,Indoor Cycling ICG,17:30-18:30,Dicső Inez,corvin
+Hétfő,2024-12-16,TRX köredzés,17:30-18:30,Gyurkovics Anikó,corvin
+Kedd,2024-12-17,Zsírégető,17:00-18:00,Majoros Anikó,corvin
+Kedd,2024-12-17,Hatha jóga.,17:15-18:15,Vörös Alexandra ,corvin
+Kedd,2024-12-17,Intervall Cycling  ICG,17:30-18:30,Kilin Tomi,corvin
+Kedd,2024-12-17,TRX köredzés,17:30-18:30,Kovács Laura,corvin
+Szerda,2024-12-18,Dinamikus gerinctorna,17:00-18:00,Kocsis Kata,corvin
+Szerda,2024-12-18,Gerinctorna+stretching.,17:15-18:15,Kovács Laura,corvin
+Szerda,2024-12-18,Cross Training,17:30-18:30,Sas Eszter,corvin
+Szerda,2024-12-18,Indoor Cycling ICG,17:30-18:30,Viczián Gyöngyi,corvin
+Csütörtök,2024-12-19,Zsírégető,17:00-18:00,Majoros Anikó,corvin
+Csütörtök,2024-12-19,Hatha jóga,17:15-18:15,Vörös Alexandra ,corvin
+Csütörtök,2024-12-19,Cross Training,17:30-18:30,Kovács Laura,corvin
+Csütörtök,2024-12-19,Intervall Cycling  ICG,17:30-18:30,Molnár Tibor ,corvin
+Péntek,2024-12-20,Kangoo,17:00-18:00,Gyurkovics Anikó,corvin
+Péntek,2024-12-20,Pilates.,17:15-18:15,Némethy Panna ,corvin
+Péntek,2024-12-20,Funkcionális köredzés,17:30-18:30,Ajanidisz Teodóra,corvin
+Péntek,2024-12-20,Indoor Cycling ICG,17:30-18:30,Viczián Gyöngyi,corvin
+Szombat,2024-12-21,Funkcionális köredzés,17:00-18:00,Kiss Evelin,corvin
+Szombat,2024-12-21,Stretching,17:00-18:00,Kocsis Kata,corvin
+Vasárnap,2024-12-22,Alakformáló,17:00-18:00,Majoros Anikó,corvin
+Vasárnap,2024-12-22,Funkcionális köredzés,17:30-18:30,Ajanidisz Teodóra,corvin
+Vasárnap,2024-12-22,Szauna felöntés,17:40-18:00,Szaunamester Corvin,corvin
+Hétfő,2024-12-16,Alakformáló,18:00-19:00,Czigány Betti,corvin
+Hétfő,2024-12-16,Pilates.,18:15-19:15,Kocsis Kata,corvin
+Hétfő,2024-12-16,Cross Training,18:30-19:30,Kaszás Lilla,corvin
+Hétfő,2024-12-16,Indoor Cycling ICG,18:30-19:30,Dicső Inez,corvin
+Kedd,2024-12-17,Full kondi,18:00-19:00,Hodosi Tamás,corvin
+Kedd,2024-12-17,Pilates,18:15-19:15,Majoros Anikó,corvin
+Kedd,2024-12-17,Cross Training,18:30-19:30,Kovács Laura,corvin
+Kedd,2024-12-17,Indoor Cycling ICG,18:30-19:30,Kilin Tomi,corvin
+Szerda,2024-12-18,Alakformáló,18:00-19:00,Czigány Betti,corvin
+Szerda,2024-12-18,Pilates.,18:15-19:15,Kocsis Kata,corvin
+Szerda,2024-12-18,Indoor Cycling ICG,18:30-19:30,Dicső Inez,corvin
+Szerda,2024-12-18,TRX köredzés,18:30-19:30,Sas Eszter,corvin
+Csütörtök,2024-12-19,Full kondi,18:00-19:00,Hodosi Tamás,corvin
+Csütörtök,2024-12-19,Pilates,18:15-19:15,Majoros Anikó,corvin
+Csütörtök,2024-12-19,Hot Iron Cross,18:30-19:30,Molnár Dani,corvin
+Csütörtök,2024-12-19,Indoor Cycling ICG,18:30-19:30,Molnár Tibor ,corvin
+Péntek,2024-12-20,Alakformáló,18:00-19:00,Gyurkovics Anikó,corvin
+Péntek,2024-12-20,Hatha jóga,18:15-19:15,Vörös Alexandra ,corvin
+Péntek,2024-12-20,Cross Training,18:30-19:30,Ajanidisz Teodóra,corvin
+Péntek,2024-12-20,Indoor Cycling ICG,18:30-19:30,Szőcs Gabi,corvin
+Szombat,2024-12-21,Dance Aerobik,18:00-19:00,Kiss Evelin,corvin
+Szombat,2024-12-21,Indoor Cycling ICG,18:00-19:00,Molnár Tibor ,corvin
+Vasárnap,2024-12-22,Pilates,18:00-19:15,Majoros Anikó,corvin
+Vasárnap,2024-12-22,Szauna felöntés,18:30-18:50,Szaunamester Corvin,corvin
+Hétfő,2024-12-16,Kangoo,19:00-20:00,Gyurkovics Anikó,corvin
+Hétfő,2024-12-16,Gerinctorna+stretching.,19:15-20:15,Paulovics Adrienn,corvin
+Hétfő,2024-12-16,Hot Iron Cross,19:30-20:30,Radácsy Petra,corvin
+Hétfő,2024-12-16,Indoor Cycling ICG,19:30-20:30,Viczián Gyöngyi,corvin
+Kedd,2024-12-17,Party Fitnesz,19:00-20:00,Lőrincz Ernő,corvin
+Kedd,2024-12-17,BODYART,19:15-20:15,Nyőgér Ági,corvin
+Kedd,2024-12-17,Indoor Cycling ICG,19:30-20:30,Molnár Tibor ,corvin
+Kedd,2024-12-17,TRX köredzés,19:30-20:30,Majoros Anikó,corvin
+Szerda,2024-12-18,Kangoo,19:00-20:00,Gyurkovics Anikó,corvin
+Szerda,2024-12-18,Gerinctorna+stretching.,19:15-20:15,Paulovics Adrienn,corvin
+Szerda,2024-12-18,Hot Iron II,19:30-20:30,Radácsy Petra,corvin
+Szerda,2024-12-18,Indoor Cycling ICG,19:30-20:30,Viczián Gyöngyi,corvin
+Csütörtök,2024-12-19,Alakformáló,19:00-20:00,Lőrincz Ernő,corvin
+Csütörtök,2024-12-19,BODYART,19:15-20:15,Nyőgér Ági,corvin
+Csütörtök,2024-12-19,Indoor Cycling ICG,19:30-20:30,Molnár Tibor ,corvin
+Csütörtök,2024-12-19,TRX köredzés,19:30-21:00,Majoros Anikó,corvin
+Péntek,2024-12-20,Salsa Fitness,19:00-20:00,Osvaldo,corvin
+Péntek,2024-12-20,Stretching.,19:30-20:30,Gyurkovics Anikó,corvin
+Hétfő,2024-12-16,Alakformáló,20:00-21:00,Gyurkovics Anikó,corvin
+Kedd,2024-12-17,SMR Stretching,20:30-21:30,Majoros Anikó,corvin
+Szerda,2024-12-18,Alakformáló,20:00-21:00,Gyurkovics Anikó,corvin
+Csütörtök,2024-12-19,Cardio Kick-box,20:00-21:00,Kalamár Eszter,corvin
+Hétfő,2024-12-09,Funkcionális köredzés,06:30-07:30,Rubint Dorka,springday
+Szerda,2024-12-11,Funkcionális köredzés,06:30-07:30,Rubint Dorka,springday
+Péntek,2024-12-13,Funkcionális köredzés,06:30-07:30,Rubint Dorka,springday
+Kedd,2024-12-10,TRX köredzés,07:00-08:00,Trankó Ida ,springday
+Szerda,2024-12-11,BODYART,07:45-08:45,Gergye Laura ,springday
+Csütörtök,2024-12-12,TRX köredzés,07:00-08:00,Trankó Ida ,springday
+Péntek,2024-12-13,BODYART,07:45-08:45,Gergye Laura ,springday
+Hétfő,2024-12-09,Aquafitness,08:30-09:15,Rubint Dorka,springday
+Kedd,2024-12-10,Gerinctorna,08:00-09:00,Kalló Zsuzsa ,springday
+Szerda,2024-12-11,Gerinctorna,08:00-09:00,Grúz Szabina ,springday
+Szerda,2024-12-11,Aquafitness,08:30-09:15,Tihanyi Ákos ,springday
+Csütörtök,2024-12-12,Gerinctorna,08:00-09:00,Kalló Zsuzsa ,springday
+Péntek,2024-12-13,Gerinctorna,08:00-09:00,Kalló Zsuzsa ,springday
+Hétfő,2024-12-09,Pilates,09:00-10:00,Völgyes Flávia,springday
+Hétfő,2024-12-09,Aquafitness,09:15-10:00,Rubint Dorka,springday
+Kedd,2024-12-10,Pilates gerinc,09:00-10:00,Párdi Erika ,springday
+Kedd,2024-12-10,Aquafitness,09:15-10:00,Kalló Zsuzsa ,springday
+Szerda,2024-12-11,Spinning,09:00-10:00,Gergye Laura ,springday
+Szerda,2024-12-11,Aquafitness,09:15-10:00,Andris Anita ,springday
+Csütörtök,2024-12-12,Pilates,09:00-10:00,Párdi Erika ,springday
+Csütörtök,2024-12-12,Aquafitness,09:15-10:00,Kalló Zsuzsa ,springday
+Péntek,2024-12-13,Spinning,09:00-10:00,Gergye Laura ,springday
+Péntek,2024-12-13,Zsírégető,09:00-10:00,Ugróczi Móni ,springday
+Péntek,2024-12-13,Aquafitness,09:15-10:00,Andris Anita ,springday
+Péntek,2024-12-13,Pilates gerinc.,09:15-10:15,Párdi Erika ,springday
+Szombat,2024-12-14,Aquafitness,09:00-09:45,Kalló Zsuzsa ,springday
+Szombat,2024-12-14,Zsírégető,09:00-10:00,Ugróczi Móni ,springday
+Vasárnap,2024-12-15,Alakformáló,09:30-10:30,Hodosi Tamás,springday
+Hétfő,2024-12-09,Alakformáló,10:00-11:00,Ugróczi Móni ,springday
+Hétfő,2024-12-09,Baba-mama torna,10:00-11:00,Kalló Zsuzsa ,springday
+Kedd,2024-12-10,Aquabike,10:00-10:45,Kalló Zsuzsa ,springday
+Kedd,2024-12-10,Stretching.,10:15-11:15,Párdi Erika ,springday
+Szerda,2024-12-11,Hot Iron,10:00-11:00,Andris Anita ,springday
+Szerda,2024-12-11,Pilates,10:00-11:00,Völgyes Flávia,springday
+Csütörtök,2024-12-12,Aquabike,10:00-10:45,Kalló Zsuzsa ,springday
+Csütörtök,2024-12-12,Stretching.,10:15-11:15,Párdi Erika ,springday
+Péntek,2024-12-13,Aquafitness,10:00-10:45,Tihanyi Ákos ,springday
+Péntek,2024-12-13,Hot Iron,10:00-11:00,Andris Anita ,springday
+Péntek,2024-12-13,Hatha jóga,10:15-11:15,Párdi Erika ,springday
+Szombat,2024-12-14,Alakformáló,10:00-11:00,Ugróczi Móni ,springday
+Szombat,2024-12-14,Spinning,10:00-11:00,Takács Henriett,springday
+Vasárnap,2024-12-15,Core training,10:30-11:30,Juhász Bianka ,springday
+Vasárnap,2024-12-15,Funkcionális köredzés,10:30-11:30,Hodosi Tamás,springday
+Szerda,2024-12-11,Baba-mama torna,11:00-12:00,Kalló Zsuzsa ,springday
+Vasárnap,2024-12-15,Stretching,11:30-12:30,Juhász Bianka ,springday
+Hétfő,2024-12-09,Kezdő funkcionális köredzés ,16:30-17:30,Széles Natália,springday
+Szerda,2024-12-11,Kezdő funkcionális köredzés ,16:30-17:30,Széles Natália,springday
+Péntek,2024-12-13,Zsírégető,16:00-17:00,Szabó Csenge,springday
+Péntek,2024-12-13,Pilates.,16:15-17:15,Kovács Rózsa ,springday
+Péntek,2024-12-13,TRX köredzés,16:30-17:30,Széles Natália,springday
+Szombat,2024-12-14,Funkcionális köredzés,16:00-17:00,Széles Natália,springday
+Vasárnap,2024-12-15,Szauna felöntés,16:00-16:20,Szaunamester ,springday
+Vasárnap,2024-12-15,Szauna felöntés,16:50-17:10,Szaunamester ,springday
+Hétfő,2024-12-09,Alakformáló,17:00-18:00,Kabai Petra,springday
+Hétfő,2024-12-09,Spinning,17:30-18:30,Milovecz Tünde,springday
+Hétfő,2024-12-09,TRX köredzés,17:30-18:30,Széles Natália,springday
+Kedd,2024-12-10,Aquafitness,17:00-17:45,Andris Anita ,springday
+Kedd,2024-12-10,Zsírégető,17:00-18:00,Ugróczi Móni ,springday
+Kedd,2024-12-10,Core training.,17:15-18:15,Juhász Bianka ,springday
+Kedd,2024-12-10,Funkcionális köredzés,17:30-18:30,Gerencsér Ágnes,springday
+Szerda,2024-12-11,Alakformáló,17:00-18:00,Kabai Petra,springday
+Szerda,2024-12-11,Szauna felöntés,17:00-17:20,Szaunamester ,springday
+Szerda,2024-12-11,DEEPWORK ,17:15-18:15,Gergye Laura ,springday
+Szerda,2024-12-11,Spinning,17:30-18:30,Milovecz Tünde,springday
+Szerda,2024-12-11,TRX köredzés,17:30-18:30,Széles Natália,springday
+Szerda,2024-12-11,Szauna felöntés,17:50-18:10,Szaunamester ,springday
+Csütörtök,2024-12-12,Aquafitness,17:00-17:45,Andris Anita ,springday
+Csütörtök,2024-12-12,Zsírégető,17:00-18:00,Ugróczi Móni ,springday
+Csütörtök,2024-12-12,Core training. ,17:15-18:15,Hesztera Dóra,springday
+Csütörtök,2024-12-12,Funkcionális köredzés,17:30-18:30,Tihanyi Ákos ,springday
+Péntek,2024-12-13,Alakformáló,17:00-18:00,Szabó Csenge,springday
+Péntek,2024-12-13,Szauna felöntés,17:00-17:20,Szaunamester ,springday
+Péntek,2024-12-13,Hatha jóga,17:15-18:15,Kovács Rózsa ,springday
+Péntek,2024-12-13,Cross Training,17:30-18:30,Széles Natália,springday
+Péntek,2024-12-13,Szauna felöntés,17:50-18:10,Szaunamester ,springday
+Vasárnap,2024-12-15,Pilates.,17:15-18:15,Kovács Rózsa ,springday
+Vasárnap,2024-12-15,Szauna felöntés,17:40-18:00,Szaunamester ,springday
+Hétfő,2024-12-09,Kangoo,18:00-19:00,Kabai Petra,springday
+Hétfő,2024-12-09,Pilates gerinc.,18:15-19:15,Párdi Erika ,springday
+Hétfő,2024-12-09,Cross Training,18:30-19:30,Trankó Ida ,springday
+Hétfő,2024-12-09,Spinning,18:30-19:30,Tücsi S. Márti,springday
+Kedd,2024-12-10,Hot Iron,18:00-19:00,Andris Anita ,springday
+Kedd,2024-12-10,Stretching.,18:15-19:15,Juhász Bianka ,springday
+Kedd,2024-12-10,Cross Training,18:30-19:30,Gerencsér Ágnes,springday
+Szerda,2024-12-11,Kangoo,18:00-19:00,Kabai Petra,springday
+Szerda,2024-12-11,Pilates gerinc,18:15-19:15,Párdi Erika ,springday
+Szerda,2024-12-11,Cross Training,18:30-19:30,Trankó Ida ,springday
+Szerda,2024-12-11,Spinning,18:30-19:30,Gergye Laura ,springday
+Szerda,2024-12-11,Szauna felöntés,18:40-19:00,Szaunamester ,springday
+Csütörtök,2024-12-12,Hot Iron,18:00-19:00,Andris Anita ,springday
+Csütörtök,2024-12-12,Spinning,18:00-19:00,Tücsi S. Márti,springday
+Csütörtök,2024-12-12,Stretching.,18:15-19:15,Hesztera Dóra,springday
+Csütörtök,2024-12-12,Cross Training,18:30-19:30,Tihanyi Ákos ,springday
+Péntek,2024-12-13,Basic dance,18:00-19:00,Ugróczi Móni ,springday
+Péntek,2024-12-13,Kick-box köredzés,18:30-20:30,Kalamár Eszter,springday
+Péntek,2024-12-13,Szauna felöntés,18:40-19:00,Szaunamester ,springday
+Vasárnap,2024-12-15,Alakformáló,18:00-19:00,Kis Zsófi,springday
+Vasárnap,2024-12-15,Hatha jóga,18:15-19:15,Kovács Rózsa ,springday
+Vasárnap,2024-12-15,Szauna felöntés,18:30-18:50,Szaunamester ,springday
+Hétfő,2024-12-09,Kick Box Aerobic,19:00-20:00,Gárdus Bence,springday
+Hétfő,2024-12-09,Hatha jóga,19:15-20:15,Párdi Erika ,springday
+Hétfő,2024-12-09,Box köredzés,19:30-20:30,Tar Edit,springday
+Kedd,2024-12-10,Pilates.,19:15-20:15,Kocsis Kata,springday
+Szerda,2024-12-11,Kick Box Aerobic,19:00-20:00,Gárdus Bence,springday
+Szerda,2024-12-11,Hatha jóga,19:15-20:15,Párdi Erika ,springday
+Szerda,2024-12-11,Box köredzés,19:30-20:30,Tar Edit,springday
+Szerda,2024-12-11,Szauna felöntés,19:30-19:50,Szaunamester ,springday
+Csütörtök,2024-12-12,Pilates.,19:15-20:15,Kocsis Kata,springday
+Péntek,2024-12-13,Stretching,19:00-20:00,Ugróczi Móni ,springday
+Péntek,2024-12-13,Szauna felöntés,19:30-19:50,Szaunamester ,springday
+Hétfő,2024-12-09,Mobility,20:00-21:00,Gárdus Bence,springday
+Szerda,2024-12-11,Mobility,20:00-21:00,Gárdus Bence,springday
+Hétfő,2024-12-16,Funkcionális köredzés,06:30-07:30,Rubint Dorka,springday
+Szerda,2024-12-18,Funkcionális köredzés,06:30-07:30,Rubint Dorka,springday
+Péntek,2024-12-20,Funkcionális köredzés,06:30-07:30,Rubint Dorka,springday
+Hétfő,2024-12-16,BODYART,07:45-08:45,Gergye Laura ,springday
+Kedd,2024-12-17,TRX köredzés,07:00-08:00,Trankó Ida ,springday
+Szerda,2024-12-18,BODYART,07:45-08:45,Gergye Laura ,springday
+Csütörtök,2024-12-19,TRX köredzés,07:00-08:00,Trankó Ida ,springday
+Péntek,2024-12-20,BODYART,07:45-08:45,Gergye Laura ,springday
+Hétfő,2024-12-16,Aquafitness,08:30-09:15,Tihanyi Ákos ,springday
+Kedd,2024-12-17,Gerinctorna,08:00-09:00,Kalló Zsuzsa ,springday
+Szerda,2024-12-18,Gerinctorna,08:00-09:00,Grúz Szabina ,springday
+Szerda,2024-12-18,Aquafitness,08:30-09:15,Tihanyi Ákos ,springday
+Csütörtök,2024-12-19,Gerinctorna,08:00-09:00,Kalló Zsuzsa ,springday
+Péntek,2024-12-20,Gerinctorna,08:00-09:00,Kalló Zsuzsa ,springday
+Hétfő,2024-12-16,Pilates,09:00-10:00,Völgyes Flávia,springday
+Hétfő,2024-12-16,Spinning,09:00-10:00,Gergye Laura ,springday
+Hétfő,2024-12-16,Aquafitness,09:15-10:00,Tihanyi Ákos ,springday
+Kedd,2024-12-17,Pilates gerinc,09:00-10:00,Párdi Erika ,springday
+Kedd,2024-12-17,Aquafitness,09:15-10:00,Kalló Zsuzsa ,springday
+Szerda,2024-12-18,Fittball,09:00-10:00,Grúz Szabina ,springday
+Szerda,2024-12-18,Spinning,09:00-10:00,Gergye Laura ,springday
+Szerda,2024-12-18,Aquafitness,09:15-10:00,Andris Anita ,springday
+Csütörtök,2024-12-19,Pilates,09:00-10:00,Párdi Erika ,springday
+Csütörtök,2024-12-19,Aquafitness,09:15-10:00,Kalló Zsuzsa ,springday
+Péntek,2024-12-20,Spinning,09:00-10:00,Gergye Laura ,springday
+Péntek,2024-12-20,Zsírégető,09:00-10:00,Ugróczi Móni ,springday
+Péntek,2024-12-20,Aquafitness,09:15-10:00,Andris Anita ,springday
+Péntek,2024-12-20,Pilates gerinc.,09:15-10:15,Párdi Erika ,springday
+Szombat,2024-12-21,Zsírégető,09:00-10:00,Ugróczi Móni ,springday
+Vasárnap,2024-12-22,Alakformáló,09:30-10:30,Hodosi Tamás,springday
+Hétfő,2024-12-16,Alakformáló,10:00-11:00,Ugróczi Móni ,springday
+Hétfő,2024-12-16,Baba-mama torna,10:00-11:00,Kalló Zsuzsa ,springday
+Kedd,2024-12-17,Aquabike,10:00-10:45,Kalló Zsuzsa ,springday
+Kedd,2024-12-17,Stretching.,10:15-11:15,Párdi Erika ,springday
+Szerda,2024-12-18,Hot Iron,10:00-11:00,Andris Anita ,springday
+Szerda,2024-12-18,Pilates,10:00-11:00,Völgyes Flávia,springday
+Csütörtök,2024-12-19,Aquabike,10:00-10:45,Kalló Zsuzsa ,springday
+Csütörtök,2024-12-19,Stretching.,10:15-11:15,Párdi Erika ,springday
+Péntek,2024-12-20,Aquafitness,10:00-10:45,Tihanyi Ákos ,springday
+Péntek,2024-12-20,Hot Iron,10:00-11:00,Andris Anita ,springday
+Péntek,2024-12-20,Hatha jóga,10:15-11:15,Párdi Erika ,springday
+Szombat,2024-12-21,Alakformáló,10:00-11:00,Ugróczi Móni ,springday
+Szombat,2024-12-21,Spinning,10:00-11:00,Takács Henriett,springday
+Vasárnap,2024-12-22,Core training,10:30-11:30,Juhász Bianka ,springday
+Vasárnap,2024-12-22,Funkcionális köredzés,10:30-11:30,Hodosi Tamás,springday
+Szerda,2024-12-18,Baba-mama torna,11:00-12:00,Kalló Zsuzsa ,springday
+Vasárnap,2024-12-22,Stretching,11:30-12:30,Juhász Bianka ,springday
+Hétfő,2024-12-16,Kezdő funkcionális köredzés ,16:30-17:30,Széles Natália,springday
+Szerda,2024-12-18,Kezdő funkcionális köredzés ,16:30-17:30,Széles Natália,springday
+Péntek,2024-12-20,Zsírégető,16:00-17:00,Szabó Csenge,springday
+Péntek,2024-12-20,Pilates.,16:15-17:15,Kovács Rózsa ,springday
+Péntek,2024-12-20,TRX köredzés,16:30-17:30,Széles Natália,springday
+Szombat,2024-12-21,Funkcionális köredzés,16:00-17:00,Széles Natália,springday
+Vasárnap,2024-12-22,Szauna felöntés,16:00-16:20,Szaunamester ,springday
+Vasárnap,2024-12-22,Szauna felöntés,16:50-17:10,Szaunamester ,springday
+Hétfő,2024-12-16,Alakformáló,17:00-18:00,Kabai Petra,springday
+Hétfő,2024-12-16,DEEPWORK ,17:15-18:15,Gergye Laura ,springday
+Hétfő,2024-12-16,Spinning,17:30-18:30,Milovecz Tünde,springday
+Hétfő,2024-12-16,TRX köredzés,17:30-18:30,Széles Natália,springday
+Kedd,2024-12-17,Aquafitness,17:00-17:45,Andris Anita ,springday
+Kedd,2024-12-17,Zsírégető,17:00-18:00,Ugróczi Móni ,springday
+Kedd,2024-12-17,Core training.,17:15-18:15,Juhász Bianka ,springday
+Kedd,2024-12-17,Funkcionális köredzés,17:30-18:30,Tihanyi Ákos ,springday
+Szerda,2024-12-18,Alakformáló,17:00-18:00,Tímea Sifter,springday
+Szerda,2024-12-18,Szauna felöntés,17:00-17:20,Szaunamester ,springday
+Szerda,2024-12-18,DEEPWORK ,17:15-18:15,Gergye Laura ,springday
+Szerda,2024-12-18,Spinning,17:30-18:30,Milovecz Tünde,springday
+Szerda,2024-12-18,TRX köredzés,17:30-18:30,Széles Natália,springday
+Szerda,2024-12-18,Szauna felöntés,17:50-18:10,Szaunamester ,springday
+Csütörtök,2024-12-19,Aquafitness,17:00-17:45,Andris Anita ,springday
+Csütörtök,2024-12-19,Zsírégető,17:00-18:00,Ugróczi Móni ,springday
+Csütörtök,2024-12-19,Core training. ,17:15-18:15,Hesztera Dóra,springday
+Csütörtök,2024-12-19,Funkcionális köredzés,17:30-18:30,Tihanyi Ákos ,springday
+Péntek,2024-12-20,Alakformáló,17:00-18:00,Szabó Csenge,springday
+Péntek,2024-12-20,Szauna felöntés,17:00-17:20,Szaunamester ,springday
+Péntek,2024-12-20,Hatha jóga,17:15-18:15,Kovács Rózsa ,springday
+Péntek,2024-12-20,Cross Training,17:30-18:30,Széles Natália,springday
+Péntek,2024-12-20,Szauna felöntés,17:50-18:10,Szaunamester ,springday
+Vasárnap,2024-12-22,Pilates.,17:15-18:15,Kovács Rózsa ,springday
+Vasárnap,2024-12-22,Szauna felöntés,17:40-18:00,Szaunamester ,springday
+Hétfő,2024-12-16,Kangoo,18:00-19:00,Kabai Petra,springday
+Hétfő,2024-12-16,Pilates gerinc.,18:15-19:15,Párdi Erika ,springday
+Hétfő,2024-12-16,Cross Training,18:30-19:30,Trankó Ida ,springday
+Hétfő,2024-12-16,Spinning,18:30-19:30,Gergye Laura ,springday
+Kedd,2024-12-17,Hot Iron,18:00-19:00,Andris Anita ,springday
+Kedd,2024-12-17,Stretching.,18:15-19:15,Juhász Bianka ,springday
+Kedd,2024-12-17,Cross Training,18:30-19:30,Tihanyi Ákos ,springday
+Szerda,2024-12-18,Kangoo,18:00-19:00,Tímea Sifter,springday
+Szerda,2024-12-18,Pilates gerinc,18:15-19:15,Párdi Erika ,springday
+Szerda,2024-12-18,Cross Training,18:30-19:30,Trankó Ida ,springday
+Szerda,2024-12-18,Spinning,18:30-19:30,Gergye Laura ,springday
+Szerda,2024-12-18,Szauna felöntés,18:40-19:00,Szaunamester ,springday
+Csütörtök,2024-12-19,Hot Iron,18:00-19:00,Andris Anita ,springday
+Csütörtök,2024-12-19,Spinning,18:00-19:00,Tücsi S. Márti,springday
+Csütörtök,2024-12-19,Stretching.,18:15-19:15,Hesztera Dóra,springday
+Csütörtök,2024-12-19,Cross Training,18:30-19:30,Tihanyi Ákos ,springday
+Vasárnap,2024-12-22,Alakformáló,18:00-19:00,Kis Zsófi,springday
+Vasárnap,2024-12-22,Hatha jóga,18:15-19:15,Kovács Rózsa ,springday
+Vasárnap,2024-12-22,Szauna felöntés,18:30-18:50,Szaunamester ,springday
+Hétfő,2024-12-16,Kick Box Aerobic,19:00-20:00,Gárdus Bence,springday
+Hétfő,2024-12-16,Hatha jóga,19:15-20:15,Párdi Erika ,springday
+Hétfő,2024-12-16,Box köredzés,19:30-20:30,Tar Edit,springday
+Kedd,2024-12-17,Pilates.,19:15-20:15,Kocsis Kata,springday
+Szerda,2024-12-18,Kick Box Aerobic,19:00-20:00,Gárdus Bence,springday
+Szerda,2024-12-18,Hatha jóga,19:15-20:15,Párdi Erika ,springday
+Szerda,2024-12-18,Box köredzés,19:30-20:30,Tar Edit,springday
+Szerda,2024-12-18,Szauna felöntés,19:30-19:50,Szaunamester ,springday
+Csütörtök,2024-12-19,BODYART,19:15-20:15,Juhász Bianka ,springday
+Hétfő,2024-12-16,Mobility,20:00-21:00,Gárdus Bence,springday
+Szerda,2024-12-18,Mobility,20:00-21:00,Gárdus Bence,springday
+Hétfő,2024-12-09,Cross Training,06:30-07:30,Borbély Noémi ,etele
+Kedd,2024-12-10,Funkcionális köredzés,06:30-07:30,Kovács Laura,etele
+Kedd,2024-12-10,Indoor Cycling ICG,06:45-07:45,Adamkó Szilvi,etele
+Szerda,2024-12-11,Cross Training,06:30-07:30,Borbély Noémi ,etele
+Csütörtök,2024-12-12,Funkcionális köredzés,06:30-07:30,Kovács Laura,etele
+Péntek,2024-12-13,Cross Training,06:30-07:30,Borbély Noémi ,etele
+Péntek,2024-12-13,Indoor Cycling ICG,06:45-07:45,Adamkó Szilvi,etele
+Hétfő,2024-12-09,Pilates,07:30-08:30,Majoros Anikó,etele
+Kedd,2024-12-10,Stretching,07:30-08:30,Kovács Laura,etele
+Csütörtök,2024-12-12,Stretching,07:30-08:30,Kovács Laura,etele
+Péntek,2024-12-13,Pilates,07:30-08:30,Majoros Anikó,etele
+Vasárnap,2024-12-15,TRX köredzés,08:30-09:30,Kovács Laura,etele
+Hétfő,2024-12-09,Pilates,09:45-10:45,Némethy Panna ,etele
+Kedd,2024-12-10,Pilates,09:00-10:00,Némethy Panna ,etele
+Szerda,2024-12-11,Pilates,09:45-10:45,Némethy Panna ,etele
+Szombat,2024-12-14,Alakformáló,09:00-10:00,Csényi Fanni,etele
+Szombat,2024-12-14,Cross Training,09:30-10:30,Göde Dorka,etele
+Vasárnap,2024-12-15,Funkcionális köredzés,09:30-10:30,Kovács Laura,etele
+Vasárnap,2024-12-15,Gerinctorna,09:45-10:30,Kárpáti Móni ,etele
+Hétfő,2024-12-09,Kismama torna,10:30-11:30,Elek-Tóth Évi,etele
+Szerda,2024-12-11,Kismama torna,10:30-11:30,Elek-Tóth Évi,etele
+Szombat,2024-12-14,Indoor Cycling ICG,10:00-11:00,Nagy Regina,etele
+Szombat,2024-12-14,Kangoo,10:00-11:00,Kurcz Móni,etele
+Szombat,2024-12-14,Funkcionális köredzés,10:30-11:30,Csényi Fanni,etele
+Vasárnap,2024-12-15,Indoor Cycling ICG,10:45-11:45,Kárpáti Móni ,etele
+Vasárnap,2024-12-15,Stretching,10:45-11:45,Kovács Laura,etele
+Kedd,2024-12-10,Funkcionális köredzés,11:30-12:30,Boros Orsolya,etele
+Csütörtök,2024-12-12,Funkcionális köredzés,11:30-12:30,Boros Orsolya,etele
+Szombat,2024-12-14,Hot Iron I,11:00-12:00,Göde Dorka,etele
+Hétfő,2024-12-09,Zsírégető,12:00-13:00,Adamkó Szilvi,etele
+Kedd,2024-12-10,Pilates,12:45-13:45,Boros Orsolya,etele
+Szerda,2024-12-11,Alakformáló,12:00-13:00,Adamkó Szilvi,etele
+Szerda,2024-12-11,Funkcionális köredzés,12:30-13:30,Kalamár Eszter,etele
+Csütörtök,2024-12-12,Pilates,12:45-13:45,Boros Orsolya,etele
+Péntek,2024-12-13,Alakformáló,12:00-13:00,Adamkó Szilvi,etele
+Péntek,2024-12-13,Funkcionális köredzés,12:30-13:30,Kalamár Eszter,etele
+Szombat,2024-12-14,Dinamikus jóga,12:15-13:15,Palkó Roberta,etele
+Hétfő,2024-12-09,Pilates,15:45-16:45,Kárpáti Ildikó,etele
+Szerda,2024-12-11,Pilates,15:45-16:45,Kárpáti Ildikó,etele
+Hétfő,2024-12-09,Gerinctorna+stretching,16:45-17:45,Kárpáti Ildikó,etele
+Kedd,2024-12-10,Kezdő funkcionális köredzés ,16:30-17:30,Gyurkovics Anikó,etele
+Szerda,2024-12-11,Gerinctorna+stretching,16:45-17:45,Kárpáti Ildikó,etele
+Csütörtök,2024-12-12,Kezdő funkcionális köredzés ,16:30-17:30,Auer Bernadett,etele
+Csütörtök,2024-12-12,Dinamikus jóga,16:45-17:45,Erdős Réka ,etele
+Péntek,2024-12-13,TRX köredzés,16:30-17:30,Kárpáti Ildikó,etele
+Hétfő,2024-12-09,Alakformáló,17:00-18:00,Varga Rebeka,etele
+Hétfő,2024-12-09,Indoor Cycling ICG,17:15-18:15,Dráviczki Sándor,etele
+Hétfő,2024-12-09,Funkcionális köredzés,17:30-18:30,Majoros Anikó,etele
+Hétfő,2024-12-09,Dinamikus jóga,17:45-18:45,Heimer Viki,etele
+Kedd,2024-12-10,Zsírégető,17:00-18:00,Szebenyi Szabina,etele
+Kedd,2024-12-10,Indoor Cycling ICG,17:15-18:15,Szőcs Gabi,etele
+Kedd,2024-12-10,TRX köredzés,17:30-18:30,Gyurkovics Anikó,etele
+Szerda,2024-12-11,Alakformáló,17:00-18:00,Varga Rebeka,etele
+Szerda,2024-12-11,Indoor Cycling ICG,17:15-18:15,Dráviczki Sándor,etele
+Szerda,2024-12-11,Funkcionális köredzés,17:30-18:30,Hacskó Viktória,etele
+Szerda,2024-12-11,Dinamikus jóga,17:45-18:45,Heimer Viki,etele
+Csütörtök,2024-12-12,Zsírégető,17:00-18:00,Szebenyi Szabina,etele
+Csütörtök,2024-12-12,Indoor Cycling ICG,17:15-18:15,Szőcs Gabi,etele
+Csütörtök,2024-12-12,TRX köredzés,17:30-18:30,Gyurkovics Anikó,etele
+Csütörtök,2024-12-12,Pilates,17:45-18:45,Erdős Réka ,etele
+Péntek,2024-12-13,Alakformáló,17:00-18:00,Adamkó Szilvi,etele
+Péntek,2024-12-13,Funkcionális köredzés,17:30-19:00,Majoros Anikó,etele
+Péntek,2024-12-13,Pilates,17:45-18:45,Kárpáti Ildikó,etele
+Szombat,2024-12-14,Alakformáló,17:00-18:00,Szalma Borka,etele
+Vasárnap,2024-12-15,Zumba,17:00-18:00,Oli Renáta,etele
+Vasárnap,2024-12-15,Indoor Cycling ICG,17:15-18:15,Szőcs Gabi,etele
+Vasárnap,2024-12-15,TRX köredzés,17:30-18:30,Kecsmár Veca,etele
+Hétfő,2024-12-09,Zsírégető,18:00-19:00,Adamkó Szilvi,etele
+Hétfő,2024-12-09,Indoor Cycling ICG,18:15-19:15,Dráviczki Sándor,etele
+Hétfő,2024-12-09,TRX köredzés,18:30-19:30,Kárpáti Ildikó,etele
+Kedd,2024-12-10,Hot Iron II,18:00-19:00,Szedeli Fanni ,etele
+Kedd,2024-12-10,Indoor Cycling ICG,18:15-19:15,Kárpáti Móni ,etele
+Kedd,2024-12-10,Funkcionális köredzés,18:30-19:30,Szebenyi Szabina,etele
+Kedd,2024-12-10,Gerinctorna,18:45-19:45,Reitter Zsófia,etele
+Szerda,2024-12-11,Zsírégető,18:00-19:00,Adamkó Szilvi,etele
+Szerda,2024-12-11,Indoor Cycling ICG,18:15-19:15,Dráviczki Sándor,etele
+Szerda,2024-12-11,TRX köredzés,18:30-19:30,Kárpáti Ildikó,etele
+Csütörtök,2024-12-12,Hot Iron I,18:00-19:00,Göde Dorka,etele
+Csütörtök,2024-12-12,Indoor Cycling ICG,18:15-19:15,Szőcs Gabi,etele
+Csütörtök,2024-12-12,Funkcionális köredzés,18:30-19:30,Szebenyi Szabina,etele
+Csütörtök,2024-12-12,Gerinctorna,18:45-19:45,Reitter Zsófia,etele
+Péntek,2024-12-13,Hot Iron Cross,18:00-19:00,Göde Dorka,etele
+Péntek,2024-12-13,Indoor Cycling ICG,18:15-19:30,Adamkó Szilvi,etele
+Péntek,2024-12-13,Jóga,18:45-19:45,Boros Orsolya,etele
+Szombat,2024-12-14,Cross Training,18:00-19:00,Szalma Borka,etele
+Vasárnap,2024-12-15,Pilates,18:00-19:00,Oli Renáta,etele
+Vasárnap,2024-12-15,Indoor Cycling ICG,18:15-19:15,Szőcs Gabi,etele
+Hétfő,2024-12-09,Indoor Cycling ICG,19:15-20:15,Adamkó Szilvi,etele
+Hétfő,2024-12-09,Cross Training,19:30-20:30,Kárpáti Ildikó,etele
+Hétfő,2024-12-09,Pilates,19:45-20:45,Oli Renáta,etele
+Kedd,2024-12-10,Alakformáló,19:00-20:00,Gyurkovics Anikó,etele
+Kedd,2024-12-10,Indoor Cycling ICG,19:15-20:15,Ujhelyi Zsuzsi,etele
+Kedd,2024-12-10,Cross Training,19:30-20:30,Szebenyi Szabina,etele
+Szerda,2024-12-11,Kangoo,19:00-20:00,Kurcz Móni,etele
+Szerda,2024-12-11,Indoor Cycling ICG,19:15-20:15,Adamkó Szilvi,etele
+Szerda,2024-12-11,Cross Training,19:30-20:30,Kárpáti Ildikó,etele
+Szerda,2024-12-11,Pilates,19:45-20:45,Oli Renáta,etele
+Csütörtök,2024-12-12,Alakformáló,19:00-20:00,Gyurkovics Anikó,etele
+Csütörtök,2024-12-12,Indoor Cycling ICG,19:15-20:15,Ujhelyi Zsuzsi,etele
+Csütörtök,2024-12-12,Cross Training,19:30-20:30,Szebenyi Szabina,etele
+Péntek,2024-12-13,Cross Training,19:00-20:00,Kárpáti Ildikó,etele
+Kedd,2024-12-10,Full kondi,20:00-21:00,Kovács Laura,etele
+Csütörtök,2024-12-12,Full kondi,20:00-21:00,Kovács Laura,etele
+Hétfő,2024-12-16,Cross Training,06:30-07:30,Borbély Noémi ,etele
+Kedd,2024-12-17,Funkcionális köredzés,06:30-07:30,Kovács Laura,etele
+Kedd,2024-12-17,Indoor Cycling ICG,06:45-07:45,Adamkó Szilvi,etele
+Szerda,2024-12-18,Cross Training,06:30-07:30,Borbély Noémi ,etele
+Csütörtök,2024-12-19,Funkcionális köredzés,06:30-07:30,Kovács Laura,etele
+Péntek,2024-12-20,Cross Training,06:30-07:30,Borbély Noémi ,etele
+Péntek,2024-12-20,Indoor Cycling ICG,06:45-07:45,Adamkó Szilvi,etele
+Hétfő,2024-12-16,Pilates,07:30-08:30,Majoros Anikó,etele
+Kedd,2024-12-17,Stretching,07:30-08:30,Kovács Laura,etele
+Csütörtök,2024-12-19,Stretching,07:30-08:30,Kovács Laura,etele
+Péntek,2024-12-20,Pilates,07:30-08:45,Majoros Anikó,etele
+Vasárnap,2024-12-22,TRX köredzés,08:30-09:30,Kovács Laura,etele
+Hétfő,2024-12-16,Pilates,09:45-10:45,Némethy Panna ,etele
+Kedd,2024-12-17,Pilates,09:00-10:00,Némethy Panna ,etele
+Szerda,2024-12-18,Pilates,09:45-10:45,Némethy Panna ,etele
+Szombat,2024-12-21,Alakformáló,09:00-10:00,Sánta Stella,etele
+Szombat,2024-12-21,Cross Training,09:30-10:30,Borbély Noémi ,etele
+Vasárnap,2024-12-22,Funkcionális köredzés,09:30-10:30,Kovács Laura,etele
+Vasárnap,2024-12-22,Gerinctorna,09:45-10:30,Kárpáti Móni ,etele
+Hétfő,2024-12-16,Kismama torna,10:30-11:30,Elek-Tóth Évi,etele
+Szerda,2024-12-18,Kismama torna,10:30-11:30,Elek-Tóth Évi,etele
+Szombat,2024-12-21,Kangoo,10:00-11:00,Kurcz Móni,etele
+Szombat,2024-12-21,Funkcionális köredzés,10:30-11:30,Sánta Stella,etele
+Vasárnap,2024-12-22,Indoor Cycling ICG,10:45-11:45,Kárpáti Móni ,etele
+Vasárnap,2024-12-22,Stretching,10:45-11:45,Kovács Laura,etele
+Kedd,2024-12-17,Funkcionális köredzés,11:30-12:30,Boros Orsolya,etele
+Csütörtök,2024-12-19,Funkcionális köredzés,11:30-12:30,Boros Orsolya,etele
+Szombat,2024-12-21,Hot Iron I,11:00-12:00,Göde Dorka,etele
+Hétfő,2024-12-16,Zsírégető,12:00-13:00,Adamkó Szilvi,etele
+Kedd,2024-12-17,Indoor Cycling ICG,12:00-13:00,Moldova Gyuri ,etele
+Kedd,2024-12-17,Pilates,12:45-13:45,Boros Orsolya,etele
+Szerda,2024-12-18,Alakformáló,12:00-13:00,Adamkó Szilvi,etele
+Szerda,2024-12-18,Funkcionális köredzés,12:30-13:30,Kalamár Eszter,etele
+Csütörtök,2024-12-19,Indoor Cycling ICG,12:00-13:00,Moldova Gyuri ,etele
+Csütörtök,2024-12-19,Pilates,12:45-13:45,Boros Orsolya,etele
+Péntek,2024-12-20,Alakformáló,12:00-13:00,Adamkó Szilvi,etele
+Péntek,2024-12-20,Funkcionális köredzés,12:30-13:30,Kalamár Eszter,etele
+Szombat,2024-12-21,Dinamikus jóga,12:15-13:15,Erdős Réka ,etele
+Szombat,2024-12-21,Pilates,13:15-14:15,Erdős Réka ,etele
+Szombat,2024-12-21,Stretching,14:15-15:15,Erdős Réka ,etele
+Hétfő,2024-12-16,Pilates,15:45-16:45,Kárpáti Ildikó,etele
+Szerda,2024-12-18,Pilates,15:45-16:45,Kárpáti Ildikó,etele
+Hétfő,2024-12-16,Gerinctorna+stretching,16:45-17:45,Kárpáti Ildikó,etele
+Kedd,2024-12-17,Kezdő funkcionális köredzés ,16:30-17:30,Elek-Tóth Évi,etele
+Kedd,2024-12-17,Dinamikus jóga,16:45-17:45,Erdős Réka ,etele
+Szerda,2024-12-18,Gerinctorna+stretching,16:45-17:45,Kárpáti Ildikó,etele
+Csütörtök,2024-12-19,Kezdő funkcionális köredzés ,16:30-17:30,Auer Bernadett,etele
+Csütörtök,2024-12-19,Dinamikus jóga,16:45-17:45,Erdős Réka ,etele
+Péntek,2024-12-20,TRX köredzés,16:30-17:30,Kárpáti Ildikó,etele
+Szombat,2024-12-21,Indoor Cycling ICG,16:30-17:30,Moldova Gyuri ,etele
+Hétfő,2024-12-16,Alakformáló,17:00-18:00,Varga Rebeka,etele
+Hétfő,2024-12-16,Indoor Cycling ICG,17:15-18:15,Dráviczki Sándor,etele
+Hétfő,2024-12-16,Funkcionális köredzés,17:30-18:30,Majoros Anikó,etele
+Kedd,2024-12-17,Zsírégető,17:00-18:00,Varga Bogi,etele
+Kedd,2024-12-17,Indoor Cycling ICG,17:15-18:15,Szőcs Gabi,etele
+Kedd,2024-12-17,TRX köredzés,17:30-18:30,Gyurkovics Anikó,etele
+Kedd,2024-12-17,Pilates,17:45-18:45,Erdős Réka ,etele
+Szerda,2024-12-18,Alakformáló,17:00-18:00,Varga Rebeka,etele
+Szerda,2024-12-18,Indoor Cycling ICG,17:15-18:15,Dráviczki Sándor,etele
+Szerda,2024-12-18,Funkcionális köredzés,17:30-18:30,Majoros Anikó,etele
+Csütörtök,2024-12-19,Zsírégető,17:00-18:00,Varga Bogi,etele
+Csütörtök,2024-12-19,Indoor Cycling ICG,17:15-18:15,Szőcs Gabi,etele
+Csütörtök,2024-12-19,TRX köredzés,17:30-18:30,Gyurkovics Anikó,etele
+Csütörtök,2024-12-19,Pilates,17:45-18:45,Erdős Réka ,etele
+Péntek,2024-12-20,Alakformáló,17:00-18:00,Adamkó Szilvi,etele
+Péntek,2024-12-20,Funkcionális köredzés,17:30-19:00,Majoros Anikó,etele
+Péntek,2024-12-20,Pilates,17:45-18:45,Kárpáti Ildikó,etele
+Szombat,2024-12-21,Alakformáló,17:00-18:00,Szalma Borka,etele
+Szombat,2024-12-21,Indoor Cycling ICG,17:30-18:30,Adamkó Szilvi,etele
+Vasárnap,2024-12-22,Zumba,17:00-18:00,Kovács Andrea,etele
+Vasárnap,2024-12-22,Indoor Cycling ICG,17:15-18:15,Szőcs Gabi,etele
+Vasárnap,2024-12-22,TRX köredzés,17:30-18:30,Kecsmár Veca,etele
+Hétfő,2024-12-16,Zsírégető,18:00-19:00,Adamkó Szilvi,etele
+Hétfő,2024-12-16,Indoor Cycling ICG,18:15-19:15,Dráviczki Sándor,etele
+Hétfő,2024-12-16,TRX köredzés,18:30-19:30,Kárpáti Ildikó,etele
+Kedd,2024-12-17,Hot Iron II,18:00-19:00,Szedeli Fanni ,etele
+Kedd,2024-12-17,Indoor Cycling ICG,18:15-19:15,Kárpáti Móni ,etele
+Kedd,2024-12-17,Funkcionális köredzés,18:30-19:30,Varga Bogi,etele
+Kedd,2024-12-17,Gerinctorna,18:45-19:45,Reitter Zsófia,etele
+Szerda,2024-12-18,Zsírégető,18:00-19:00,Adamkó Szilvi,etele
+Szerda,2024-12-18,Indoor Cycling ICG,18:15-19:15,Dráviczki Sándor,etele
+Szerda,2024-12-18,TRX köredzés,18:30-19:30,Kárpáti Ildikó,etele
+Csütörtök,2024-12-19,Hot Iron I,18:00-19:00,Göde Dorka,etele
+Csütörtök,2024-12-19,Indoor Cycling ICG,18:15-19:15,Kárpáti Móni ,etele
+Csütörtök,2024-12-19,Funkcionális köredzés,18:30-19:30,Varga Bogi,etele
+Csütörtök,2024-12-19,Gerinctorna,18:45-19:45,Reitter Zsófia,etele
+Péntek,2024-12-20,Hot Iron Cross,18:00-19:00,Szedeli Fanni ,etele
+Péntek,2024-12-20,Indoor Cycling ICG,18:15-19:30,Adamkó Szilvi,etele
+Péntek,2024-12-20,Jóga,18:45-19:45,Boros Orsolya,etele
+Szombat,2024-12-21,Cross Training,18:00-19:00,Szalma Borka,etele
+Vasárnap,2024-12-22,Pilates,18:00-19:00,Oli Renáta,etele
+Vasárnap,2024-12-22,Indoor Cycling ICG,18:15-19:15,Szőcs Gabi,etele
+Hétfő,2024-12-16,Kangoo,19:00-20:00,Katona Reni,etele
+Hétfő,2024-12-16,Indoor Cycling ICG,19:15-20:15,Adamkó Szilvi,etele
+Hétfő,2024-12-16,Cross Training,19:30-20:30,Kárpáti Ildikó,etele
+Hétfő,2024-12-16,Pilates,19:45-20:45,Oli Renáta,etele
+Kedd,2024-12-17,Alakformáló,19:00-20:00,Gyurkovics Anikó,etele
+Kedd,2024-12-17,Cross Training,19:30-20:30,Varga Bogi,etele
+Szerda,2024-12-18,Kangoo,19:00-20:00,Kurcz Móni,etele
+Szerda,2024-12-18,Indoor Cycling ICG,19:15-20:15,Adamkó Szilvi,etele
+Szerda,2024-12-18,Cross Training,19:30-20:30,Kárpáti Ildikó,etele
+Szerda,2024-12-18,Pilates,19:45-20:45,Oli Renáta,etele
+Csütörtök,2024-12-19,Alakformáló,19:00-20:00,Gyurkovics Anikó,etele
+Csütörtök,2024-12-19,Indoor Cycling ICG,19:15-20:15,Ujhelyi Zsuzsi,etele
+Csütörtök,2024-12-19,Cross Training,19:30-20:30,Varga Bogi,etele
+Péntek,2024-12-20,Cross Training,19:00-20:00,Kárpáti Ildikó,etele
+Kedd,2024-12-17,Full kondi,20:00-21:00,Kovács Laura,etele
+Csütörtök,2024-12-19,Full kondi,20:00-21:00,Kovács Laura,etele
+Vasárnap,2024-12-15,Zsírégető,15:00-15:45,Molnár Dani,gilda
+Vasárnap,2024-12-15,Stretching,15:45-16:30,Molnár Dani,gilda
+Hétfő,2024-12-09,Gerinctorna,06:45-07:45,Zentai Petra,vaci35
+Szerda,2024-12-11,Gerinctorna,06:45-07:45,Zentai Petra,vaci35
+Hétfő,2024-12-09,Cross Training,07:30-08:30,Kárpáti Ildikó,vaci35
+Hétfő,2024-12-09,Pilates,07:45-08:45,Zentai Petra,vaci35
+Kedd,2024-12-10,Funkcionális köredzés,07:30-08:30,Harnos Erika ,vaci35
+Kedd,2024-12-10,Pilates&stretching,07:30-08:30,Fodor Orsolya,vaci35
+Szerda,2024-12-11,Cross Training,07:30-08:30,Kárpáti Ildikó,vaci35
+Szerda,2024-12-11,Pilates,07:45-08:45,Zentai Petra,vaci35
+Csütörtök,2024-12-12,Funkcionális köredzés,07:30-08:30,Harnos Erika ,vaci35
+Csütörtök,2024-12-12,Gerinctorna+stretching,07:30-08:30,Fodor Orsolya,vaci35
+Péntek,2024-12-13,Funkcionális köredzés,07:15-08:15,Fogasy Fatime,vaci35
+Szombat,2024-12-14,Alakformáló,08:30-09:30,Nagy Zsuzsa,vaci35
+Kedd,2024-12-10,Pilates,11:00-12:00,Gál Lilien ,vaci35
+Csütörtök,2024-12-12,Pilates,11:00-12:00,Gál Lilien ,vaci35
+Kedd,2024-12-10,Funkcionális köredzés,12:30-13:30,Gál Lilien ,vaci35
+Csütörtök,2024-12-12,Funkcionális köredzés,12:30-13:30,Gál Lilien ,vaci35
+Péntek,2024-12-13,Funkcionális köredzés,12:30-13:30,Gál Lilien ,vaci35
+Hétfő,2024-12-09,Salsa Fitness,16:00-17:00,Osvaldo,vaci35
+Hétfő,2024-12-09,DEEPWORK & BODYART ,16:45-17:45,Zentai Petra,vaci35
+Kedd,2024-12-10,Flow jóga,16:45-17:45,Völgyes Flávia,vaci35
+Szerda,2024-12-11,DEEPWORK & BODYART ,16:45-17:45,Zentai Petra,vaci35
+Csütörtök,2024-12-12,TRX,16:30-17:30,Nagy Zsuzsa,vaci35
+Csütörtök,2024-12-12,Flow jóga,16:45-17:45,Völgyes Flávia,vaci35
+Péntek,2024-12-13,TRX köredzés,16:00-17:00,Tóth Anett,vaci35
+Péntek,2024-12-13,DEEPWORK & BODYART ,16:45-17:45,Zentai Petra,vaci35
+Hétfő,2024-12-09,Alakformáló,17:00-18:00,Samu Kriszti,vaci35
+Hétfő,2024-12-09,Gerinctorna,17:45-18:45,Kárpáti Móni ,vaci35
+Kedd,2024-12-10,Zsírégető,17:00-18:00,Kabai Petra,vaci35
+Kedd,2024-12-10,Funkcionális köredzés,17:30-18:30,Vincze Friderika,vaci35
+Szerda,2024-12-11,Alakformáló,17:00-18:00,Samu Kriszti,vaci35
+Szerda,2024-12-11,Gerinctorna,17:45-18:45,Reitter Zsófia,vaci35
+Csütörtök,2024-12-12,Zsírégető,17:00-18:00,Kabai Petra,vaci35
+Csütörtök,2024-12-12,Funkcionális köredzés,17:30-18:30,Vincze Friderika,vaci35
+Péntek,2024-12-13,Cross Training,17:00-18:00,Tóth Anett,vaci35
+Péntek,2024-12-13,Zsírégető,17:00-18:00,Hodosi Tamás,vaci35
+Péntek,2024-12-13,Pilates,17:45-18:45,Reitter Zsófia,vaci35
+Szombat,2024-12-14,Dance Step,17:00-18:00,Tar Edit,vaci35
+Vasárnap,2024-12-15,Funkcionális köredzés,17:15-18:15,Serrano Gergő,vaci35
+Hétfő,2024-12-09,Hot Iron Cross,18:00-19:00,Szalka Andi,vaci35
+Hétfő,2024-12-09,Cross Training,18:15-19:15,Kempelen Zita,vaci35
+Hétfő,2024-12-09,Pilates,18:45-19:45,Reitter Zsófia,vaci35
+Kedd,2024-12-10,Alakformáló,18:00-19:00,Stein Fanni,vaci35
+Kedd,2024-12-10,Cross Training,18:30-19:30,Fodor Gabriella,vaci35
+Kedd,2024-12-10,Gerinctorna,18:45-19:45,Rubint Dorka,vaci35
+Szerda,2024-12-11,Hot Iron Cross,18:00-19:00,Szalka Andi,vaci35
+Szerda,2024-12-11,Cross Training,18:15-19:15,Kempelen Zita,vaci35
+Szerda,2024-12-11,Pilates,18:45-19:45,Reitter Zsófia,vaci35
+Csütörtök,2024-12-12,Alakformáló,18:00-19:00,Nagy Zsuzsa,vaci35
+Csütörtök,2024-12-12,Cross Training,18:30-19:30,Fodor Gabriella,vaci35
+Csütörtök,2024-12-12,Gerinctorna,18:45-19:45,Rubint Dorka,vaci35
+Péntek,2024-12-13,Funkcionális köredzés,18:00-19:00,Hodosi Tamás,vaci35
+Szombat,2024-12-14,Alakformáló,18:00-19:00,Tar Edit,vaci35
+Vasárnap,2024-12-15,TRX köredzés,18:15-19:15,Serrano Gergő,vaci35
+Hétfő,2024-12-09,Zsírégető,19:00-20:00,Hodosi Tamás,vaci35
+Hétfő,2024-12-09,Funkcionális köredzés,19:15-20:15,Molnár Dani,vaci35
+Kedd,2024-12-10,Hot Iron I,19:00-20:00,Hóbel Timi ,vaci35
+Kedd,2024-12-10,Zsákos köredzés,19:30-20:30,Takács Henriett,vaci35
+Kedd,2024-12-10,Jóga,19:45-20:45,Tar Edit,vaci35
+Szerda,2024-12-11,Alakformáló,19:00-20:00,Ábrahám Zsanna,vaci35
+Szerda,2024-12-11,Funkcionális köredzés,19:15-20:15,Molnár Dani,vaci35
+Csütörtök,2024-12-12,Hot Iron Cross,19:00-20:00,Hóbel Timi ,vaci35
+Csütörtök,2024-12-12,Zsákos köredzés,19:30-20:30,Takács Henriett,vaci35
+Hétfő,2024-12-16,Gerinctorna,06:45-07:45,Fodor Orsolya,vaci35
+Szerda,2024-12-18,Gerinctorna,06:45-07:45,Kocsis Kata,vaci35
+Hétfő,2024-12-16,Cross Training,07:30-08:30,Kárpáti Ildikó,vaci35
+Hétfő,2024-12-16,Pilates,07:45-08:45,Fodor Orsolya,vaci35
+Kedd,2024-12-17,Funkcionális köredzés,07:30-08:30,Harnos Erika ,vaci35
+Kedd,2024-12-17,Pilates&stretching,07:30-08:30,Fodor Orsolya,vaci35
+Szerda,2024-12-18,Cross Training,07:30-08:30,Kárpáti Ildikó,vaci35
+Szerda,2024-12-18,Pilates,07:45-08:45,Kocsis Kata,vaci35
+Csütörtök,2024-12-19,Funkcionális köredzés,07:30-08:30,Harnos Erika ,vaci35
+Csütörtök,2024-12-19,Gerinctorna+stretching,07:30-08:30,Fodor Orsolya,vaci35
+Péntek,2024-12-20,Funkcionális köredzés,07:15-08:15,Fogasy Fatime,vaci35
+Szombat,2024-12-21,Alakformáló,08:30-09:30,Nagy Zsuzsa,vaci35
+Kedd,2024-12-17,Pilates,11:00-12:00,Gál Lilien ,vaci35
+Csütörtök,2024-12-19,Pilates,11:00-12:00,Gál Lilien ,vaci35
+Kedd,2024-12-17,Funkcionális köredzés,12:30-13:30,Gál Lilien ,vaci35
+Csütörtök,2024-12-19,Funkcionális köredzés,12:30-13:30,Gál Lilien ,vaci35
+Péntek,2024-12-20,Funkcionális köredzés,12:30-13:30,Gál Lilien ,vaci35
+Hétfő,2024-12-16,Salsa Fitness,16:00-17:00,Osvaldo,vaci35
+Kedd,2024-12-17,Flow jóga,16:45-17:45,Völgyes Flávia,vaci35
+Csütörtök,2024-12-19,TRX,16:30-17:30,Nagy Zsuzsa,vaci35
+Csütörtök,2024-12-19,Flow jóga,16:45-17:45,Völgyes Flávia,vaci35
+Péntek,2024-12-20,Alakformáló,16:00-17:00,Fazekas Éva,vaci35
+Péntek,2024-12-20,TRX köredzés,16:00-17:00,Tóth Anett,vaci35
+Hétfő,2024-12-16,Alakformáló,17:00-18:00,Samu Kriszti,vaci35
+Hétfő,2024-12-16,Gerinctorna,17:45-18:45,Kárpáti Móni ,vaci35
+Kedd,2024-12-17,Zsírégető,17:00-18:00,Kabai Petra,vaci35
+Kedd,2024-12-17,Funkcionális köredzés,17:30-18:30,Auer Bernadett,vaci35
+Szerda,2024-12-18,Alakformáló,17:00-18:00,Samu Kriszti,vaci35
+Szerda,2024-12-18,Gerinctorna,17:45-18:45,Reitter Zsófia,vaci35
+Csütörtök,2024-12-19,Zsírégető,17:00-18:00,Fazekas Éva,vaci35
+Csütörtök,2024-12-19,Funkcionális köredzés,17:30-18:30,Fogasy Fatime,vaci35
+Péntek,2024-12-20,Cross Training,17:00-18:00,Tóth Anett,vaci35
+Péntek,2024-12-20,Zsírégető,17:00-18:00,Hodosi Tamás,vaci35
+Péntek,2024-12-20,Pilates,17:45-18:45,Reitter Zsófia,vaci35
+Szombat,2024-12-21,Dance Step,17:00-18:00,Tar Edit,vaci35
+Vasárnap,2024-12-22,Funkcionális köredzés,17:15-18:15,Serrano Gergő,vaci35
+Hétfő,2024-12-16,Hot Iron Cross,18:00-19:00,Szalka Andi,vaci35
+Hétfő,2024-12-16,Cross Training,18:15-19:15,Kempelen Zita,vaci35
+Hétfő,2024-12-16,Pilates,18:45-19:45,Reitter Zsófia,vaci35
+Kedd,2024-12-17,Alakformáló,18:00-19:00,Stein Fanni,vaci35
+Kedd,2024-12-17,Cross Training,18:30-19:30,Fodor Gabriella,vaci35
+Kedd,2024-12-17,Gerinctorna,18:45-19:45,Rubint Dorka,vaci35
+Szerda,2024-12-18,Hot Iron Cross,18:00-19:00,Dobos Fanny,vaci35
+Szerda,2024-12-18,Cross Training,18:15-19:15,Kempelen Zita,vaci35
+Szerda,2024-12-18,Pilates,18:45-19:45,Reitter Zsófia,vaci35
+Csütörtök,2024-12-19,Alakformáló,18:00-19:00,Nagy Zsuzsa,vaci35
+Csütörtök,2024-12-19,Cross Training,18:30-19:30,Fodor Gabriella,vaci35
+Csütörtök,2024-12-19,Gerinctorna,18:45-19:45,Rubint Dorka,vaci35
+Péntek,2024-12-20,Funkcionális köredzés,18:00-19:00,Hodosi Tamás,vaci35
+Szombat,2024-12-21,Alakformáló,18:00-19:00,Tar Edit,vaci35
+Vasárnap,2024-12-22,TRX köredzés,18:15-19:15,Serrano Gergő,vaci35
+Hétfő,2024-12-16,Zsírégető,19:00-20:00,Hodosi Tamás,vaci35
+Hétfő,2024-12-16,Funkcionális köredzés,19:15-20:15,Molnár Dani,vaci35
+Kedd,2024-12-17,Hot Iron I,19:00-20:00,Hóbel Timi ,vaci35
+Kedd,2024-12-17,Zsákos köredzés,19:30-20:30,Takács Henriett,vaci35
+Kedd,2024-12-17,Jóga,19:45-20:45,Tar Edit,vaci35
+Szerda,2024-12-18,Alakformáló,19:00-20:00,Ábrahám Zsanna,vaci35
+Szerda,2024-12-18,Funkcionális köredzés,19:15-20:15,Molnár Dani,vaci35
+Csütörtök,2024-12-19,Hot Iron Cross,19:00-20:00,Hóbel Timi ,vaci35
+Csütörtök,2024-12-19,Zsákos köredzés,19:30-20:30,Takács Henriett,vaci35
+Csütörtök,2024-12-19,Jóga,19:45-20:45,Tar Edit,vaci35
