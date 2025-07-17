@@ -1,0 +1,1003 @@
+day,date,sport,time,edző,klub
+Hétfő,2025-07-14,Funkcionális köredzés,06:30-07:30,Tordai Luca,allee
+Szerda,2025-07-16,Funkcionális köredzés,06:30-07:30,Léczfalvi Vivien,allee
+Péntek,2025-07-18,Funkcionális köredzés,06:30-07:30,Léczfalvi Vivien,allee
+Kedd,2025-07-15,Pilates.,07:00-08:00,Oli Renáta,allee
+Csütörtök,2025-07-17,Pilates.,07:00-08:00,Oli Renáta,allee
+Szombat,2025-07-19,Alakformáló,09:00-10:00,Dobos Fanny,allee
+Szombat,2025-07-19,Funkcionális köredzés,09:00-10:00,Serrano Gergő HU/EN,allee
+Hétfő,2025-07-14,Hot Iron I,10:00-11:00,Dobos Fanny,allee
+Szerda,2025-07-16,Hot Iron I,10:00-11:00,Dobos Fanny,allee
+Péntek,2025-07-18,Hot Iron I,10:00-11:00,Dobos Fanny,allee
+Szombat,2025-07-19,Cross Training,10:00-11:00,Serrano Gergő HU/EN,allee
+Szombat,2025-07-19,Hot Iron I,10:00-11:00,Dobos Fanny,allee
+Vasárnap,2025-07-20,Alakformáló,10:00-11:00,Dobos Fanny,allee
+Vasárnap,2025-07-20,Pilates.,10:00-11:00,Kárpáti Ildikó HU/EN,allee
+Hétfő,2025-07-14,Senior torna,11:00-12:00,Dobos Fanny,allee
+Kedd,2025-07-15,Stretching.,11:00-12:00,Kovács Laura,allee
+Szerda,2025-07-16,Gerinctorna,11:00-12:00,Dobos Fanny,allee
+Csütörtök,2025-07-17,Stretching.,11:00-12:00,Kovács Laura,allee
+Péntek,2025-07-18,Gerinctorna.,11:00-12:00,Kovács Laura,allee
+Szombat,2025-07-19,Stretching.,11:00-12:00,Dobos Fanny,allee
+Vasárnap,2025-07-20,Gerinctorna,11:00-12:00,Dobos Fanny,allee
+Hétfő,2025-07-14,Alakformáló,12:00-13:00,Dobos Fanny,allee
+Kedd,2025-07-15,Alakformáló,12:00-13:00,Kovács Laura,allee
+Szerda,2025-07-16,Alakformáló,12:00-13:00,Dobos Fanny,allee
+Péntek,2025-07-18,Alakformáló,12:00-13:00,Kovács Laura,allee
+Kedd,2025-07-15,Alakformáló,16:00-17:00,Dobos Fanny,allee
+Csütörtök,2025-07-17,Alakformáló,16:00-17:00,Dobos Fanny,allee
+Hétfő,2025-07-14,Alakformáló,17:00-18:00,Szalma Borka,allee
+Hétfő,2025-07-14,Cross Training,17:00-18:00,Kalamár Eszter,allee
+Hétfő,2025-07-14,Gerinctorna+stretching.,17:30-18:30,Kovács Laura,allee
+Kedd,2025-07-15,Hot Iron I,17:00-18:00,Dobos Fanny,allee
+Kedd,2025-07-15,Cross Training,17:15-18:15,Kovács Anikó HU/EN,allee
+Kedd,2025-07-15,Pilates.,17:30-18:30,Oli Renáta,allee
+Szerda,2025-07-16,Alakformáló,17:00-18:00,Kalamár Eszter,allee
+Szerda,2025-07-16,Funkcionális köredzés,17:15-18:15,Gerő Luca,allee
+Szerda,2025-07-16,Gerinctorna+stretching.,17:30-18:30,Erdélyi Annamari,allee
+Csütörtök,2025-07-17,Hot Iron I,17:00-18:00,Dobos Fanny,allee
+Csütörtök,2025-07-17,Cross Training,17:15-18:15,Kovács Anikó HU/EN,allee
+Csütörtök,2025-07-17,Pilates.,17:30-18:30,Oli Renáta,allee
+Péntek,2025-07-18,Alakformáló,17:00-18:00,Dobos Fanny,allee
+Péntek,2025-07-18,Zumba,17:30-18:30,Jámbor Bea,allee
+Szombat,2025-07-19,Pilates.,17:30-18:30,Reitter Zsófia,allee
+Vasárnap,2025-07-20,Hot Iron I,17:00-18:00,Dobos Fanny,allee
+Hétfő,2025-07-14,Cardio Kick-box,18:00-19:00,Kalamár Eszter,allee
+Hétfő,2025-07-14,DEEPWORK ,18:15-19:15,Reitter Zsófia,allee
+Hétfő,2025-07-14,Yin  jóga,18:30-19:30,Kovács Rózsa ,allee
+Kedd,2025-07-15,Alakformáló,18:00-19:00,Dobos Fanny,allee
+Kedd,2025-07-15,TRX köredzés,18:15-19:15,Kovács Anikó HU/EN,allee
+Kedd,2025-07-15,Gerinctorna.,18:30-19:30,Böröcz Anita,allee
+Szerda,2025-07-16,Cardio Kick-box,18:00-19:00,Kalamár Eszter,allee
+Szerda,2025-07-16,TRX,18:15-19:15,Serrano Gergő HU/EN,allee
+Szerda,2025-07-16,Pilates.,18:30-19:30,Gerő Luca,allee
+Csütörtök,2025-07-17,Alakformáló,18:00-19:00,Dobos Fanny,allee
+Csütörtök,2025-07-17,TRX köredzés,18:15-19:15,Kovács Anikó HU/EN,allee
+Csütörtök,2025-07-17,Gerinctorna.,18:30-19:30,Böröcz Anita,allee
+Péntek,2025-07-18,Funkcionális köredzés,18:00-19:00,Vujicsity Viktória,allee
+Péntek,2025-07-18,Hot Iron I,18:00-19:00,Dobos Fanny,allee
+Vasárnap,2025-07-20,Alakformáló,18:00-19:00,Dobos Fanny,allee
+Hétfő,2025-07-14,Zsírégető,19:00-20:00,Kalamár Eszter,allee
+Hétfő,2025-07-14,Funkcionális köredzés,19:15-20:15,Vujicsity Viktória,allee
+Hétfő,2025-07-14,Pilates.,19:30-20:30,Kovács Rózsa ,allee
+Kedd,2025-07-15,Zsírégető,19:00-20:00,Paulovics Adrienn,allee
+Kedd,2025-07-15,Funkcionális köredzés,19:15-20:15,Vujicsity Viktória,allee
+Kedd,2025-07-15,Dinamikus jóga,19:30-20:30,Erdős Réka ,allee
+Szerda,2025-07-16,Zsírégető,19:00-20:00,Kalamár Eszter,allee
+Szerda,2025-07-16,Cross Training,19:15-20:15,Szentgyörgyi Lilien,allee
+Csütörtök,2025-07-17,Zsírégető,19:00-20:00,Paulovics Adrienn,allee
+Csütörtök,2025-07-17,Funkcionális köredzés,19:15-20:15,Kárpáti Ildikó HU/EN,allee
+Csütörtök,2025-07-17,Dinamikus jóga,19:30-20:30,Erdős Réka ,allee
+Péntek,2025-07-18,DEEPWORK ,19:00-20:00,Reitter Zsófia,allee
+Péntek,2025-07-18,Stretching.,19:00-20:00,Dobos Fanny,allee
+Hétfő,2025-07-14,Hot Iron I,20:00-21:00,Dobos Fanny,allee
+Kedd,2025-07-15,Gerinctorna,20:00-21:00,Paulovics Adrienn,allee
+Szerda,2025-07-16,Hot Iron I,20:00-21:00,Dobos Fanny,allee
+Csütörtök,2025-07-17,Gerinctorna+stretching,20:00-21:00,Paulovics Adrienn,allee
+Hétfő,2025-07-21,Funkcionális köredzés,06:30-07:30,Dán Vanda,allee
+Szerda,2025-07-23,Funkcionális köredzés,06:30-07:30,Dán Vanda,allee
+Kedd,2025-07-22,Pilates.,07:00-08:00,Oli Renáta,allee
+Csütörtök,2025-07-24,Pilates.,07:00-08:00,Oli Renáta,allee
+Szombat,2025-07-26,Alakformáló,09:00-10:00,Bajnok Dávid,allee
+Szombat,2025-07-26,Funkcionális köredzés,09:00-10:00,Serrano Gergő HU/EN,allee
+Hétfő,2025-07-21,Hot Iron I,10:00-11:00,Dobos Fanny,allee
+Szerda,2025-07-23,Hot Iron I,10:00-11:00,Dobos Fanny,allee
+Szombat,2025-07-26,Cross Training,10:00-11:00,Serrano Gergő HU/EN,allee
+Vasárnap,2025-07-27,Alakformáló,10:00-11:00,Bajnok Dávid,allee
+Vasárnap,2025-07-27,Pilates.,10:00-11:00,Major Emese,allee
+Hétfő,2025-07-21,Senior torna,11:00-12:00,Gyurkovics Anikó HU/EN,allee
+Szerda,2025-07-23,Gerinctorna,11:00-12:00,Dobos Fanny,allee
+Péntek,2025-07-25,Gerinctorna.,11:00-12:00,Kocsis Kata,allee
+Hétfő,2025-07-21,Alakformáló,12:00-13:00,Gyurkovics Anikó HU/EN,allee
+Szerda,2025-07-23,Alakformáló,12:00-13:00,Dobos Fanny,allee
+Csütörtök,2025-07-24,Alakformáló,12:00-13:00,Gyurkovics Anikó HU/EN,allee
+Péntek,2025-07-25,Alakformáló,12:00-13:00,Bajnok Dávid,allee
+Kedd,2025-07-22,Alakformáló,16:00-17:00,Dobos Fanny,allee
+Hétfő,2025-07-21,Alakformáló,17:00-18:00,Borbély Beatrix,allee
+Hétfő,2025-07-21,Cross Training,17:00-18:00,Kalamár Eszter,allee
+Hétfő,2025-07-21,Gerinctorna+stretching.,17:30-18:30,Szabó Júlia,allee
+Kedd,2025-07-22,Hot Iron I,17:00-18:00,Dobos Fanny,allee
+Kedd,2025-07-22,Cross Training,17:15-18:15,Kovács Anikó HU/EN,allee
+Kedd,2025-07-22,Pilates.,17:30-18:30,Oli Renáta,allee
+Szerda,2025-07-23,Alakformáló,17:00-18:00,Kalamár Eszter,allee
+Szerda,2025-07-23,Funkcionális köredzés,17:15-18:15,Gerő Luca,allee
+Szerda,2025-07-23,Gerinctorna+stretching.,17:30-18:30,Erdélyi Annamari,allee
+Csütörtök,2025-07-24,Súlyzórudas edzés,17:00-18:00,Hodosi Tamás,allee
+Csütörtök,2025-07-24,Cross Training,17:15-18:15,Kovács Anikó HU/EN,allee
+Csütörtök,2025-07-24,Pilates.,17:30-18:30,Oli Renáta,allee
+Péntek,2025-07-25,Alakformáló,17:00-18:00,Tar Edit,allee
+Péntek,2025-07-25,Zumba,17:30-18:30,Jámbor Bea,allee
+Szombat,2025-07-26,Pilates.,17:30-18:30,Reitter Zsófia,allee
+Hétfő,2025-07-21,Cardio Kick-box,18:00-19:00,Kalamár Eszter,allee
+Hétfő,2025-07-21,DEEPWORK ,18:15-19:15,Reitter Zsófia,allee
+Hétfő,2025-07-21,Yin  jóga,18:30-19:30,Kovács Rózsa ,allee
+Kedd,2025-07-22,Alakformáló,18:00-19:00,Dobos Fanny,allee
+Kedd,2025-07-22,TRX köredzés,18:15-19:15,Kovács Anikó HU/EN,allee
+Kedd,2025-07-22,Gerinctorna.,18:30-19:30,Böröcz Anita,allee
+Szerda,2025-07-23,Cardio Kick-box,18:00-19:00,Kalamár Eszter,allee
+Szerda,2025-07-23,TRX,18:15-19:15,Serrano Gergő HU/EN,allee
+Szerda,2025-07-23,Pilates.,18:30-19:30,Gerő Luca,allee
+Csütörtök,2025-07-24,Alakformáló,18:00-19:00,Hodosi Tamás,allee
+Csütörtök,2025-07-24,TRX köredzés,18:15-19:15,Kovács Anikó HU/EN,allee
+Péntek,2025-07-25,Funkcionális köredzés,18:00-19:00,Vujicsity Viktória,allee
+Péntek,2025-07-25,Súlyzórudas edzés,18:00-19:00,Tar Edit,allee
+Hétfő,2025-07-21,Zsírégető,19:00-20:00,Kalamár Eszter,allee
+Hétfő,2025-07-21,Funkcionális köredzés,19:15-20:15,Vujicsity Viktória,allee
+Hétfő,2025-07-21,Pilates.,19:30-20:30,Kovács Rózsa ,allee
+Kedd,2025-07-22,Funkcionális köredzés,19:15-20:15,Vujicsity Viktória,allee
+Kedd,2025-07-22,Dinamikus jóga,19:30-20:30,Erdős Réka ,allee
+Szerda,2025-07-23,Zsírégető,19:00-20:00,Kalamár Eszter,allee
+Szerda,2025-07-23,Cross Training,19:15-20:15,Szentgyörgyi Lilien,allee
+Csütörtök,2025-07-24,Funkcionális köredzés,19:15-20:15,Sánta Stella HU/EN,allee
+Csütörtök,2025-07-24,Dinamikus jóga,19:30-20:30,Erdős Réka ,allee
+Péntek,2025-07-25,DEEPWORK ,19:00-20:00,Reitter Zsófia,allee
+Hétfő,2025-07-21,Hot Iron I,20:00-21:00,Dobos Fanny,allee
+Szerda,2025-07-23,Hot Iron I,20:00-21:00,Dobos Fanny,allee
+Szerda,2025-07-16,KRAV-MAGA,06:00-07:30,Sira Gyula,nyugati
+Csütörtök,2025-07-17,KRAV-MAGA,06:00-07:30,Sira Gyula,nyugati
+Péntek,2025-07-18,Cross Training,06:45-07:45,Kárpáti Ildikó HU/EN,nyugati
+Hétfő,2025-07-14,Alakformáló,07:00-08:00,Borbély Beatrix,nyugati
+Hétfő,2025-07-14,Funkcionális köredzés,07:15-08:15,Vatamány Krisztina ,nyugati
+Kedd,2025-07-15,Indoor Cycling ICG,07:45-08:45,Csonka Anita ,nyugati
+Szerda,2025-07-16,Alakformáló,07:00-08:00,Borbély Beatrix,nyugati
+Szerda,2025-07-16,Funkcionális köredzés,07:15-08:15,Gerencsér Ágnes,nyugati
+Péntek,2025-07-18,TRX köredzés,07:45-08:45,Kárpáti Ildikó HU/EN,nyugati
+Kedd,2025-07-15,Pilates,08:00-09:00,Antal Laura HU/EN,nyugati
+Péntek,2025-07-18,Pilates,08:00-09:00,Antal Laura HU/EN,nyugati
+Szombat,2025-07-19,KRAV-MAGA,08:00-09:30,Sira Gyula,nyugati
+Kedd,2025-07-15,Detox jóga,09:00-10:00,Völgyes Flávia,nyugati
+Kedd,2025-07-15,Hot Iron Cross,09:00-10:00,Szalka Andi,nyugati
+Csütörtök,2025-07-17,Detox jóga,09:00-10:00,Völgyes Flávia,nyugati
+Péntek,2025-07-18,Yin  jóga,09:00-10:00,Antal Laura HU/EN,nyugati
+Vasárnap,2025-07-20,Indoor Cycling ICG,09:30-10:30,Szalai Ági HU/EN,nyugati
+Szombat,2025-07-19,Giryafit,10:00-11:00,Fischer Gábor HU/EN,nyugati
+Szombat,2025-07-19,Indoor Cycling ICG,10:00-11:00,Szalai Ági HU/EN,nyugati
+Vasárnap,2025-07-20,Alakformáló,10:00-11:00,Berki Betti ,nyugati
+Hétfő,2025-07-14,Gerinctorna,11:00-12:00,Palkó Roberta HU/EN,nyugati
+Szerda,2025-07-16,Pilates,11:00-12:00,Erdős Réka ,nyugati
+Szombat,2025-07-19,Dinamikus jóga.,11:00-12:00,Erdős Réka ,nyugati
+Vasárnap,2025-07-20,Funkcionális köredzés,11:00-12:00,Szentgyörgyi Lilien,nyugati
+Hétfő,2025-07-14,Jóga,12:00-13:00,Palkó Roberta HU/EN,nyugati
+Szerda,2025-07-16,Dinamikus jóga,12:00-13:00,Erdős Réka ,nyugati
+Szombat,2025-07-19,Pilates.,12:00-13:00,Erdős Réka ,nyugati
+Péntek,2025-07-18,Pilates.,15:00-16:00,Reitter Zsófia,nyugati
+Vasárnap,2025-07-20,Pilates.,15:45-16:45,Erdős Réka ,nyugati
+Hétfő,2025-07-14,Jóga,16:00-17:00,Csonka Anita ,nyugati
+Hétfő,2025-07-14,Zumba,16:45-17:45,Kovács Andrea,nyugati
+Kedd,2025-07-15,Alakformáló,16:00-17:00,Borbély Beatrix,nyugati
+Kedd,2025-07-15,Indoor Cycling ICG,16:30-17:30,Böröcz Anita,nyugati
+Kedd,2025-07-15,Gerinctorna+stretching,16:45-17:45,Kocsis Kata,nyugati
+Szerda,2025-07-16,Gerinctorna+stretching,16:00-17:00,Palkó Roberta HU/EN,nyugati
+Szerda,2025-07-16,Zumba,16:45-17:45,Kovács Andrea,nyugati
+Csütörtök,2025-07-17,Alakformáló,16:00-17:00,Borbély Beatrix,nyugati
+Csütörtök,2025-07-17,Indoor Cycling ICG,16:30-17:30,Böröcz Anita,nyugati
+Csütörtök,2025-07-17,Gerinctorna+stretching,16:45-17:45,Kocsis Kata,nyugati
+Péntek,2025-07-18,Alakformáló,16:00-17:00,Auer Bernadett,nyugati
+Péntek,2025-07-18,Jóga & Stretching,16:45-17:45,Zsombok-Macsári Dzsenifer ,nyugati
+Szombat,2025-07-19,Alakformáló,16:00-17:00,Borbély Beatrix,nyugati
+Vasárnap,2025-07-20,Stretching,16:45-17:45,Erdős Réka ,nyugati
+Hétfő,2025-07-14,Alakformáló,17:00-18:00,Auer Bernadett,nyugati
+Hétfő,2025-07-14,Funkcionális köredzés,17:15-18:15,Balog Bíborka Bella ,nyugati
+Hétfő,2025-07-14,Indoor Cycling ICG,17:30-18:30,Csonka Anita ,nyugati
+Hétfő,2025-07-14,Pilates,17:45-18:45,Tornai Piroska HU/EN,nyugati
+Kedd,2025-07-15,Zsírégető,17:00-18:00,Fazekas Éva,nyugati
+Kedd,2025-07-15,Cross Training,17:15-18:15,Keserű Dóri,nyugati
+Kedd,2025-07-15,Indoor Cycling ICG,17:30-18:30,Kazi Alex,nyugati
+Kedd,2025-07-15,Pilates,17:45-18:45,Kocsis Kata,nyugati
+Szerda,2025-07-16,Alakformáló,17:00-18:00,Auer Bernadett,nyugati
+Szerda,2025-07-16,Funkcionális köredzés,17:15-18:15,Harnos Erika ,nyugati
+Szerda,2025-07-16,Indoor Cycling ICG,17:30-18:30,Csonka Anita ,nyugati
+Szerda,2025-07-16,Pilates,17:45-18:45,Tornai Piroska HU/EN,nyugati
+Csütörtök,2025-07-17,Zsírégető,17:00-18:00,Borbély Beatrix,nyugati
+Csütörtök,2025-07-17,Cross Training,17:15-18:15,Keserű Dóri,nyugati
+Csütörtök,2025-07-17,Indoor Cycling ICG,17:30-18:30,Kazi Alex,nyugati
+Csütörtök,2025-07-17,Pilates,17:45-18:45,Kocsis Kata,nyugati
+Péntek,2025-07-18,Cross Training,17:15-18:30,Serrano Gergő HU/EN,nyugati
+Péntek,2025-07-18,Gerinctorna,17:45-18:45,Böröcz Anita,nyugati
+Vasárnap,2025-07-20,Alakformáló,17:00-18:00,Böröcz Anita,nyugati
+Vasárnap,2025-07-20,Jóga,17:45-19:15,Erdős Réka ,nyugati
+Hétfő,2025-07-14,Hot Iron Cross,18:00-19:00,Szedeli Fanni ,nyugati
+Hétfő,2025-07-14,TRX köredzés,18:15-19:15,Serrano Gergő HU/EN,nyugati
+Hétfő,2025-07-14,Indoor Cycling ICG,18:30-19:30,Szalai Ági HU/EN,nyugati
+Hétfő,2025-07-14,Gerinctorna+stretching,18:45-19:45,Csonka Anita ,nyugati
+Kedd,2025-07-15,Giryafit,18:00-19:00,Fischer Gábor HU/EN,nyugati
+Kedd,2025-07-15,TRX köredzés,18:15-19:15,Ajanidisz Teodóra,nyugati
+Kedd,2025-07-15,Indoor Cycling ICG,18:30-19:30,Kazi Alex,nyugati
+Kedd,2025-07-15,Jóga,18:45-19:45,Kovács Rózsa ,nyugati
+Szerda,2025-07-16,Cross Training,18:15-19:15,Harnos Erika ,nyugati
+Szerda,2025-07-16,Indoor Cycling ICG,18:30-19:30,Palkó Roberta HU/EN,nyugati
+Szerda,2025-07-16,Gerinctorna+stretching,18:45-19:45,Csonka Anita ,nyugati
+Csütörtök,2025-07-17,Giryafit,18:00-19:00,Fischer Gábor HU/EN,nyugati
+Csütörtök,2025-07-17,TRX köredzés,18:15-19:15,Ajanidisz Teodóra,nyugati
+Csütörtök,2025-07-17,Indoor Cycling ICG,18:30-19:30,Kazi Alex,nyugati
+Csütörtök,2025-07-17,Jóga,18:45-19:45,Kovács Rózsa ,nyugati
+Péntek,2025-07-18,Alakformáló,18:00-19:00,Berki Betti ,nyugati
+Vasárnap,2025-07-20,Funkcionális köredzés,18:15-19:15,Keserű Dóri,nyugati
+Hétfő,2025-07-14,Alakformáló,19:00-20:00,Gerencsér Ágnes,nyugati
+Hétfő,2025-07-14,Cross Training,19:15-20:15,Serrano Gergő HU/EN,nyugati
+Hétfő,2025-07-14,Indoor Cycling ICG,19:30-20:30,Szőcs Gabi HU/EN,nyugati
+Hétfő,2025-07-14,Stretching,19:45-20:45,Kovács Laura,nyugati
+Kedd,2025-07-15,Zsírégető,19:00-20:00,Kabai Petra,nyugati
+Kedd,2025-07-15,Pilates,19:45-20:45,Ajanidisz Teodóra,nyugati
+Szerda,2025-07-16,Alakformáló,19:00-20:00,Gerencsér Ágnes,nyugati
+Szerda,2025-07-16,Indoor Cycling ICG,19:30-20:30,Szalai Ági HU/EN,nyugati
+Szerda,2025-07-16,Flow jóga,19:45-20:45,Erdős Réka ,nyugati
+Csütörtök,2025-07-17,Zsírégető,19:00-20:00,Kabai Petra,nyugati
+Csütörtök,2025-07-17,Pilates,19:45-20:45,Ajanidisz Teodóra,nyugati
+Péntek,2025-07-18,Zsírégető,19:00-20:00,Berki Betti ,nyugati
+Kedd,2025-07-15,Alakformáló,20:00-21:00,Berki Betti ,nyugati
+Csütörtök,2025-07-17,Alakformáló,20:00-21:00,Berki Betti ,nyugati
+Szerda,2025-07-23,KRAV-MAGA,06:00-07:30,Sira Gyula,nyugati
+Csütörtök,2025-07-24,KRAV-MAGA,06:00-07:30,Sira Gyula,nyugati
+Péntek,2025-07-25,Cross Training,06:45-07:45,Kárpáti Ildikó HU/EN,nyugati
+Hétfő,2025-07-21,Alakformáló,07:00-08:00,Borbély Beatrix,nyugati
+Hétfő,2025-07-21,Funkcionális köredzés,07:15-08:15,Gerencsér Ágnes,nyugati
+Szerda,2025-07-23,Alakformáló,07:00-08:00,Borbély Beatrix,nyugati
+Szerda,2025-07-23,Funkcionális köredzés,07:15-08:15,Serrano Gergő HU/EN,nyugati
+Péntek,2025-07-25,TRX köredzés,07:45-08:45,Kárpáti Ildikó HU/EN,nyugati
+Kedd,2025-07-22,Pilates,08:00-09:00,Antal Laura HU/EN,nyugati
+Péntek,2025-07-25,Pilates,08:00-09:00,Antal Laura HU/EN,nyugati
+Szombat,2025-07-26,KRAV-MAGA,08:00-09:30,Sira Gyula,nyugati
+Kedd,2025-07-22,Detox jóga,09:00-10:00,Völgyes Flávia,nyugati
+Csütörtök,2025-07-24,Detox jóga,09:00-10:00,Völgyes Flávia,nyugati
+Péntek,2025-07-25,Yin  jóga,09:00-10:00,Antal Laura HU/EN,nyugati
+Vasárnap,2025-07-27,Indoor Cycling ICG,09:30-10:30,Králik Eszter HU/EN,nyugati
+Szombat,2025-07-26,Giryafit,10:00-11:00,Fischer Gábor HU/EN,nyugati
+Vasárnap,2025-07-27,Alakformáló,10:00-11:00,Berki Betti ,nyugati
+Hétfő,2025-07-21,Pilates,11:00-12:00,Erdős Réka ,nyugati
+Szerda,2025-07-23,Pilates,11:00-12:00,Erdős Réka ,nyugati
+Szombat,2025-07-26,Dinamikus jóga.,11:00-12:00,Erdős Réka ,nyugati
+Vasárnap,2025-07-27,Funkcionális köredzés,11:00-12:00,Szentgyörgyi Lilien,nyugati
+Hétfő,2025-07-21,Dinamikus jóga,12:00-13:00,Erdős Réka ,nyugati
+Szerda,2025-07-23,Dinamikus jóga,12:00-13:00,Erdős Réka ,nyugati
+Szombat,2025-07-26,Pilates.,12:00-13:00,Erdős Réka ,nyugati
+Péntek,2025-07-25,Pilates.,15:00-16:00,Polányi Petra,nyugati
+Vasárnap,2025-07-27,Pilates.,15:45-16:45,Erdős Réka ,nyugati
+Hétfő,2025-07-21,Pilates.,16:00-17:00,Polányi Petra,nyugati
+Hétfő,2025-07-21,Zumba,16:45-17:45,Kovács Andrea,nyugati
+Kedd,2025-07-22,Alakformáló,16:00-17:00,Borbély Beatrix,nyugati
+Kedd,2025-07-22,Indoor Cycling ICG,16:30-17:30,Böröcz Anita,nyugati
+Kedd,2025-07-22,Gerinctorna+stretching,16:45-17:45,Kocsis Kata,nyugati
+Szerda,2025-07-23,Pilates.,16:00-17:00,Polányi Petra,nyugati
+Szerda,2025-07-23,Zumba,16:45-17:45,Kovács Andrea,nyugati
+Csütörtök,2025-07-24,Alakformáló,16:00-17:00,Borbély Beatrix,nyugati
+Csütörtök,2025-07-24,Gerinctorna+stretching,16:45-17:45,Kocsis Kata,nyugati
+Péntek,2025-07-25,Alakformáló,16:00-17:00,Polányi Petra,nyugati
+Péntek,2025-07-25,Jóga & Stretching,16:45-17:45,Zsombok-Macsári Dzsenifer ,nyugati
+Szombat,2025-07-26,Alakformáló,16:00-17:00,Angyal Mercédesz ,nyugati
+Vasárnap,2025-07-27,Stretching,16:45-17:45,Erdős Réka ,nyugati
+Hétfő,2025-07-21,Alakformáló,17:00-18:00,Polányi Petra,nyugati
+Hétfő,2025-07-21,Funkcionális köredzés,17:15-18:15,Serrano Gergő HU/EN,nyugati
+Hétfő,2025-07-21,Indoor Cycling ICG,17:30-18:30,Csonka Anita ,nyugati
+Hétfő,2025-07-21,Pilates,17:45-18:45,Tornai Piroska HU/EN,nyugati
+Kedd,2025-07-22,Zsírégető,17:00-18:00,Fazekas Éva,nyugati
+Kedd,2025-07-22,Cross Training,17:15-18:15,Keserű Dóri,nyugati
+Kedd,2025-07-22,Indoor Cycling ICG,17:30-18:30,Kazi Alex,nyugati
+Kedd,2025-07-22,Pilates,17:45-18:45,Kocsis Kata,nyugati
+Szerda,2025-07-23,Alakformáló,17:00-18:00,Polányi Petra,nyugati
+Szerda,2025-07-23,Funkcionális köredzés,17:15-18:15,Auer Bernadett,nyugati
+Szerda,2025-07-23,Indoor Cycling ICG,17:30-18:30,Takács Henriett,nyugati
+Szerda,2025-07-23,Pilates,17:45-18:45,Tornai Piroska HU/EN,nyugati
+Csütörtök,2025-07-24,Zsírégető,17:00-18:00,Borbély Beatrix,nyugati
+Csütörtök,2025-07-24,Cross Training,17:15-18:15,Keserű Dóri,nyugati
+Csütörtök,2025-07-24,Indoor Cycling ICG,17:30-18:30,Kazi Alex,nyugati
+Csütörtök,2025-07-24,Pilates,17:45-18:45,Kocsis Kata,nyugati
+Péntek,2025-07-25,Hot Iron Cross,17:00-18:00,Radácsy Petra,nyugati
+Péntek,2025-07-25,Cross Training,17:15-18:30,Balog Bíborka Bella ,nyugati
+Vasárnap,2025-07-27,Súlyzórudas edzés,17:00-18:00,Radácsy Petra,nyugati
+Vasárnap,2025-07-27,Jóga,17:45-18:45,Erdős Réka ,nyugati
+Hétfő,2025-07-21,Hot Iron Cross,18:00-19:00,Radácsy Petra,nyugati
+Hétfő,2025-07-21,TRX köredzés,18:15-19:15,Serrano Gergő HU/EN,nyugati
+Hétfő,2025-07-21,Indoor Cycling ICG,18:30-19:30,Szalai Ági HU/EN,nyugati
+Hétfő,2025-07-21,Gerinctorna+stretching,18:45-19:45,Csonka Anita ,nyugati
+Kedd,2025-07-22,Giryafit,18:00-19:00,Fischer Gábor HU/EN,nyugati
+Kedd,2025-07-22,TRX köredzés,18:15-19:15,Ajanidisz Teodóra,nyugati
+Kedd,2025-07-22,Indoor Cycling ICG,18:30-19:30,Kazi Alex,nyugati
+Kedd,2025-07-22,Jóga,18:45-19:45,Kovács Rózsa ,nyugati
+Szerda,2025-07-23,Hot Iron II,18:00-19:00,Radácsy Petra,nyugati
+Szerda,2025-07-23,Cross Training,18:15-19:15,Borbély Noémi HU/EN,nyugati
+Szerda,2025-07-23,Indoor Cycling ICG,18:30-19:30,Takács Henriett,nyugati
+Szerda,2025-07-23,Stretching,18:45-19:45,Antal Laura HU/EN,nyugati
+Csütörtök,2025-07-24,Giryafit,18:00-19:00,Fischer Gábor HU/EN,nyugati
+Csütörtök,2025-07-24,TRX köredzés,18:15-19:15,Ajanidisz Teodóra,nyugati
+Csütörtök,2025-07-24,Indoor Cycling ICG,18:30-19:30,Kazi Alex,nyugati
+Csütörtök,2025-07-24,Jóga,18:45-19:45,Kovács Rózsa ,nyugati
+Péntek,2025-07-25,Hot Iron I,18:00-19:00,Radácsy Petra,nyugati
+Vasárnap,2025-07-27,Funkcionális köredzés,18:15-19:15,Keserű Dóri,nyugati
+Hétfő,2025-07-21,Alakformáló,19:00-20:00,Gerencsér Ágnes,nyugati
+Hétfő,2025-07-21,Cross Training,19:15-20:15,Serrano Gergő HU/EN,nyugati
+Hétfő,2025-07-21,Indoor Cycling ICG,19:30-20:30,Szőcs Gabi HU/EN,nyugati
+Hétfő,2025-07-21,Flow jóga,19:45-20:45,Erdős Réka ,nyugati
+Kedd,2025-07-22,Zsírégető,19:00-20:00,Kabai Petra,nyugati
+Kedd,2025-07-22,Pilates,19:45-20:45,Ajanidisz Teodóra,nyugati
+Szerda,2025-07-23,Alakformáló,19:00-20:00,Tornai Piroska HU/EN,nyugati
+Szerda,2025-07-23,Indoor Cycling ICG,19:30-20:30,Szalai Ági HU/EN,nyugati
+Szerda,2025-07-23,Jóga,19:45-20:45,Antal Laura HU/EN,nyugati
+Csütörtök,2025-07-24,Zsírégető,19:00-20:00,Kabai Petra,nyugati
+Csütörtök,2025-07-24,Pilates,19:45-20:45,Ajanidisz Teodóra,nyugati
+Péntek,2025-07-25,Zsírégető,19:00-20:00,Berki Betti ,nyugati
+Hétfő,2025-07-21,Aerial yoga,20:00-21:00,Angyal Kyra ,nyugati
+Kedd,2025-07-22,Alakformáló,20:00-21:00,Berki Betti ,nyugati
+Csütörtök,2025-07-24,Alakformáló,20:00-21:00,Berki Betti ,nyugati
+Hétfő,2025-07-14,TRX köredzés,06:30-07:30,Ujvári Cili,corvin
+Szerda,2025-07-16,TRX köredzés,06:30-07:30,Ujvári Cili,corvin
+Hétfő,2025-07-14,Indoor Cycling ICG,07:00-08:00,Trankó Ida ,corvin
+Kedd,2025-07-15,Funkcionális köredzés,07:00-08:00,Trankó Ida ,corvin
+Kedd,2025-07-15,Gerinctorna.,07:00-08:00,Kocsis Kata,corvin
+Kedd,2025-07-15,Indoor Cycling ICG,07:00-08:00,Sas Eszter,corvin
+Szerda,2025-07-16,Alakformáló,07:00-08:00,Berki Betti ,corvin
+Szerda,2025-07-16,Indoor Cycling ICG,07:00-08:00,Trankó Ida ,corvin
+Szerda,2025-07-16,Funkcionális köredzés,07:30-08:30,Kovács Laura,corvin
+Csütörtök,2025-07-17,Funkcionális köredzés,07:00-08:00,Trankó Ida ,corvin
+Csütörtök,2025-07-17,Gerinctorna.,07:00-08:00,Adamkó Szilvi,corvin
+Csütörtök,2025-07-17,Indoor Cycling ICG,07:00-08:00,Sas Eszter,corvin
+Péntek,2025-07-18,Alakformáló,07:00-08:00,Berki Betti ,corvin
+Péntek,2025-07-18,Gerinctorna+stretching.,07:00-08:00,Kocsis Kata,corvin
+Péntek,2025-07-18,Funkcionális köredzés,07:30-08:30,Kovács Laura,corvin
+Kedd,2025-07-15,Pilates&stretching,08:00-09:00,Kocsis Kata,corvin
+Szerda,2025-07-16,Gerinctorna.,08:00-09:00,Tordai Luca,corvin
+Hétfő,2025-07-14,Alakformáló,09:00-10:00,Kovács Laura,corvin
+Kedd,2025-07-15,Cross Training,09:30-10:30,Sas Eszter,corvin
+Szerda,2025-07-16,Alakformáló,09:00-10:00,Kovács Laura,corvin
+Csütörtök,2025-07-17,Cross Training,09:30-10:30,Sas Eszter,corvin
+Péntek,2025-07-18,Alakformáló,09:00-10:00,Kovács Laura,corvin
+Szombat,2025-07-19,Alakformáló,09:00-10:00,Kovács Laura,corvin
+Vasárnap,2025-07-20,Cross Training,09:30-10:30,Sas Eszter,corvin
+Hétfő,2025-07-14,Stretching.,10:00-11:00,Kovács Laura,corvin
+Szerda,2025-07-16,Stretching.,10:00-11:00,Kovács Laura,corvin
+Péntek,2025-07-18,Cross Training,10:30-11:30,Sas Eszter,corvin
+Szombat,2025-07-19,Gerinctorna,10:00-11:00,Kovács Laura,corvin
+Szombat,2025-07-19,Cross Training,10:30-11:45,Szőcs Gabi HU/EN,corvin
+Vasárnap,2025-07-20,Alakformáló,10:00-11:00,Kabai Petra,corvin
+Vasárnap,2025-07-20,Hot Iron II,10:30-11:30,Molnár Dani,corvin
+Hétfő,2025-07-14,Giryafit,11:00-12:00,Sas Eszter,corvin
+Szerda,2025-07-16,Giryafit,11:00-12:00,Sas Eszter,corvin
+Péntek,2025-07-18,Jóga,11:00-12:00,Csonka Anita ,corvin
+Szombat,2025-07-19,Cardio Kick-box,11:00-12:30,Kalamár Eszter,corvin
+Vasárnap,2025-07-20,Kangoo,11:00-12:30,Kabai Petra,corvin
+Hétfő,2025-07-14,Cardio Kick-box,12:00-13:00,Kalamár Eszter,corvin
+Hétfő,2025-07-14,TRX,12:30-13:30,Sas Eszter,corvin
+Kedd,2025-07-15,Funkcionális köredzés,12:00-13:00,Kalamár Eszter,corvin
+Szerda,2025-07-16,Cross Training,12:00-13:00,Sas Eszter,corvin
+Csütörtök,2025-07-17,Funkcionális köredzés,12:00-13:00,Kalamár Eszter,corvin
+Vasárnap,2025-07-20,Jóga.,12:00-13:30,Palkó Roberta HU/EN,corvin
+Hétfő,2025-07-14,Zsírégető,16:00-17:00,Kovács Laura,corvin
+Kedd,2025-07-15,Alakformáló,16:00-17:00,Csonka Anita ,corvin
+Kedd,2025-07-15,Cardio kick- boksz,16:30-17:30,Kalamár Eszter,corvin
+Kedd,2025-07-15,Indoor Cycling ICG,16:30-17:30,Dicső Inez HU/EN,corvin
+Szerda,2025-07-16,Zsírégető,16:00-17:00,Kovács Laura,corvin
+Csütörtök,2025-07-17,Indoor Cycling ICG,16:30-17:30,Dicső Inez HU/EN,corvin
+Csütörtök,2025-07-17,TRX köredzés,16:30-17:30,Kovács Laura,corvin
+Péntek,2025-07-18,Zsírégető,16:00-17:00,Csonka Anita ,corvin
+Péntek,2025-07-18,Funkcionális step,16:30-17:30,Kalamár Eszter,corvin
+Szombat,2025-07-19,Pilates,16:00-17:00,Kocsis Kata,corvin
+Vasárnap,2025-07-20,Salsa Fitness,16:00-17:00,Osvaldo,corvin
+Vasárnap,2025-07-20,Szauna felöntés,16:00-16:20,Szaunamester Corvin,corvin
+Vasárnap,2025-07-20,Szauna felöntés,16:50-17:10,Szaunamester Corvin,corvin
+Hétfő,2025-07-14,Dinamikus gerinctorna,17:00-18:00,Kocsis Kata,corvin
+Hétfő,2025-07-14,Indoor Cycling ICG,17:30-18:30,Dicső Inez HU/EN,corvin
+Hétfő,2025-07-14,TRX köredzés,17:30-18:30,Gyurkovics Anikó HU/EN,corvin
+Kedd,2025-07-15,DEEPWORK ,17:00-18:00,Erdélyi Annamari,corvin
+Kedd,2025-07-15,Hatha jóga.,17:15-18:15,Vörös Alexandra ,corvin
+Kedd,2025-07-15,Intervall Cycling  ICG,17:30-18:30,Kilin Tomi,corvin
+Kedd,2025-07-15,TRX köredzés,17:30-18:30,Kovács Laura,corvin
+Szerda,2025-07-16,Dinamikus gerinctorna,17:00-18:00,Kocsis Kata,corvin
+Szerda,2025-07-16,Cross Training,17:30-18:30,Sas Eszter,corvin
+Szerda,2025-07-16,Indoor Cycling ICG,17:30-18:30,Dicső Inez HU/EN,corvin
+Csütörtök,2025-07-17,DEEPWORK ,17:00-18:00,Erdélyi Annamari,corvin
+Csütörtök,2025-07-17,Hatha jóga.,17:15-18:15,Vörös Alexandra ,corvin
+Csütörtök,2025-07-17,Cross Training,17:30-18:30,Kovács Laura,corvin
+Csütörtök,2025-07-17,Intervall Cycling  ICG,17:30-18:30,Kilin Tomi,corvin
+Péntek,2025-07-18,Kangoo,17:00-18:00,Gyurkovics Anikó HU/EN,corvin
+Péntek,2025-07-18,Pilates.,17:15-18:15,Reitter Zsófia,corvin
+Péntek,2025-07-18,Funkcionális köredzés,17:30-18:30,Palkó Roberta HU/EN,corvin
+Péntek,2025-07-18,Indoor Cycling ICG,17:30-18:30,Szalai Ági HU/EN,corvin
+Szombat,2025-07-19,Japán jóga/Do-in,17:00-18:00,Kocsis Kata,corvin
+Vasárnap,2025-07-20,Alakformáló,17:00-18:00,Majoros Anikó,corvin
+Vasárnap,2025-07-20,Funkcionális köredzés,17:30-18:30,Tordai Luca,corvin
+Vasárnap,2025-07-20,Szauna felöntés,17:40-18:00,Szaunamester Corvin,corvin
+Hétfő,2025-07-14,Alakformáló,18:00-19:00,Czigány Betti,corvin
+Hétfő,2025-07-14,Pilates.,18:15-19:15,Kocsis Kata,corvin
+Hétfő,2025-07-14,Cross Training,18:30-19:30,Kaszás Lilla,corvin
+Hétfő,2025-07-14,Indoor Cycling ICG,18:30-19:30,Dicső Inez HU/EN,corvin
+Kedd,2025-07-15,Full kondi,18:00-19:00,Erdélyi Annamari,corvin
+Kedd,2025-07-15,Pilates.,18:15-19:15,Majoros Anikó,corvin
+Kedd,2025-07-15,Cross Training,18:30-19:30,Kovács Laura,corvin
+Kedd,2025-07-15,Indoor Cycling ICG,18:30-19:30,Kilin Tomi,corvin
+Szerda,2025-07-16,Alakformáló,18:00-19:00,Czigány Betti,corvin
+Szerda,2025-07-16,Pilates.,18:15-19:15,Kocsis Kata,corvin
+Szerda,2025-07-16,Indoor Cycling ICG,18:30-19:30,Dicső Inez HU/EN,corvin
+Szerda,2025-07-16,TRX köredzés,18:30-19:30,Sas Eszter,corvin
+Csütörtök,2025-07-17,Full kondi,18:00-19:00,Erdélyi Annamari,corvin
+Csütörtök,2025-07-17,Pilates.,18:15-19:15,Majoros Anikó,corvin
+Csütörtök,2025-07-17,Hot Iron Cross,18:30-19:30,Szedeli Fanni ,corvin
+Csütörtök,2025-07-17,Indoor Cycling ICG,18:30-19:30,Kilin Tomi,corvin
+Péntek,2025-07-18,Alakformáló,18:00-19:00,Gyurkovics Anikó HU/EN,corvin
+Péntek,2025-07-18,Indoor Cycling ICG,18:30-19:30,Szalai Ági HU/EN,corvin
+Péntek,2025-07-18,Jóga.,18:30-19:30,Palkó Roberta HU/EN,corvin
+Szombat,2025-07-19,Indoor Cycling ICG,18:00-19:00,Molnár Tibor ,corvin
+Vasárnap,2025-07-20,Pilates,18:00-19:00,Majoros Anikó,corvin
+Vasárnap,2025-07-20,Szauna felöntés,18:30-18:50,Szaunamester Corvin,corvin
+Hétfő,2025-07-14,Kangoo,19:00-20:00,Gyurkovics Anikó HU/EN,corvin
+Hétfő,2025-07-14,Gerinctorna+stretching.,19:15-20:15,Paulovics Adrienn,corvin
+Hétfő,2025-07-14,Indoor Cycling ICG,19:30-20:30,Németh Szabina HU/EN,corvin
+Kedd,2025-07-15,Pilates,19:15-20:15,Kárpáti Ildikó HU/EN,corvin
+Kedd,2025-07-15,Indoor Cycling ICG,19:30-20:30,Molnár Tibor ,corvin
+Kedd,2025-07-15,TRX köredzés,19:30-20:30,Majoros Anikó,corvin
+Szerda,2025-07-16,Kangoo,19:00-20:00,Kabai Petra,corvin
+Szerda,2025-07-16,Gerinctorna+stretching.,19:15-20:15,Paulovics Adrienn,corvin
+Szerda,2025-07-16,Funkcionális köredzés,19:30-20:30,Trankó Ida ,corvin
+Szerda,2025-07-16,Indoor Cycling ICG,19:30-20:30,Németh Szabina HU/EN,corvin
+Csütörtök,2025-07-17,Alakformáló,19:00-20:00,Lőrincz Ernő,corvin
+Csütörtök,2025-07-17,Gerinctorna+stretching,19:15-20:15,Kovács Laura,corvin
+Csütörtök,2025-07-17,Indoor Cycling ICG,19:30-20:30,Molnár Tibor ,corvin
+Csütörtök,2025-07-17,TRX köredzés,19:30-21:00,Majoros Anikó,corvin
+Péntek,2025-07-18,Salsa Fitness,19:00-20:00,Osvaldo,corvin
+Péntek,2025-07-18,Stretching.,19:30-20:30,Gyurkovics Anikó HU/EN,corvin
+Hétfő,2025-07-14,Alakformáló,20:00-21:00,Gyurkovics Anikó HU/EN,corvin
+Szerda,2025-07-16,Alakformáló,20:00-21:00,Kabai Petra,corvin
+Hétfő,2025-07-21,TRX köredzés,06:30-07:30,Ujvári Cili,corvin
+Szerda,2025-07-23,TRX köredzés,06:30-07:30,Ujvári Cili,corvin
+Péntek,2025-07-25,TRX köredzés,06:30-07:30,Ujvári Cili,corvin
+Hétfő,2025-07-21,Indoor Cycling ICG,07:00-08:00,Trankó Ida ,corvin
+Kedd,2025-07-22,Funkcionális köredzés,07:00-08:00,Trankó Ida ,corvin
+Kedd,2025-07-22,Gerinctorna,07:00-08:00,Kocsis Kata,corvin
+Kedd,2025-07-22,Indoor Cycling ICG,07:00-08:00,Sas Eszter,corvin
+Szerda,2025-07-23,Alakformáló,07:00-08:00,Hankó Nóri,corvin
+Szerda,2025-07-23,Indoor Cycling ICG,07:00-08:00,Trankó Ida ,corvin
+Szerda,2025-07-23,Funkcionális köredzés,07:30-08:30,Palkó Roberta HU/EN,corvin
+Csütörtök,2025-07-24,Funkcionális köredzés,07:00-08:00,Trankó Ida ,corvin
+Csütörtök,2025-07-24,Gerinctorna.,07:00-08:00,Adamkó Szilvi,corvin
+Csütörtök,2025-07-24,Indoor Cycling ICG,07:00-08:00,Sas Eszter,corvin
+Péntek,2025-07-25,Alakformáló,07:00-08:00,Hankó Nóri,corvin
+Péntek,2025-07-25,Gerinctorna+stretching.,07:00-08:00,Kocsis Kata,corvin
+Kedd,2025-07-22,Pilates&stretching,08:00-09:00,Kocsis Kata,corvin
+Hétfő,2025-07-21,Alakformáló,09:00-10:00,Csonka Anita ,corvin
+Kedd,2025-07-22,Cross Training,09:30-10:30,Sas Eszter,corvin
+Szerda,2025-07-23,Alakformáló,09:00-10:00,Berki Betti ,corvin
+Csütörtök,2025-07-24,Cross Training,09:30-10:30,Sas Eszter,corvin
+Péntek,2025-07-25,Alakformáló,09:00-10:00,Csonka Anita ,corvin
+Szombat,2025-07-26,Alakformáló,09:00-10:00,Hodosi Tamás,corvin
+Szombat,2025-07-26,Dance Step,09:00-10:00,Csonka Anita ,corvin
+Vasárnap,2025-07-27,Cross Training,09:30-10:30,Sas Eszter,corvin
+Hétfő,2025-07-21,Stretching.,10:00-11:00,Csonka Anita ,corvin
+Péntek,2025-07-25,Jóga,10:00-11:00,Csonka Anita ,corvin
+Péntek,2025-07-25,Cross Training,10:30-11:30,Sas Eszter,corvin
+Szombat,2025-07-26,Gerinctorna,10:00-11:00,Palkó Roberta HU/EN,corvin
+Szombat,2025-07-26,Indoor Cycling ICG,10:00-11:00,Csonka Anita ,corvin
+Szombat,2025-07-26,Cross Training,10:30-11:45,Szőcs Gabi HU/EN,corvin
+Vasárnap,2025-07-27,Alakformáló,10:00-11:00,Gyurkovics Anikó HU/EN,corvin
+Vasárnap,2025-07-27,Hot Iron II,10:30-11:30,Molnár Dani,corvin
+Hétfő,2025-07-21,Giryafit,11:00-12:00,Sas Eszter,corvin
+Szerda,2025-07-23,Giryafit,11:00-12:00,Sas Eszter,corvin
+Szombat,2025-07-26,Cardio Kick-box,11:00-12:30,Kalamár Eszter,corvin
+Vasárnap,2025-07-27,Kangoo,11:00-12:30,Gyurkovics Anikó HU/EN,corvin
+Hétfő,2025-07-21,Cardio Kick-box,12:00-13:00,Kalamár Eszter,corvin
+Hétfő,2025-07-21,TRX,12:30-13:30,Sas Eszter,corvin
+Kedd,2025-07-22,Funkcionális köredzés,12:00-13:00,Kalamár Eszter,corvin
+Szerda,2025-07-23,Cross Training,12:00-13:00,Sas Eszter,corvin
+Csütörtök,2025-07-24,Funkcionális köredzés,12:00-13:00,Kalamár Eszter,corvin
+Vasárnap,2025-07-27,Jóga.,12:00-13:30,Palkó Roberta HU/EN,corvin
+Hétfő,2025-07-21,Hot Iron Cross,16:30-17:30,Radácsy Petra,corvin
+Kedd,2025-07-22,Alakformáló,16:00-17:00,Erdélyi Annamari,corvin
+Kedd,2025-07-22,Cardio kick- boksz,16:30-17:30,Kalamár Eszter,corvin
+Kedd,2025-07-22,Indoor Cycling ICG,16:30-17:30,Dicső Inez HU/EN,corvin
+Szerda,2025-07-23,Zsírégető,16:00-17:00,Szabó Júlia,corvin
+Szerda,2025-07-23,Hot Iron 2,16:30-17:30,Radácsy Petra,corvin
+Csütörtök,2025-07-24,Indoor Cycling ICG,16:30-17:30,Dicső Inez HU/EN,corvin
+Péntek,2025-07-25,Zsírégető,16:00-17:00,Csonka Anita ,corvin
+Péntek,2025-07-25,Funkcionális step,16:30-17:30,Kalamár Eszter,corvin
+Szombat,2025-07-26,Pilates,16:00-17:00,Kocsis Kata,corvin
+Vasárnap,2025-07-27,Salsa Fitness,16:00-17:00,Osvaldo,corvin
+Vasárnap,2025-07-27,Szauna felöntés,16:00-16:20,Szaunamester Corvin,corvin
+Vasárnap,2025-07-27,Szauna felöntés,16:50-17:10,Szaunamester Corvin,corvin
+Hétfő,2025-07-21,Dinamikus gerinctorna,17:00-18:00,Kocsis Kata,corvin
+Hétfő,2025-07-21,Indoor Cycling ICG,17:30-18:30,Dicső Inez HU/EN,corvin
+Hétfő,2025-07-21,TRX köredzés,17:30-18:30,Gyurkovics Anikó HU/EN,corvin
+Kedd,2025-07-22,DEEPWORK ,17:00-18:00,Erdélyi Annamari,corvin
+Kedd,2025-07-22,Hatha jóga.,17:15-18:15,Vörös Alexandra ,corvin
+Kedd,2025-07-22,TRX köredzés,17:30-18:30,Trankó Ida ,corvin
+Szerda,2025-07-23,Dinamikus gerinctorna,17:00-18:00,Kocsis Kata,corvin
+Szerda,2025-07-23,Cross Training,17:30-18:30,Sas Eszter,corvin
+Szerda,2025-07-23,Indoor Cycling ICG,17:30-18:30,Dicső Inez HU/EN,corvin
+Csütörtök,2025-07-24,DEEPWORK ,17:00-18:00,Erdélyi Annamari,corvin
+Csütörtök,2025-07-24,Gerinctorna+stretching,17:15-18:15,Majoros Anikó,corvin
+Csütörtök,2025-07-24,Cross Training,17:30-18:30,Auer Bernadett,corvin
+Péntek,2025-07-25,Kangoo,17:00-18:00,Gyurkovics Anikó HU/EN,corvin
+Péntek,2025-07-25,Pilates.,17:15-18:15,Reitter Zsófia,corvin
+Péntek,2025-07-25,Funkcionális köredzés,17:30-18:30,Palkó Roberta HU/EN,corvin
+Péntek,2025-07-25,Indoor Cycling ICG,17:30-18:30,Trankó Ida ,corvin
+Szombat,2025-07-26,Japán jóga/Do-in,17:00-18:30,Kocsis Kata,corvin
+Vasárnap,2025-07-27,Alakformáló,17:00-18:00,Majoros Anikó,corvin
+Vasárnap,2025-07-27,Funkcionális köredzés,17:30-18:30,Tordai Luca,corvin
+Vasárnap,2025-07-27,Szauna felöntés,17:40-18:00,Szaunamester Corvin,corvin
+Hétfő,2025-07-21,Alakformáló,18:00-19:00,Erdélyi Annamari,corvin
+Hétfő,2025-07-21,Pilates.,18:15-19:15,Kocsis Kata,corvin
+Hétfő,2025-07-21,Cross Training,18:30-19:30,Kaszás Lilla,corvin
+Hétfő,2025-07-21,Indoor Cycling ICG,18:30-19:30,Dicső Inez HU/EN,corvin
+Kedd,2025-07-22,Full kondi,18:00-19:00,Erdélyi Annamari,corvin
+Kedd,2025-07-22,Pilates.,18:15-19:15,Majoros Anikó,corvin
+Kedd,2025-07-22,Cross Training,18:30-19:30,Trankó Ida ,corvin
+Kedd,2025-07-22,Indoor Cycling ICG,18:30-19:30,Szalai Ági HU/EN,corvin
+Szerda,2025-07-23,Alakformáló,18:00-19:00,Czigány Betti,corvin
+Szerda,2025-07-23,Pilates.,18:15-19:15,Kocsis Kata,corvin
+Szerda,2025-07-23,Indoor Cycling ICG,18:30-19:30,Dicső Inez HU/EN,corvin
+Szerda,2025-07-23,TRX köredzés,18:30-19:30,Sas Eszter,corvin
+Csütörtök,2025-07-24,Full kondi,18:00-19:00,Erdélyi Annamari,corvin
+Csütörtök,2025-07-24,Pilates.,18:15-19:15,Majoros Anikó,corvin
+Csütörtök,2025-07-24,Hot Iron Cross,18:30-19:30,Molnár Dani,corvin
+Péntek,2025-07-25,Alakformáló,18:00-19:00,Gyurkovics Anikó HU/EN,corvin
+Péntek,2025-07-25,Indoor Cycling ICG,18:30-19:30,Trankó Ida ,corvin
+Péntek,2025-07-25,Jóga.,18:30-19:30,Palkó Roberta HU/EN,corvin
+Szombat,2025-07-26,Indoor Cycling ICG,18:00-19:00,Molnár Tibor ,corvin
+Vasárnap,2025-07-27,Pilates,18:00-19:00,Majoros Anikó,corvin
+Vasárnap,2025-07-27,Szauna felöntés,18:30-18:50,Szaunamester Corvin,corvin
+Hétfő,2025-07-21,Kangoo,19:00-20:00,Gyurkovics Anikó HU/EN,corvin
+Hétfő,2025-07-21,Gerinctorna+stretching.,19:15-20:15,Kocsis Kata,corvin
+Kedd,2025-07-22,Party Fitnesz,19:00-20:00,Lőrincz Ernő,corvin
+Kedd,2025-07-22,BODYART,19:15-20:15,Nyőgér Ági HU/EN,corvin
+Kedd,2025-07-22,Indoor Cycling ICG,19:30-20:30,Molnár Tibor ,corvin
+Kedd,2025-07-22,TRX köredzés,19:30-20:30,Majoros Anikó,corvin
+Szerda,2025-07-23,Kangoo,19:00-20:00,Gyurkovics Anikó HU/EN,corvin
+Szerda,2025-07-23,Gerinctorna+stretching.,19:15-20:15,Kocsis Kata,corvin
+Szerda,2025-07-23,Funkcionális köredzés,19:30-20:30,Trankó Ida ,corvin
+Csütörtök,2025-07-24,Alakformáló,19:00-20:00,Lőrincz Ernő,corvin
+Csütörtök,2025-07-24,BODYART,19:15-20:15,Nyőgér Ági HU/EN,corvin
+Csütörtök,2025-07-24,Indoor Cycling ICG,19:30-20:30,Molnár Tibor ,corvin
+Csütörtök,2025-07-24,TRX köredzés,19:30-21:00,Majoros Anikó,corvin
+Péntek,2025-07-25,Salsa Fitness,19:00-20:00,Osvaldo,corvin
+Péntek,2025-07-25,Stretching.,19:30-20:30,Gyurkovics Anikó HU/EN,corvin
+Hétfő,2025-07-21,Alakformáló,20:00-21:00,Gyurkovics Anikó HU/EN,corvin
+Szerda,2025-07-23,Alakformáló,20:00-21:00,Gyurkovics Anikó HU/EN,corvin
+Kedd,2025-07-15,Funkcionális köredzés,07:00-08:00,Palkó Roberta HU/EN,springday
+Szerda,2025-07-16,BODYART,07:45-08:45,Gergye Laura ,springday
+Csütörtök,2025-07-17,Funkcionális köredzés,07:00-08:00,Palkó Roberta HU/EN,springday
+Péntek,2025-07-18,BODYART,07:45-08:45,Gergye Laura ,springday
+Hétfő,2025-07-14,Aquafitness,08:30-09:15,Tihanyi Ákos ,springday
+Kedd,2025-07-15,Gerinctorna,08:00-09:00,Tihanyi Ákos ,springday
+Szerda,2025-07-16,Aquafitness,08:30-09:15,Tihanyi Ákos ,springday
+Csütörtök,2025-07-17,Gerinctorna,08:00-09:00,Tihanyi Ákos ,springday
+Péntek,2025-07-18,Aquafitness,08:30-09:15,Tihanyi Ákos ,springday
+Kedd,2025-07-15,Pilates gerinc,09:00-10:00,Párdi Erika HU/EN,springday
+Kedd,2025-07-15,Aquafitness,09:15-10:00,Tihanyi Ákos ,springday
+Szerda,2025-07-16,Spinning,09:00-10:00,Gergye Laura ,springday
+Szerda,2025-07-16,Aquafitness,09:15-10:00,Andris Anita ,springday
+Csütörtök,2025-07-17,Pilates,09:00-10:00,Párdi Erika HU/EN,springday
+Csütörtök,2025-07-17,Aquafitness,09:15-10:00,Tihanyi Ákos ,springday
+Péntek,2025-07-18,Spinning,09:00-10:00,Gergye Laura ,springday
+Péntek,2025-07-18,Aquafitness,09:15-10:00,Andris Anita ,springday
+Péntek,2025-07-18,Pilates gerinc.,09:15-10:15,Párdi Erika HU/EN,springday
+Szombat,2025-07-19,Zsírégető,09:00-10:00,Berki Betti ,springday
+Szombat,2025-07-19,Funkcionális köredzés,09:30-10:30,Gerencsér Ágnes,springday
+Vasárnap,2025-07-20,Alakformáló,09:30-10:30,Szabó Júlia,springday
+Kedd,2025-07-15,Stretching.,10:15-11:15,Párdi Erika HU/EN,springday
+Szerda,2025-07-16,Hot Iron,10:00-11:00,Andris Anita ,springday
+Csütörtök,2025-07-17,Stretching.,10:15-11:15,Párdi Erika HU/EN,springday
+Péntek,2025-07-18,Hot Iron,10:00-11:00,Andris Anita ,springday
+Péntek,2025-07-18,Hatha jóga,10:15-11:15,Párdi Erika HU/EN,springday
+Szombat,2025-07-19,Alakformáló,10:00-11:00,Berki Betti ,springday
+Szombat,2025-07-19,Spinning,10:00-11:00,Dankó Krisztina,springday
+Szombat,2025-07-19,Cross Training,10:30-11:30,Gerencsér Ágnes,springday
+Vasárnap,2025-07-20,Core training,10:30-11:30,Juhász Bianka ,springday
+Vasárnap,2025-07-20,Funkcionális köredzés,10:30-11:30,Palkó Roberta HU/EN,springday
+Vasárnap,2025-07-20,Stretching,11:30-12:30,Juhász Bianka ,springday
+Hétfő,2025-07-14,Kezdő funkcionális köredzés ,16:30-17:30,Széles Natália,springday
+Szerda,2025-07-16,Kezdő funkcionális köredzés ,16:30-17:30,Széles Natália,springday
+Péntek,2025-07-18,Zsírégető,16:00-17:00,Szabó Csenge,springday
+Péntek,2025-07-18,Pilates.,16:15-17:15,Kovács Rózsa ,springday
+Péntek,2025-07-18,Funkcionális köredzés,16:30-17:30,Gerencsér Ágnes,springday
+Szombat,2025-07-19,Funkcionális köredzés,16:00-17:00,Gerencsér Ágnes,springday
+Vasárnap,2025-07-20,Szauna felöntés,16:00-16:20,Szaunamester ,springday
+Vasárnap,2025-07-20,Szauna felöntés,16:50-17:10,Szaunamester ,springday
+Hétfő,2025-07-14,Alakformáló,17:00-18:00,Tímea Sifter HU/EN,springday
+Hétfő,2025-07-14,Funkcionális köredzés,17:30-18:30,Széles Natália,springday
+Hétfő,2025-07-14,Spinning,17:30-18:30,Milovecz Tünde,springday
+Kedd,2025-07-15,Aquafitness,17:00-17:45,Andris Anita ,springday
+Kedd,2025-07-15,Zsírégető,17:00-18:00,Ugróczi Móni ,springday
+Kedd,2025-07-15,Core training.,17:15-18:15,Juhász Bianka ,springday
+Kedd,2025-07-15,Funkcionális köredzés,17:30-18:30,Tihanyi Ákos ,springday
+Szerda,2025-07-16,Alakformáló,17:00-18:00,Tímea Sifter HU/EN,springday
+Szerda,2025-07-16,Szauna felöntés,17:00-17:20,Szaunamester ,springday
+Szerda,2025-07-16,DEEPWORK ,17:15-18:15,Gergye Laura ,springday
+Szerda,2025-07-16,Funkcionális köredzés,17:30-18:30,Széles Natália,springday
+Szerda,2025-07-16,Spinning,17:30-18:30,Milovecz Tünde,springday
+Szerda,2025-07-16,Szauna felöntés,17:50-18:10,Szaunamester ,springday
+Csütörtök,2025-07-17,Aquafitness,17:00-17:45,Andris Anita ,springday
+Csütörtök,2025-07-17,Zsírégető,17:00-18:00,Berki Betti ,springday
+Csütörtök,2025-07-17,Core training. ,17:15-18:15,Hesztera Dóra,springday
+Csütörtök,2025-07-17,Funkcionális köredzés,17:30-18:30,Tihanyi Ákos ,springday
+Péntek,2025-07-18,Alakformáló,17:00-18:00,Szabó Csenge,springday
+Péntek,2025-07-18,Szauna felöntés,17:00-17:20,Szaunamester ,springday
+Péntek,2025-07-18,Hatha jóga,17:15-18:15,Kovács Rózsa ,springday
+Péntek,2025-07-18,Cross Training,17:30-18:30,Gerencsér Ágnes,springday
+Péntek,2025-07-18,Spinning,17:30-18:30,Dankó Krisztina,springday
+Péntek,2025-07-18,Szauna felöntés,17:50-18:10,Szaunamester ,springday
+Szombat,2025-07-19,Dance Step,17:00-18:00,Tar Edit,springday
+Vasárnap,2025-07-20,Pilates.,17:15-18:15,Kovács Rózsa ,springday
+Vasárnap,2025-07-20,Szauna felöntés,17:40-18:00,Szaunamester ,springday
+Hétfő,2025-07-14,Kangoo,18:00-19:00,Tímea Sifter HU/EN,springday
+Hétfő,2025-07-14,Pilates gerinc.,18:15-19:15,Párdi Erika HU/EN,springday
+Hétfő,2025-07-14,Cross Training,18:30-19:30,Sas Eszter,springday
+Hétfő,2025-07-14,Spinning,18:30-19:30,Tücsi S. Márti,springday
+Kedd,2025-07-15,Hot Iron,18:00-19:00,Andris Anita ,springday
+Kedd,2025-07-15,Stretching.,18:15-19:15,Juhász Bianka ,springday
+Kedd,2025-07-15,Cross Training,18:30-19:30,Tihanyi Ákos ,springday
+Kedd,2025-07-15,Spinning,18:30-19:30,Milovecz Tünde,springday
+Szerda,2025-07-16,Kangoo,18:00-19:00,Tímea Sifter HU/EN,springday
+Szerda,2025-07-16,Pilates gerinc,18:15-19:15,Párdi Erika HU/EN,springday
+Szerda,2025-07-16,Spinning,18:30-19:30,Gergye Laura ,springday
+Szerda,2025-07-16,Szauna felöntés,18:40-19:00,Szaunamester ,springday
+Csütörtök,2025-07-17,Hot Iron,18:00-19:00,Andris Anita ,springday
+Csütörtök,2025-07-17,Stretching.,18:15-19:15,Hesztera Dóra,springday
+Csütörtök,2025-07-17,Cross Training,18:30-19:30,Tihanyi Ákos ,springday
+Péntek,2025-07-18,Kangoo,18:00-19:00,Kabai Petra,springday
+Péntek,2025-07-18,Kick-box köredzés,18:30-19:30,Kalamár Eszter,springday
+Péntek,2025-07-18,Szauna felöntés,18:40-19:00,Szaunamester ,springday
+Szombat,2025-07-19,Alakformáló,18:00-19:00,Tar Edit,springday
+Vasárnap,2025-07-20,Alakformáló,18:00-19:00,Borbély Beatrix,springday
+Vasárnap,2025-07-20,Hatha jóga,18:15-19:15,Kovács Rózsa ,springday
+Vasárnap,2025-07-20,Szauna felöntés,18:30-18:50,Szaunamester ,springday
+Hétfő,2025-07-14,Zsírégető,19:00-20:00,Borbély Beatrix,springday
+Hétfő,2025-07-14,Hatha jóga,19:15-20:15,Párdi Erika HU/EN,springday
+Kedd,2025-07-15,Alakformáló,19:00-20:00,Tar Edit,springday
+Szerda,2025-07-16,Zsírégető,19:00-20:00,Kovács Laura,springday
+Szerda,2025-07-16,Hatha jóga,19:15-20:15,Párdi Erika HU/EN,springday
+Szerda,2025-07-16,Szauna felöntés,19:30-19:50,Szaunamester ,springday
+Csütörtök,2025-07-17,Alakformáló,19:00-20:00,Tar Edit,springday
+Péntek,2025-07-18,Kick-box köredzés,19:30-20:30,Kalamár Eszter,springday
+Péntek,2025-07-18,Szauna felöntés,19:30-19:50,Szaunamester ,springday
+Hétfő,2025-07-21,BODYART,07:45-08:45,Gergye Laura ,springday
+Kedd,2025-07-22,Funkcionális köredzés,07:00-08:00,Palkó Roberta HU/EN,springday
+Szerda,2025-07-23,BODYART,07:45-08:45,Gergye Laura ,springday
+Csütörtök,2025-07-24,Funkcionális köredzés,07:00-08:00,Palkó Roberta HU/EN,springday
+Péntek,2025-07-25,BODYART,07:45-08:45,Gergye Laura ,springday
+Hétfő,2025-07-21,Aquafitness,08:30-09:15,Tihanyi Ákos ,springday
+Kedd,2025-07-22,Gerinctorna,08:00-09:00,Tihanyi Ákos ,springday
+Szerda,2025-07-23,Aquafitness,08:30-09:15,Tihanyi Ákos ,springday
+Csütörtök,2025-07-24,Gerinctorna,08:00-09:00,Tihanyi Ákos ,springday
+Péntek,2025-07-25,Aquafitness,08:30-09:15,Tihanyi Ákos ,springday
+Hétfő,2025-07-21,Spinning,09:00-10:00,Gergye Laura ,springday
+Kedd,2025-07-22,Pilates gerinc,09:00-10:00,Párdi Erika HU/EN,springday
+Kedd,2025-07-22,Aquafitness,09:15-10:00,Tihanyi Ákos ,springday
+Szerda,2025-07-23,Spinning,09:00-10:00,Gergye Laura ,springday
+Szerda,2025-07-23,Aquafitness,09:15-10:00,Andris Anita ,springday
+Csütörtök,2025-07-24,Pilates,09:00-10:00,Párdi Erika HU/EN,springday
+Csütörtök,2025-07-24,Aquafitness,09:15-10:00,Tihanyi Ákos ,springday
+Péntek,2025-07-25,Spinning,09:00-10:00,Gergye Laura ,springday
+Péntek,2025-07-25,Aquafitness,09:15-10:00,Andris Anita ,springday
+Péntek,2025-07-25,Pilates gerinc.,09:15-10:15,Párdi Erika HU/EN,springday
+Szombat,2025-07-26,Zsírégető,09:00-10:00,Ugróczi Móni ,springday
+Vasárnap,2025-07-27,Alakformáló,09:30-10:30,Hodosi Tamás,springday
+Kedd,2025-07-22,Stretching.,10:15-11:15,Párdi Erika HU/EN,springday
+Szerda,2025-07-23,Hot Iron,10:00-11:00,Andris Anita ,springday
+Csütörtök,2025-07-24,Stretching.,10:15-11:15,Párdi Erika HU/EN,springday
+Péntek,2025-07-25,Hot Iron,10:00-11:00,Andris Anita ,springday
+Péntek,2025-07-25,Hatha jóga,10:15-11:15,Párdi Erika HU/EN,springday
+Szombat,2025-07-26,Alakformáló,10:00-11:00,Ugróczi Móni ,springday
+Szombat,2025-07-26,Spinning,10:00-11:00,Takács Henriett,springday
+Vasárnap,2025-07-27,Core training,10:30-11:30,Juhász Bianka ,springday
+Vasárnap,2025-07-27,Funkcionális köredzés,10:30-11:30,Hodosi Tamás,springday
+Vasárnap,2025-07-27,Stretching,11:30-12:30,Juhász Bianka ,springday
+Hétfő,2025-07-21,Kezdő funkcionális köredzés ,16:30-17:30,Széles Natália,springday
+Szerda,2025-07-23,Kezdő funkcionális köredzés ,16:30-17:30,Széles Natália,springday
+Péntek,2025-07-25,Zsírégető,16:00-17:00,Szabó Csenge,springday
+Péntek,2025-07-25,Pilates.,16:15-17:15,Kovács Rózsa ,springday
+Péntek,2025-07-25,Funkcionális köredzés,16:30-17:30,Széles Natália,springday
+Szombat,2025-07-26,Funkcionális köredzés,16:00-17:00,Széles Natália,springday
+Vasárnap,2025-07-27,Szauna felöntés,16:00-16:20,Szaunamester ,springday
+Vasárnap,2025-07-27,Szauna felöntés,16:50-17:10,Szaunamester ,springday
+Hétfő,2025-07-21,Alakformáló,17:00-18:00,Tímea Sifter HU/EN,springday
+Hétfő,2025-07-21,DEEPWORK ,17:15-18:15,Gergye Laura ,springday
+Hétfő,2025-07-21,Funkcionális köredzés,17:30-18:30,Széles Natália,springday
+Hétfő,2025-07-21,Spinning,17:30-18:30,Trankó Ida ,springday
+Kedd,2025-07-22,Aquafitness,17:00-17:45,Andris Anita ,springday
+Kedd,2025-07-22,Zsírégető,17:00-18:00,Auer Bernadett,springday
+Kedd,2025-07-22,Core training.,17:15-18:15,Juhász Bianka ,springday
+Kedd,2025-07-22,Funkcionális köredzés,17:30-18:30,Tihanyi Ákos ,springday
+Szerda,2025-07-23,Alakformáló,17:00-18:00,Tímea Sifter HU/EN,springday
+Szerda,2025-07-23,Szauna felöntés,17:00-17:20,Szaunamester ,springday
+Szerda,2025-07-23,DEEPWORK ,17:15-18:15,Gergye Laura ,springday
+Szerda,2025-07-23,Funkcionális köredzés,17:30-18:30,Széles Natália,springday
+Szerda,2025-07-23,Spinning,17:30-18:30,Trankó Ida ,springday
+Szerda,2025-07-23,Szauna felöntés,17:50-18:10,Szaunamester ,springday
+Csütörtök,2025-07-24,Aquafitness,17:00-17:45,Andris Anita ,springday
+Csütörtök,2025-07-24,Zsírégető,17:00-18:00,Ugróczi Móni ,springday
+Csütörtök,2025-07-24,Core training. ,17:15-18:15,Hesztera Dóra,springday
+Csütörtök,2025-07-24,Funkcionális köredzés,17:30-18:30,Tihanyi Ákos ,springday
+Péntek,2025-07-25,Alakformáló,17:00-18:00,Szabó Csenge,springday
+Péntek,2025-07-25,Szauna felöntés,17:00-17:20,Szaunamester ,springday
+Péntek,2025-07-25,Hatha jóga,17:15-18:15,Kovács Rózsa ,springday
+Péntek,2025-07-25,Cross Training,17:30-18:30,Széles Natália,springday
+Péntek,2025-07-25,Spinning,17:30-18:30,Dankó Krisztina,springday
+Péntek,2025-07-25,Szauna felöntés,17:50-18:10,Szaunamester ,springday
+Szombat,2025-07-26,Dance Step,17:00-18:00,Tar Edit,springday
+Vasárnap,2025-07-27,Pilates.,17:15-18:15,Kovács Rózsa ,springday
+Vasárnap,2025-07-27,Szauna felöntés,17:40-18:00,Szaunamester ,springday
+Hétfő,2025-07-21,Kangoo,18:00-19:00,Tímea Sifter HU/EN,springday
+Hétfő,2025-07-21,Pilates gerinc.,18:15-19:15,Párdi Erika HU/EN,springday
+Hétfő,2025-07-21,Cross Training,18:30-19:30,Sas Eszter,springday
+Hétfő,2025-07-21,Spinning,18:30-19:30,Gergye Laura ,springday
+Kedd,2025-07-22,Hot Iron,18:00-19:00,Andris Anita ,springday
+Kedd,2025-07-22,Stretching.,18:15-19:15,Juhász Bianka ,springday
+Kedd,2025-07-22,Cross Training,18:30-19:30,Tihanyi Ákos ,springday
+Kedd,2025-07-22,Spinning,18:30-19:30,Dankó Krisztina,springday
+Szerda,2025-07-23,Kangoo,18:00-19:00,Tímea Sifter HU/EN,springday
+Szerda,2025-07-23,Pilates gerinc,18:15-19:15,Párdi Erika HU/EN,springday
+Szerda,2025-07-23,Spinning,18:30-19:30,Gergye Laura ,springday
+Szerda,2025-07-23,Szauna felöntés,18:40-19:00,Szaunamester ,springday
+Csütörtök,2025-07-24,Hot Iron,18:00-19:00,Andris Anita ,springday
+Csütörtök,2025-07-24,Stretching.,18:15-19:15,Hesztera Dóra,springday
+Csütörtök,2025-07-24,Cross Training,18:30-19:30,Tihanyi Ákos ,springday
+Péntek,2025-07-25,Kangoo,18:00-19:00,Kabai Petra,springday
+Péntek,2025-07-25,Kick-box köredzés,18:30-19:30,Kalamár Eszter,springday
+Péntek,2025-07-25,Szauna felöntés,18:40-19:00,Szaunamester ,springday
+Szombat,2025-07-26,Alakformáló,18:00-19:00,Tar Edit,springday
+Vasárnap,2025-07-27,Alakformáló,18:00-19:00,Berki Betti ,springday
+Vasárnap,2025-07-27,Hatha jóga,18:15-19:15,Kovács Rózsa ,springday
+Vasárnap,2025-07-27,Szauna felöntés,18:30-18:50,Szaunamester ,springday
+Hétfő,2025-07-21,Zsírégető,19:00-20:00,Borbély Beatrix,springday
+Hétfő,2025-07-21,Hatha jóga,19:15-20:15,Párdi Erika HU/EN,springday
+Kedd,2025-07-22,Alakformáló,19:00-20:00,Tar Edit,springday
+Szerda,2025-07-23,Zsírégető,19:00-20:00,Borbély Beatrix,springday
+Szerda,2025-07-23,Hatha jóga,19:15-20:15,Párdi Erika HU/EN,springday
+Szerda,2025-07-23,Szauna felöntés,19:30-19:50,Szaunamester ,springday
+Csütörtök,2025-07-24,Alakformáló,19:00-20:00,Tar Edit,springday
+Péntek,2025-07-25,Kick-box köredzés,19:30-20:30,Kalamár Eszter,springday
+Péntek,2025-07-25,Szauna felöntés,19:30-19:50,Szaunamester ,springday
+Hétfő,2025-07-14,Cross Training,06:30-07:30,Borbély Noémi HU/EN,etele
+Kedd,2025-07-15,Funkcionális köredzés,06:30-07:30,Kovács Laura,etele
+Kedd,2025-07-15,Indoor Cycling ICG,06:45-07:45,Adamkó Szilvi,etele
+Szerda,2025-07-16,Cross Training,06:30-07:30,Borbély Noémi HU/EN,etele
+Csütörtök,2025-07-17,Funkcionális köredzés,06:30-07:30,Kovács Laura,etele
+Péntek,2025-07-18,Cross Training,06:30-07:30,Borbély Noémi HU/EN,etele
+Péntek,2025-07-18,Indoor Cycling ICG,06:45-07:45,Adamkó Szilvi,etele
+Kedd,2025-07-15,Gerinctorna+stretching,07:30-08:30,Kovács Laura,etele
+Csütörtök,2025-07-17,Gerinctorna+stretching,07:30-08:30,Kovács Laura,etele
+Péntek,2025-07-18,Pilates,07:30-08:30,Majoros Anikó,etele
+Szombat,2025-07-19,Dinamikus jóga,08:45-09:45,Erdős Réka ,etele
+Vasárnap,2025-07-20,TRX köredzés,08:30-09:30,Kovács Laura,etele
+Vasárnap,2025-07-20,Funkcionális köredzés,09:30-10:30,Kovács Laura,etele
+Vasárnap,2025-07-20,Gerinctorna,09:45-10:30,Kárpáti Móni ,etele
+Szombat,2025-07-19,Indoor Cycling ICG,10:00-11:00,Nagy Regina,etele
+Szombat,2025-07-19,Kangoo,10:00-11:00,Petracsek Virág,etele
+Szombat,2025-07-19,Funkcionális köredzés,10:30-11:30,Palkó Roberta HU/EN,etele
+Vasárnap,2025-07-20,Indoor Cycling ICG,10:45-11:45,Kárpáti Móni ,etele
+Vasárnap,2025-07-20,Stretching,10:45-11:45,Kovács Laura,etele
+Kedd,2025-07-15,Funkcionális köredzés,11:30-12:30,Boros Orsolya HU/EN,etele
+Csütörtök,2025-07-17,Funkcionális köredzés,11:30-12:30,Boros Orsolya HU/EN,etele
+Hétfő,2025-07-14,Zsírégető,12:00-13:00,Adamkó Szilvi,etele
+Hétfő,2025-07-14,Funkcionális köredzés,12:30-13:30,Szalma Borka,etele
+Kedd,2025-07-15,Indoor Cycling ICG,12:00-13:00,Moldova Gyuri HU/EN,etele
+Kedd,2025-07-15,Pilates,12:45-13:45,Boros Orsolya HU/EN,etele
+Szerda,2025-07-16,Alakformáló,12:00-13:00,Adamkó Szilvi,etele
+Szerda,2025-07-16,Funkcionális köredzés,12:30-13:30,Szalma Borka,etele
+Csütörtök,2025-07-17,Indoor Cycling ICG,12:00-13:00,Moldova Gyuri HU/EN,etele
+Csütörtök,2025-07-17,Pilates,12:45-13:45,Boros Orsolya HU/EN,etele
+Péntek,2025-07-18,Alakformáló,12:00-13:00,Adamkó Szilvi,etele
+Hétfő,2025-07-14,Pilates,15:45-16:45,Kárpáti Ildikó HU/EN,etele
+Szerda,2025-07-16,Pilates,15:45-16:45,Kárpáti Ildikó HU/EN,etele
+Hétfő,2025-07-14,Gerinctorna+stretching,16:45-17:45,Kárpáti Ildikó HU/EN,etele
+Kedd,2025-07-15,Kezdő funkcionális köredzés ,16:30-17:30,Szentgyörgyi Lilien,etele
+Kedd,2025-07-15,Dinamikus jóga,16:45-17:45,Erdős Réka ,etele
+Szerda,2025-07-16,Gerinctorna+stretching,16:45-17:45,Kárpáti Ildikó HU/EN,etele
+Csütörtök,2025-07-17,Kezdő funkcionális köredzés ,16:30-17:30,Szalma Borka,etele
+Csütörtök,2025-07-17,Dinamikus jóga,16:45-17:45,Erdős Réka ,etele
+Péntek,2025-07-18,TRX köredzés,16:30-17:30,Kárpáti Ildikó HU/EN,etele
+Hétfő,2025-07-14,Alakformáló,17:00-18:00,Szabó Csenge,etele
+Hétfő,2025-07-14,Indoor Cycling ICG,17:15-18:15,Dráviczki Sándor,etele
+Hétfő,2025-07-14,Funkcionális köredzés,17:30-18:30,Majoros Anikó,etele
+Hétfő,2025-07-14,Dinamikus jóga,17:45-18:45,Zsombok-Macsári Dzsenifer ,etele
+Kedd,2025-07-15,Zsírégető,17:00-18:00,Szalma Borka,etele
+Kedd,2025-07-15,Indoor Cycling ICG,17:15-18:15,Szőcs Gabi HU/EN,etele
+Kedd,2025-07-15,TRX köredzés,17:30-18:30,Trankó Ida ,etele
+Kedd,2025-07-15,Pilates,17:45-18:45,Erdős Réka ,etele
+Szerda,2025-07-16,Alakformáló,17:00-18:00,Szabó Csenge,etele
+Szerda,2025-07-16,Indoor Cycling ICG,17:15-18:15,Dráviczki Sándor,etele
+Szerda,2025-07-16,Funkcionális köredzés,17:30-18:30,Majoros Anikó,etele
+Szerda,2025-07-16,Dinamikus jóga,17:45-18:45,Zsombok-Macsári Dzsenifer ,etele
+Csütörtök,2025-07-17,Indoor Cycling ICG,17:15-18:15,Szőcs Gabi HU/EN,etele
+Csütörtök,2025-07-17,TRX köredzés,17:30-18:30,Szalma Borka,etele
+Csütörtök,2025-07-17,Pilates,17:45-18:45,Erdős Réka ,etele
+Péntek,2025-07-18,Funkcionális köredzés,17:30-19:00,Majoros Anikó,etele
+Péntek,2025-07-18,Pilates,17:45-18:45,Kárpáti Ildikó HU/EN,etele
+Szombat,2025-07-19,Alakformáló,17:00-18:00,Csapó Aliz,etele
+Vasárnap,2025-07-20,Indoor Cycling ICG,17:15-18:15,Szőcs Gabi HU/EN,etele
+Vasárnap,2025-07-20,Funkcionális köredzés,17:30-18:30,Csapó Aliz,etele
+Hétfő,2025-07-14,Zsírégető,18:00-19:00,Adamkó Szilvi,etele
+Hétfő,2025-07-14,Indoor Cycling ICG,18:15-19:15,Dráviczki Sándor,etele
+Hétfő,2025-07-14,TRX köredzés,18:30-19:30,Kárpáti Ildikó HU/EN,etele
+Kedd,2025-07-15,Hot Iron I,18:00-19:00,Szedeli Fanni ,etele
+Kedd,2025-07-15,Indoor Cycling ICG,18:15-19:15,Kárpáti Móni ,etele
+Kedd,2025-07-15,Funkcionális köredzés,18:30-19:30,Szebenyi Szabina,etele
+Szerda,2025-07-16,Zsírégető,18:00-19:00,Adamkó Szilvi,etele
+Szerda,2025-07-16,Indoor Cycling ICG,18:15-19:15,Dráviczki Sándor,etele
+Szerda,2025-07-16,TRX köredzés,18:30-19:30,Kárpáti Ildikó HU/EN,etele
+Csütörtök,2025-07-17,Hot Iron I,18:00-19:00,Göde Dorka,etele
+Csütörtök,2025-07-17,Indoor Cycling ICG,18:15-19:15,Kárpáti Móni ,etele
+Csütörtök,2025-07-17,Funkcionális köredzés,18:30-19:30,Szebenyi Szabina,etele
+Péntek,2025-07-18,Hot Iron Cross,18:00-19:00,Szedeli Fanni ,etele
+Péntek,2025-07-18,Jóga,18:45-19:45,Boros Orsolya HU/EN,etele
+Szombat,2025-07-19,Cross Training,18:00-19:00,Csapó Aliz,etele
+Vasárnap,2025-07-20,Pilates,18:00-19:00,Oli Renáta,etele
+Vasárnap,2025-07-20,Indoor Cycling ICG,18:15-19:15,Szőcs Gabi HU/EN,etele
+Hétfő,2025-07-14,Kangoo,19:00-20:00,Petracsek Virág,etele
+Hétfő,2025-07-14,Indoor Cycling ICG,19:15-20:15,Adamkó Szilvi,etele
+Hétfő,2025-07-14,Cross Training,19:30-20:30,Kárpáti Ildikó HU/EN,etele
+Hétfő,2025-07-14,Pilates,19:45-20:45,Oli Renáta,etele
+Kedd,2025-07-15,Alakformáló,19:00-20:00,Szalma Borka,etele
+Kedd,2025-07-15,Indoor Cycling ICG,19:15-20:15,Ujhelyi Zsuzsi HU/EN,etele
+Kedd,2025-07-15,Cross Training,19:30-20:30,Göde Dorka,etele
+Szerda,2025-07-16,Kangoo,19:00-20:00,Petracsek Virág,etele
+Szerda,2025-07-16,Indoor Cycling ICG,19:15-20:15,Adamkó Szilvi,etele
+Szerda,2025-07-16,Cross Training,19:30-20:30,Kárpáti Ildikó HU/EN,etele
+Szerda,2025-07-16,Pilates,19:45-20:45,Oli Renáta,etele
+Csütörtök,2025-07-17,Alakformáló,19:00-20:00,Szalma Borka,etele
+Csütörtök,2025-07-17,Indoor Cycling ICG,19:15-20:15,Ujhelyi Zsuzsi HU/EN,etele
+Csütörtök,2025-07-17,Cross Training,19:30-20:30,Göde Dorka,etele
+Péntek,2025-07-18,Cross Training,19:00-20:00,Kárpáti Ildikó HU/EN,etele
+Hétfő,2025-07-21,Cross Training,06:30-07:30,Borbély Noémi HU/EN,etele
+Kedd,2025-07-22,Funkcionális köredzés,06:30-07:30,Kárpáti Ildikó HU/EN,etele
+Kedd,2025-07-22,Indoor Cycling ICG,06:45-07:45,Adamkó Szilvi,etele
+Szerda,2025-07-23,Cross Training,06:30-07:30,Borbély Noémi HU/EN,etele
+Csütörtök,2025-07-24,Funkcionális köredzés,06:30-07:30,Kárpáti Ildikó HU/EN,etele
+Péntek,2025-07-25,Cross Training,06:30-07:30,Borbély Noémi HU/EN,etele
+Péntek,2025-07-25,Indoor Cycling ICG,06:45-07:45,Adamkó Szilvi,etele
+Kedd,2025-07-22,Gerinctorna+stretching,07:30-08:30,Kárpáti Ildikó HU/EN,etele
+Csütörtök,2025-07-24,Gerinctorna+stretching,07:30-08:30,Kárpáti Ildikó HU/EN,etele
+Péntek,2025-07-25,Pilates,07:30-08:30,Majoros Anikó,etele
+Szombat,2025-07-26,Dinamikus jóga,08:45-09:45,Erdős Réka ,etele
+Vasárnap,2025-07-27,Funkcionális köredzés,09:30-10:30,Palkó Roberta HU/EN,etele
+Vasárnap,2025-07-27,Gerinctorna,09:45-10:30,Kárpáti Móni ,etele
+Szombat,2025-07-26,Kangoo,10:00-11:00,Petracsek Virág,etele
+Szombat,2025-07-26,Funkcionális köredzés,10:30-11:30,Sánta Stella HU/EN,etele
+Vasárnap,2025-07-27,Indoor Cycling ICG,10:45-11:45,Kárpáti Móni ,etele
+Vasárnap,2025-07-27,Stretching,10:45-11:45,Auer Bernadett,etele
+Kedd,2025-07-22,Funkcionális köredzés,11:30-12:30,Boros Orsolya HU/EN,etele
+Csütörtök,2025-07-24,Funkcionális köredzés,11:30-12:30,Majoros Anikó,etele
+Hétfő,2025-07-21,Zsírégető,12:00-13:00,Adamkó Szilvi,etele
+Kedd,2025-07-22,Indoor Cycling ICG,12:00-13:00,Moldova Gyuri HU/EN,etele
+Kedd,2025-07-22,Pilates,12:45-13:45,Boros Orsolya HU/EN,etele
+Szerda,2025-07-23,Alakformáló,12:00-13:00,Adamkó Szilvi,etele
+Csütörtök,2025-07-24,Indoor Cycling ICG,12:00-13:00,Moldova Gyuri HU/EN,etele
+Csütörtök,2025-07-24,Pilates,12:45-13:45,Majoros Anikó,etele
+Péntek,2025-07-25,Alakformáló,12:00-13:00,Adamkó Szilvi,etele
+Hétfő,2025-07-21,Pilates,15:45-16:45,Kárpáti Ildikó HU/EN,etele
+Szerda,2025-07-23,Pilates,15:45-16:45,Kárpáti Ildikó HU/EN,etele
+Hétfő,2025-07-21,Gerinctorna+stretching,16:45-17:45,Kárpáti Ildikó HU/EN,etele
+Kedd,2025-07-22,Kezdő funkcionális köredzés ,16:30-17:30,Szentgyörgyi Lilien,etele
+Kedd,2025-07-22,Dinamikus jóga,16:45-17:45,Erdős Réka ,etele
+Szerda,2025-07-23,Gerinctorna+stretching,16:45-17:45,Kárpáti Ildikó HU/EN,etele
+Csütörtök,2025-07-24,Kezdő funkcionális köredzés ,16:30-17:30,Szalma Borka,etele
+Csütörtök,2025-07-24,Dinamikus jóga,16:45-17:45,Erdős Réka ,etele
+Péntek,2025-07-25,TRX köredzés,16:30-17:30,Csapó Aliz,etele
+Hétfő,2025-07-21,Alakformáló,17:00-18:00,Szabó Csenge,etele
+Hétfő,2025-07-21,Funkcionális köredzés,17:30-18:30,Majoros Anikó,etele
+Kedd,2025-07-22,Zsírégető,17:00-18:00,Berki Betti ,etele
+Kedd,2025-07-22,Indoor Cycling ICG,17:15-18:15,Szőcs Gabi HU/EN,etele
+Kedd,2025-07-22,TRX köredzés,17:30-18:30,Gyurkovics Anikó HU/EN,etele
+Kedd,2025-07-22,Pilates,17:45-18:45,Erdős Réka ,etele
+Szerda,2025-07-23,Alakformáló,17:00-18:00,Szabó Csenge,etele
+Szerda,2025-07-23,Indoor Cycling ICG,17:15-18:15,Dráviczki Sándor,etele
+Szerda,2025-07-23,Funkcionális köredzés,17:30-18:30,Majoros Anikó,etele
+Szerda,2025-07-23,Dinamikus jóga,17:45-18:45,Zsombok-Macsári Dzsenifer ,etele
+Csütörtök,2025-07-24,Indoor Cycling ICG,17:15-18:15,Szőcs Gabi HU/EN,etele
+Csütörtök,2025-07-24,TRX köredzés,17:30-18:30,Gyurkovics Anikó HU/EN,etele
+Csütörtök,2025-07-24,Pilates,17:45-18:45,Erdős Réka ,etele
+Péntek,2025-07-25,Funkcionális köredzés,17:30-19:00,Majoros Anikó,etele
+Péntek,2025-07-25,Pilates,17:45-18:45,Kocsis Kata,etele
+Szombat,2025-07-26,Alakformáló,17:00-18:00,Szalma Borka,etele
+Vasárnap,2025-07-27,Indoor Cycling ICG,17:15-18:15,Trankó Ida ,etele
+Vasárnap,2025-07-27,Funkcionális köredzés,17:30-18:30,Szalma Borka,etele
+Hétfő,2025-07-21,Zsírégető,18:00-19:00,Adamkó Szilvi,etele
+Hétfő,2025-07-21,TRX köredzés,18:30-19:30,Kárpáti Ildikó HU/EN,etele
+Kedd,2025-07-22,Hot Iron I,18:00-19:00,Szedeli Fanni ,etele
+Kedd,2025-07-22,Indoor Cycling ICG,18:15-19:15,Kárpáti Móni ,etele
+Kedd,2025-07-22,Funkcionális köredzés,18:30-19:30,Szebenyi Szabina,etele
+Szerda,2025-07-23,Zsírégető,18:00-19:00,Adamkó Szilvi,etele
+Szerda,2025-07-23,Indoor Cycling ICG,18:15-19:15,Dráviczki Sándor,etele
+Szerda,2025-07-23,TRX köredzés,18:30-19:30,Kárpáti Ildikó HU/EN,etele
+Csütörtök,2025-07-24,Hot Iron I,18:00-19:00,Göde Dorka,etele
+Csütörtök,2025-07-24,Indoor Cycling ICG,18:15-19:15,Kárpáti Móni ,etele
+Csütörtök,2025-07-24,Funkcionális köredzés,18:30-19:30,Szebenyi Szabina,etele
+Csütörtök,2025-07-24,Gerinctorna,18:45-19:45,Reitter Zsófia,etele
+Péntek,2025-07-25,Súlyzórudas edzés,18:00-19:00,Hodosi Tamás,etele
+Péntek,2025-07-25,Stretching,18:45-19:45,Kocsis Kata,etele
+Szombat,2025-07-26,Cross Training,18:00-19:00,Szalma Borka,etele
+Vasárnap,2025-07-27,Pilates,18:00-19:00,Oli Renáta,etele
+Vasárnap,2025-07-27,Indoor Cycling ICG,18:15-19:15,Trankó Ida ,etele
+Hétfő,2025-07-21,Kangoo,19:00-20:00,Petracsek Virág,etele
+Hétfő,2025-07-21,Indoor Cycling ICG,19:15-20:15,Adamkó Szilvi,etele
+Hétfő,2025-07-21,Cross Training,19:30-20:30,Kárpáti Ildikó HU/EN,etele
+Hétfő,2025-07-21,Pilates,19:45-20:45,Oli Renáta,etele
+Kedd,2025-07-22,Alakformáló,19:00-20:00,Gyurkovics Anikó HU/EN,etele
+Kedd,2025-07-22,Indoor Cycling ICG,19:15-20:15,Ujhelyi Zsuzsi HU/EN,etele
+Kedd,2025-07-22,Cross Training,19:30-20:30,Göde Dorka,etele
+Szerda,2025-07-23,Kangoo,19:00-20:00,Petracsek Virág,etele
+Szerda,2025-07-23,Indoor Cycling ICG,19:15-20:15,Adamkó Szilvi,etele
+Szerda,2025-07-23,Cross Training,19:30-20:30,Kárpáti Ildikó HU/EN,etele
+Szerda,2025-07-23,Pilates,19:45-20:45,Oli Renáta,etele
+Csütörtök,2025-07-24,Alakformáló,19:00-20:00,Gyurkovics Anikó HU/EN,etele
+Csütörtök,2025-07-24,Indoor Cycling ICG,19:15-20:15,Ujhelyi Zsuzsi HU/EN,etele
+Csütörtök,2025-07-24,Cross Training,19:30-20:30,Göde Dorka,etele
+Péntek,2025-07-25,Cross Training,19:00-20:00,Csapó Aliz,etele
+Hétfő,2025-07-14,Cross Training,07:30-08:30,Kárpáti Ildikó HU/EN,vaci35
+Kedd,2025-07-15,Funkcionális köredzés,07:30-08:30,Tóth Anett,vaci35
+Szerda,2025-07-16,Cross Training,07:30-08:30,Kárpáti Ildikó HU/EN,vaci35
+Csütörtök,2025-07-17,Funkcionális köredzés,07:30-08:30,Harnos Erika ,vaci35
+Péntek,2025-07-18,Alakformáló,07:00-08:00,Katona Reni,vaci35
+Hétfő,2025-07-14,Pilates,08:30-09:30,Kárpáti Ildikó HU/EN,vaci35
+Szerda,2025-07-16,Pilates,08:30-09:30,Kárpáti Ildikó HU/EN,vaci35
+Szombat,2025-07-19,Alakformáló,08:30-09:30,Nagy Zsuzsa,vaci35
+Kedd,2025-07-15,Funkcionális köredzés,12:30-13:30,Szalma Borka,vaci35
+Csütörtök,2025-07-17,Funkcionális köredzés,12:30-13:30,Szalma Borka,vaci35
+Hétfő,2025-07-14,Salsa Fitness,16:00-17:00,Osvaldo,vaci35
+Kedd,2025-07-15,Pilates,16:00-17:00,Kárpáti Ildikó HU/EN,vaci35
+Szerda,2025-07-16,Full kondi,16:00-17:00,Samu Kriszti,vaci35
+Csütörtök,2025-07-17,Pilates,16:00-17:00,Kárpáti Ildikó HU/EN,vaci35
+Péntek,2025-07-18,Gerinctorna,16:00-17:00,Tordai Luca,vaci35
+Hétfő,2025-07-14,Alakformáló,17:00-18:00,Samu Kriszti,vaci35
+Kedd,2025-07-15,TRX,17:00-18:00,Kárpáti Ildikó HU/EN,vaci35
+Kedd,2025-07-15,Zsírégető,17:00-18:00,Kabai Petra,vaci35
+Szerda,2025-07-16,Alakformáló,17:00-18:00,Samu Kriszti,vaci35
+Csütörtök,2025-07-17,TRX,17:00-18:00,Nagy Zsuzsa,vaci35
+Csütörtök,2025-07-17,Zsírégető,17:00-18:00,Kabai Petra,vaci35
+Péntek,2025-07-18,Funkcionális köredzés,17:00-18:00,Tordai Luca,vaci35
+Vasárnap,2025-07-20,Funkcionális köredzés,17:15-18:15,Serrano Gergő HU/EN,vaci35
+Hétfő,2025-07-14,Hot Iron Cross,18:00-19:00,Szalka Andi,vaci35
+Hétfő,2025-07-14,Cross Training,18:15-19:15,Kempelen Zita,vaci35
+Kedd,2025-07-15,Alakformáló,18:00-19:00,Stein Fanni,vaci35
+Kedd,2025-07-15,Cross Training,18:00-19:00,Fodor Gabriella,vaci35
+Szerda,2025-07-16,Hot Iron Cross,18:00-19:00,Szalka Andi,vaci35
+Szerda,2025-07-16,Cross Training,18:15-19:15,Kempelen Zita,vaci35
+Csütörtök,2025-07-17,Alakformáló,18:00-19:00,Nagy Zsuzsa,vaci35
+Csütörtök,2025-07-17,Cross Training,18:00-19:00,Fodor Gabriella,vaci35
+Péntek,2025-07-18,Jóga & Stretching,18:00-19:00,Völgyes Flávia,vaci35
+Péntek,2025-07-18,Alakformáló,18:30-19:30,Molnár Dani,vaci35
+Vasárnap,2025-07-20,Alakformáló,18:00-19:00,Berki Betti ,vaci35
+Vasárnap,2025-07-20,TRX köredzés,18:15-19:15,Serrano Gergő HU/EN,vaci35
+Hétfő,2025-07-14,Zsírégető,19:00-20:00,Molnár Dani,vaci35
+Kedd,2025-07-15,Hot Iron II,19:00-20:00,Hóbel Timi ,vaci35
+Kedd,2025-07-15,Zsákos köredzés,19:00-20:00,Pócs Krisztián,vaci35
+Szerda,2025-07-16,Pilates,19:00-20:00,Völgyes Flávia,vaci35
+Szerda,2025-07-16,Funkcionális köredzés,19:15-20:15,Molnár Dani,vaci35
+Csütörtök,2025-07-17,Hot Iron Cross,19:00-20:00,Hóbel Timi ,vaci35
+Kedd,2025-07-15,Salsa Fitness,20:00-21:00,Osvaldo,vaci35
+Hétfő,2025-07-21,Cross Training,07:30-08:30,Kárpáti Ildikó HU/EN,vaci35
+Kedd,2025-07-22,Funkcionális köredzés,07:30-08:30,Tóth Anett,vaci35
+Szerda,2025-07-23,Cross Training,07:30-08:30,Kárpáti Ildikó HU/EN,vaci35
+Csütörtök,2025-07-24,Funkcionális köredzés,07:30-08:30,Harnos Erika ,vaci35
+Péntek,2025-07-25,Alakformáló,07:00-08:00,Katona Reni,vaci35
+Hétfő,2025-07-21,Pilates,08:30-09:30,Kárpáti Ildikó HU/EN,vaci35
+Szerda,2025-07-23,Pilates,08:30-09:30,Kárpáti Ildikó HU/EN,vaci35
+Szombat,2025-07-26,Alakformáló,08:30-09:30,Nagy Zsuzsa,vaci35
+Csütörtök,2025-07-24,Funkcionális köredzés,12:30-13:30,Szalma Borka,vaci35
+Hétfő,2025-07-21,Salsa Fitness,16:00-17:00,Osvaldo,vaci35
+Kedd,2025-07-22,Pilates,16:00-17:00,Kárpáti Ildikó HU/EN,vaci35
+Csütörtök,2025-07-24,Pilates,16:00-17:00,Kárpáti Ildikó HU/EN,vaci35
+Hétfő,2025-07-21,Alakformáló,17:00-18:00,Samu Kriszti,vaci35
+Kedd,2025-07-22,TRX,17:00-18:00,Kárpáti Ildikó HU/EN,vaci35
+Kedd,2025-07-22,Zsírégető,17:00-18:00,Kabai Petra,vaci35
+Szerda,2025-07-23,Alakformáló,17:00-18:00,Samu Kriszti,vaci35
+Csütörtök,2025-07-24,TRX,17:00-18:00,Nagy Zsuzsa,vaci35
+Csütörtök,2025-07-24,Zsírégető,17:00-18:00,Kabai Petra,vaci35
+Vasárnap,2025-07-27,Funkcionális köredzés,17:15-18:15,Serrano Gergő HU/EN,vaci35
+Hétfő,2025-07-21,Hot Iron Cross,18:00-19:00,Molnár Dani,vaci35
+Hétfő,2025-07-21,Cross Training,18:15-19:15,Kempelen Zita,vaci35
+Kedd,2025-07-22,Alakformáló,18:00-19:00,Stein Fanni,vaci35
+Kedd,2025-07-22,Cross Training,18:00-19:00,Fodor Gabriella,vaci35
+Szerda,2025-07-23,Hot Iron Cross,18:00-19:00,Samu Kriszti,vaci35
+Szerda,2025-07-23,Cross Training,18:15-19:15,Kempelen Zita,vaci35
+Csütörtök,2025-07-24,Alakformáló,18:00-19:00,Nagy Zsuzsa,vaci35
+Csütörtök,2025-07-24,Cross Training,18:00-19:00,Fodor Gabriella,vaci35
+Péntek,2025-07-25,Jóga & Stretching,18:00-19:00,Völgyes Flávia,vaci35
+Péntek,2025-07-25,Alakformáló,18:30-19:30,Molnár Dani,vaci35
+Vasárnap,2025-07-27,Alakformáló,18:00-19:00,Katona Reni,vaci35
+Vasárnap,2025-07-27,TRX köredzés,18:15-19:15,Serrano Gergő HU/EN,vaci35
+Hétfő,2025-07-21,Zsírégető,19:00-20:00,Molnár Dani,vaci35
+Kedd,2025-07-22,Hot Iron II,19:00-20:00,Hóbel Timi ,vaci35
+Kedd,2025-07-22,Zsákos köredzés,19:00-20:00,Takács Henriett,vaci35
+Szerda,2025-07-23,Pilates,19:00-20:00,Völgyes Flávia,vaci35
+Szerda,2025-07-23,Funkcionális köredzés,19:15-20:15,Molnár Dani,vaci35
+Csütörtök,2025-07-24,Hot Iron Cross,19:00-20:00,Hóbel Timi ,vaci35
+Csütörtök,2025-07-24,Zsákos köredzés,19:00-20:00,Takács Henriett,vaci35
+Kedd,2025-07-22,Salsa Fitness,20:00-21:00,Osvaldo,vaci35
