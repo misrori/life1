@@ -161,7 +161,6 @@ Szerda,2026-11-04,Dinamikus gerinctorna,19:30-20:30,Virág Vera,allee
 Csütörtök,2026-11-05,Zsírégető,19:00-20:00,Szabó Júlia,allee
 Csütörtök,2026-11-05,Funkcionális köredzés,19:15-20:15,Sánta Stella HU/EN,allee
 Csütörtök,2026-11-05,Dinamikus jóga,19:30-20:30,Erdős Réka ,allee
-Péntek,2026-11-06,Kezdő dance step,19:00-20:00,Harnos Erika ,allee
 Péntek,2026-11-06,Stretching.,19:00-20:00,Dobos Fanny HU/EN,allee
 Péntek,2026-11-06,TRX köredzés,19:00-20:00,Vujicsity Viktória,allee
 Hétfő,2026-11-02,Hot Iron I,20:00-21:00,Dobos Fanny HU/EN,allee
@@ -176,7 +175,6 @@ Kedd,2026-10-27,Indoor Cycling ICG,07:45-08:45,Králik Eszter HU/EN,nyugati
 Szerda,2026-10-28,Funkcionális köredzés,07:15-08:15,Vatamány Krisztina ,nyugati
 Péntek,2026-10-30,Indoor Cycling ICG,07:30-08:30,Ujhelyi Zsuzsi HU/EN,nyugati
 Péntek,2026-10-30,TRX köredzés,07:45-08:45,Kárpáti Ildikó HU/EN,nyugati
-Péntek,2026-10-30,Pilates,08:00-09:00,Reitter Zsófia,nyugati
 Szombat,2026-10-31,KRAV-MAGA,08:00-09:30,Sira Gyula,nyugati
 Kedd,2026-10-27,Hot Iron Cross,09:00-10:00,Szalka Andi,nyugati
 Kedd,2026-10-27,Jóga,09:00-10:00,Palkó Roberta HU/EN,nyugati
@@ -205,7 +203,7 @@ Szerda,2026-10-28,Pilates.,16:00-17:00,Polányi Petra,nyugati
 Szerda,2026-10-28,TRX köredzés,16:15-17:15,Fábián Roland,nyugati
 Szerda,2026-10-28,Indoor Cycling ICG,16:30-17:30,Kazi Alex,nyugati
 Szerda,2026-10-28,Kezdő dance step,16:45-17:45,Harnos Erika ,nyugati
-Csütörtök,2026-10-29,Alakformáló,16:00-17:00,Borbély Beatrix,nyugati
+Csütörtök,2026-10-29,Alakformáló,16:00-17:00,Kis Zsófi,nyugati
 Csütörtök,2026-10-29,Indoor Cycling ICG,16:30-17:30,Böröcz Anita,nyugati
 Csütörtök,2026-10-29,Gerinctorna+stretching,16:45-17:45,Kocsis Kata,nyugati
 Péntek,2026-10-30,Alakformáló,16:00-17:00,Polányi Petra,nyugati
@@ -276,8 +274,10 @@ Hétfő,2026-11-02,Funkcionális köredzés,07:15-08:15,Vatamány Krisztina ,nyu
 Kedd,2026-11-03,Dinamikus pilates,07:30-08:30,Antal Laura HU/EN,nyugati
 Kedd,2026-11-03,Indoor Cycling ICG,07:45-08:45,Králik Eszter HU/EN,nyugati
 Szerda,2026-11-04,Funkcionális köredzés,07:15-08:15,Vatamány Krisztina ,nyugati
+Csütörtök,2026-11-05,Funkcionális köredzés,07:00-08:00,Szalma Borka,nyugati
 Péntek,2026-11-06,Indoor Cycling ICG,07:30-08:30,Ujhelyi Zsuzsi HU/EN,nyugati
 Péntek,2026-11-06,TRX köredzés,07:45-08:45,Kárpáti Ildikó HU/EN,nyugati
+Csütörtök,2026-11-05,Dinamikus pilates,08:00-09:00,Szalma Borka,nyugati
 Péntek,2026-11-06,Dinamikus pilates,08:00-09:00,Antal Laura HU/EN,nyugati
 Szombat,2026-11-07,KRAV-MAGA,08:00-09:30,Sira Gyula,nyugati
 Kedd,2026-11-03,Hot Iron Cross,09:00-10:00,Szalka Andi,nyugati
@@ -337,7 +337,7 @@ Péntek,2026-11-06,Hot Iron Cross,17:00-18:00,Radácsy Petra,nyugati
 Péntek,2026-11-06,Cross Training,17:15-18:30,Balog Bíborka Bella ,nyugati
 Péntek,2026-11-06,Indoor Cycling ICG,17:30-18:30,Králik Eszter HU/EN,nyugati
 Péntek,2026-11-06,Gerinctorna,17:45-18:45,Dézsi Petra,nyugati
-Szombat,2026-11-07,Alakformáló,17:00-18:00,Berki Betti ,nyugati
+Szombat,2026-11-07,Alakformáló,17:00-18:00,Tar Edit,nyugati
 Vasárnap,2026-11-08,Alakformáló,17:00-18:00,Borbély Beatrix,nyugati
 Vasárnap,2026-11-08,Jóga,17:45-18:45,Erdős Réka ,nyugati
 Hétfő,2026-11-02,Hot Iron Cross,18:00-19:00,Radácsy Petra,nyugati
@@ -480,7 +480,7 @@ Szerda,2026-10-28,Alakformáló,18:00-19:00,Czigány Betti,corvin
 Szerda,2026-10-28,Pilates.,18:15-19:15,Kocsis Kata,corvin
 Szerda,2026-10-28,Indoor Cycling ICG,18:30-19:30,Molnár Tibor  HU/EN/DE,corvin
 Szerda,2026-10-28,TRX köredzés,18:30-19:30,Szabó Nahid HU/EN,corvin
-Csütörtök,2026-10-29,Full kondi,18:00-19:00,Auer Bernadett,corvin
+Csütörtök,2026-10-29,Full kondi,18:00-19:00,Nagy Vivien,corvin
 Csütörtök,2026-10-29,Pilates.,18:15-19:15,Majoros Anikó,corvin
 Csütörtök,2026-10-29,Hot Iron Cross,18:30-19:30,Csonka Máté HU/EN,corvin
 Csütörtök,2026-10-29,Indoor Cycling ICG,18:30-19:30,Kilin Tomi,corvin
@@ -729,14 +729,14 @@ Hétfő,2026-10-26,TRX köredzés,18:30-19:30,Kárpáti Ildikó HU/EN,etele
 Hétfő,2026-10-26,Dinamikus pilates,18:45-19:45,Szalma Borka,etele
 Kedd,2026-10-27,Hot Iron I,18:00-19:00,Göde Dorka,etele
 Kedd,2026-10-27,Indoor Cycling ICG,18:15-19:15,Kárpáti Móni ,etele
-Kedd,2026-10-27,Funkcionális köredzés,18:30-19:30,Szebenyi Szabina,etele
+Kedd,2026-10-27,Funkcionális köredzés,18:30-19:30,Szőcs Gabi HU/EN,etele
 Szerda,2026-10-28,Zsírégető,18:00-19:00,Adamkó Szilvi,etele
 Szerda,2026-10-28,Indoor Cycling ICG,18:15-19:15,Olléh Péter,etele
 Szerda,2026-10-28,TRX köredzés,18:30-19:30,Kárpáti Ildikó HU/EN,etele
 Szerda,2026-10-28,Dinamikus pilates,18:45-19:45,Szalma Borka,etele
 Csütörtök,2026-10-29,Hot Iron Cross,18:00-19:00,Göde Dorka,etele
 Csütörtök,2026-10-29,Indoor Cycling ICG,18:15-19:15,Kárpáti Móni ,etele
-Csütörtök,2026-10-29,Funkcionális köredzés,18:30-19:30,Szebenyi Szabina,etele
+Csütörtök,2026-10-29,Funkcionális köredzés,18:30-19:30,Szőcs Gabi HU/EN,etele
 Csütörtök,2026-10-29,Gerinctorna+stretching,18:45-19:45,Kárpáti Ildikó HU/EN,etele
 Péntek,2026-10-30,Indoor Cycling ICG,18:15-19:15,Molnár Tibor  HU/EN/DE,etele
 Péntek,2026-10-30,Gerinctorna+stretching,18:45-19:45,Kovács Laura,etele
@@ -811,7 +811,7 @@ Kedd,2026-11-03,Indoor Cycling ICG,17:15-18:15,Szőcs Gabi HU/EN,etele
 Kedd,2026-11-03,TRX köredzés,17:30-18:30,Gyurkovics Anikó HU/EN,etele
 Kedd,2026-11-03,Pilates,17:45-18:45,Erdős Réka ,etele
 Szerda,2026-11-04,Alakformáló,17:00-18:00,Szabó Csenge,etele
-Szerda,2026-11-04,Indoor Cycling ICG,17:15-18:15,Olléh Péter,etele
+Szerda,2026-11-04,Indoor Cycling ICG,17:15-18:15,Böröcz Anita,etele
 Szerda,2026-11-04,Funkcionális köredzés,17:30-18:30,Majoros Anikó,etele
 Szerda,2026-11-04,Jóga,17:45-18:45,Veres Zsuzsa,etele
 Csütörtök,2026-11-05,Zsírégető,17:00-18:00,Auer Bernadett,etele
@@ -834,7 +834,7 @@ Kedd,2026-11-03,Hot Iron I,18:00-19:00,Göde Dorka,etele
 Kedd,2026-11-03,Indoor Cycling ICG,18:15-19:15,Kárpáti Móni ,etele
 Kedd,2026-11-03,Funkcionális köredzés,18:30-19:30,Szebenyi Szabina,etele
 Szerda,2026-11-04,Zsírégető,18:00-19:00,Adamkó Szilvi,etele
-Szerda,2026-11-04,Indoor Cycling ICG,18:15-19:15,Olléh Péter,etele
+Szerda,2026-11-04,Indoor Cycling ICG,18:15-19:15,Andavölgyi Gábor,etele
 Szerda,2026-11-04,TRX köredzés,18:30-19:30,Kárpáti Ildikó HU/EN,etele
 Szerda,2026-11-04,Dinamikus pilates,18:45-19:45,Szalma Borka,etele
 Csütörtök,2026-11-05,Hot Iron Cross,18:00-19:00,Göde Dorka,etele
