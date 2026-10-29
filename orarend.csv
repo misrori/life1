@@ -45,7 +45,7 @@ Szerda,2026-10-28,Alakformáló,17:00-18:00,Sándor Zsanett HU/EN,allee
 Szerda,2026-10-28,Funkcionális köredzés,17:15-18:15,Fóthi Saci HU/EN,allee
 Szerda,2026-10-28,Gerinctorna,17:30-18:30,Kárpáti Móni ,allee
 Csütörtök,2026-10-29,Hot Iron I,17:00-18:00,Dobos Fanny HU/EN,allee
-Csütörtök,2026-10-29,Cross Training,17:15-18:15,Virág Vera,allee
+Csütörtök,2026-10-29,Cross Training,17:15-18:15,Szentgyörgyi Lilien,allee
 Csütörtök,2026-10-29,Pilates.,17:30-18:30,Kocsomba Nelli ,allee
 Péntek,2026-10-30,Alakformáló,17:00-18:00,Dobos Fanny HU/EN,allee
 Péntek,2026-10-30,Zumba,17:30-18:30,Jámbor Bea,allee
@@ -72,8 +72,6 @@ Kedd,2026-10-27,TRX köredzés,19:15-20:15,Trankó Ida ,allee
 Kedd,2026-10-27,Dinamikus jóga,19:30-20:30,Erdős Réka ,allee
 Szerda,2026-10-28,Cardio Kick-box,19:00-20:00,Kalamár Eszter,allee
 Szerda,2026-10-28,Cross Training,19:15-20:15,Szentgyörgyi Lilien,allee
-Szerda,2026-10-28,Dinamikus gerinctorna,19:30-20:30,Virág Vera,allee
-Csütörtök,2026-10-29,Zsírégető,19:00-20:00,Borbély Beatrix,allee
 Csütörtök,2026-10-29,Funkcionális köredzés,19:15-20:15,Sánta Stella HU/EN,allee
 Csütörtök,2026-10-29,Dinamikus jóga,19:30-20:30,Erdős Réka ,allee
 Péntek,2026-10-30,Kezdő dance step,19:00-20:00,Harnos Erika ,allee
@@ -161,11 +159,13 @@ Szerda,2026-11-04,Dinamikus gerinctorna,19:30-20:30,Virág Vera,allee
 Csütörtök,2026-11-05,Zsírégető,19:00-20:00,Szabó Júlia,allee
 Csütörtök,2026-11-05,Funkcionális köredzés,19:15-20:15,Sánta Stella HU/EN,allee
 Csütörtök,2026-11-05,Dinamikus jóga,19:30-20:30,Erdős Réka ,allee
+Péntek,2026-11-06,Alakformáló,19:00-20:00,Tar Edit,allee
 Péntek,2026-11-06,Stretching.,19:00-20:00,Dobos Fanny HU/EN,allee
 Péntek,2026-11-06,TRX köredzés,19:00-20:00,Vujicsity Viktória,allee
 Hétfő,2026-11-02,Hot Iron I,20:00-21:00,Dobos Fanny HU/EN,allee
 Kedd,2026-11-03,Dinamikus gerinctorna,20:00-21:00,Fóthi Saci HU/EN,allee
 Szerda,2026-11-04,Hot Iron I,20:00-21:00,Dobos Fanny HU/EN,allee
+Péntek,2026-11-06,Hatha jóga,20:00-21:00,Tar Edit,allee
 Szerda,2026-10-28,KRAV-MAGA,06:00-07:30,Sira Gyula,nyugati
 Csütörtök,2026-10-29,KRAV-MAGA,06:00-07:30,Sira Gyula,nyugati
 Péntek,2026-10-30,Cross Training,06:45-07:45,Kárpáti Ildikó HU/EN,nyugati
@@ -203,7 +203,6 @@ Szerda,2026-10-28,Pilates.,16:00-17:00,Polányi Petra,nyugati
 Szerda,2026-10-28,TRX köredzés,16:15-17:15,Fábián Roland,nyugati
 Szerda,2026-10-28,Indoor Cycling ICG,16:30-17:30,Kazi Alex,nyugati
 Szerda,2026-10-28,Kezdő dance step,16:45-17:45,Harnos Erika ,nyugati
-Csütörtök,2026-10-29,Alakformáló,16:00-17:00,Kis Zsófi,nyugati
 Csütörtök,2026-10-29,Indoor Cycling ICG,16:30-17:30,Böröcz Anita,nyugati
 Csütörtök,2026-10-29,Gerinctorna+stretching,16:45-17:45,Kocsis Kata,nyugati
 Péntek,2026-10-30,Alakformáló,16:00-17:00,Polányi Petra,nyugati
@@ -537,7 +536,6 @@ Kedd,2026-11-03,Cross Training,09:30-10:30,Sas Eszter,corvin
 Szerda,2026-11-04,Alakformáló,09:00-10:00,Kovács Laura,corvin
 Csütörtök,2026-11-05,Cross Training,09:30-10:30,Sas Eszter,corvin
 Péntek,2026-11-06,Alakformáló,09:00-10:00,Kovács Laura,corvin
-Szombat,2026-11-07,Alakformáló,09:00-10:00,Paulovics Adrienn,corvin
 Szombat,2026-11-07,Dance Step,09:00-10:00,Csonka Anita ,corvin
 Vasárnap,2026-11-08,Cross Training,09:30-10:30,Sas Eszter,corvin
 Hétfő,2026-11-02,Stretching.,10:00-11:00,Palkó Roberta HU/EN,corvin
@@ -546,13 +544,11 @@ Péntek,2026-11-06,Jóga,10:00-11:00,Csonka Anita ,corvin
 Péntek,2026-11-06,Cross Training,10:30-11:30,Sas Eszter,corvin
 Szombat,2026-11-07,Gerinctorna,10:00-11:00,Paulovics Adrienn,corvin
 Szombat,2026-11-07,Cross Training,10:30-11:45,Szőcs Gabi HU/EN,corvin
-Vasárnap,2026-11-08,Alakformáló,10:00-11:00,Gyurkovics Anikó HU/EN,corvin
 Vasárnap,2026-11-08,Indoor Cycling ICG,10:00-11:00,Szabó Nahid HU/EN,corvin
 Vasárnap,2026-11-08,Hot Iron II,10:30-11:30,Molnár Dani,corvin
 Hétfő,2026-11-02,Giryafit,11:00-12:00,Sas Eszter,corvin
 Szerda,2026-11-04,Giryafit,11:00-12:00,Sas Eszter,corvin
 Szombat,2026-11-07,Indoor Cycling ICG,11:30-12:30,Viczián Gyöngyi HU/EN,corvin
-Vasárnap,2026-11-08,Kangoo,11:00-12:30,Gyurkovics Anikó HU/EN,corvin
 Vasárnap,2026-11-08,Indoor Cycling ICG,11:10-12:10,Viczián Gyöngyi HU/EN,corvin
 Vasárnap,2026-11-08,Funkcionális köredzés,11:30-12:30,Szabó Nahid HU/EN,corvin
 Hétfő,2026-11-02,Pilates,12:00-13:00,Csonka Anita ,corvin
@@ -577,8 +573,7 @@ Csütörtök,2026-11-05,TRX köredzés,16:30-17:30,Kovács Laura,corvin
 Péntek,2026-11-06,FitFight ,16:00-17:00,Sándor Zsanett HU/EN,corvin
 Péntek,2026-11-06,Cross Training,16:30-17:30,Gerencsér Ágnes,corvin
 Péntek,2026-11-06,Indoor Cycling ICG,16:30-17:30,Viczián Gyöngyi HU/EN,corvin
-Szombat,2026-11-07,Pilates,16:00-17:00,Kocsis Kata,corvin
-Vasárnap,2026-11-08,Salsa Fitness,16:00-17:00,Osvaldo,corvin
+Szombat,2026-11-07,Japán jóga/Do-in,16:00-17:00,Kocsis Kata,corvin
 Hétfő,2026-11-02,Dinamikus gerinctorna,17:00-18:00,Kocsis Kata,corvin
 Hétfő,2026-11-02,Kismama torna,17:15-18:15,Szalai Ági HU/EN,corvin
 Hétfő,2026-11-02,Indoor Cycling ICG,17:30-18:30,Molnár Tibor  HU/EN/DE,corvin
@@ -598,9 +593,6 @@ Péntek,2026-11-06,Kangoo,17:00-18:00,Kabai Petra,corvin
 Péntek,2026-11-06,Funkcionális köredzés,17:30-18:30,Sándor Zsanett HU/EN,corvin
 Péntek,2026-11-06,Indoor Cycling ICG,17:30-18:30,Szabó Nahid HU/EN,corvin
 Péntek,2026-11-06,Pilates.,17:30-18:30,Reitter Zsófia,corvin
-Szombat,2026-11-07,Japán jóga/Do-in,17:00-18:00,Kocsis Kata,corvin
-Szombat,2026-11-07,Zsírégető,17:00-18:00,Sándor Zsanett HU/EN,corvin
-Vasárnap,2026-11-08,Alakformáló,17:00-18:00,Majoros Anikó,corvin
 Vasárnap,2026-11-08,Szauna felöntés,17:00-17:20,Szaunamester Corvin,corvin
 Vasárnap,2026-11-08,Funkcionális köredzés,17:30-18:30,Kovács Laura,corvin
 Vasárnap,2026-11-08,Szauna felöntés,17:50-18:10,Szaunamester Corvin,corvin
@@ -623,9 +615,7 @@ Csütörtök,2026-11-05,Indoor Cycling ICG,18:30-19:30,Kilin Tomi,corvin
 Péntek,2026-11-06,Alakformáló,18:00-19:00,Gyurkovics Anikó HU/EN,corvin
 Péntek,2026-11-06,Indoor Cycling ICG,18:30-19:30,Szabó Nahid HU/EN,corvin
 Péntek,2026-11-06,Jóga.,18:30-19:30,Palkó Roberta HU/EN,corvin
-Szombat,2026-11-07,Alakformáló,18:00-19:00,Sándor Zsanett HU/EN,corvin
 Szombat,2026-11-07,Indoor Cycling ICG,18:00-19:00,Molnár Tibor  HU/EN/DE,corvin
-Vasárnap,2026-11-08,Pilates,18:00-19:00,Majoros Anikó,corvin
 Vasárnap,2026-11-08,Szauna felöntés,18:40-19:00,Szaunamester Corvin,corvin
 Hétfő,2026-11-02,Kangoo,19:00-20:00,Gyurkovics Anikó HU/EN,corvin
 Hétfő,2026-11-02,Gerinctorna+stretching.,19:15-20:15,Paulovics Adrienn,corvin
@@ -873,7 +863,6 @@ Szerda,2026-10-28,Pilates,08:30-09:30,Kárpáti Ildikó HU/EN,vaci35
 Szombat,2026-10-31,Alakformáló,08:30-09:30,Nagy Zsuzsa,vaci35
 Kedd,2026-10-27,Pilates gerinc,09:00-10:00,Párdi Erika HU/EN,vaci35
 Csütörtök,2026-10-29,Pilates gerinc,09:00-10:00,Párdi Erika HU/EN,vaci35
-Péntek,2026-10-30,Alakformáló,09:00-10:00,Kalló Zsuzsa ,vaci35
 Hétfő,2026-10-26,Kismama torna,10:00-11:00,Vass Zsófi,vaci35
 Kedd,2026-10-27,Mobility & stretching,10:00-11:00,Párdi Erika HU/EN,vaci35
 Szerda,2026-10-28,Baba-mama torna,10:00-11:00,Kalló Zsuzsa ,vaci35
@@ -913,7 +902,7 @@ Hétfő,2026-10-26,Zsírégető,19:00-20:00,Molnár Dani,vaci35
 Hétfő,2026-10-26,Pilates gerinc,19:15-20:15,Párdi Erika HU/EN,vaci35
 Kedd,2026-10-27,Zsákos köredzés,19:00-20:00,Takács Henriett,vaci35
 Szerda,2026-10-28,Funkcionális köredzés,19:15-20:15,Molnár Dani,vaci35
-Csütörtök,2026-10-29,Dinamikus gerinctorna,19:00-20:00,Virág Vera,vaci35
+Csütörtök,2026-10-29,Dinamikus gerinctorna,19:00-20:00,Dézsi Petra,vaci35
 Csütörtök,2026-10-29,Zsákos köredzés,19:00-20:00,Takács Henriett,vaci35
 Hétfő,2026-10-26,Alakformáló,20:00-21:00,Hodosi Tamás,vaci35
 Kedd,2026-10-27,Alakformáló,20:00-21:00,Nagy Vivien,vaci35
@@ -959,7 +948,7 @@ Vasárnap,2026-11-08,Funkcionális köredzés,17:15-18:15,Serrano Gergő HU/EN,v
 Hétfő,2026-11-02,Hot Iron Cross,18:00-19:00,Szalka Andi,vaci35
 Hétfő,2026-11-02,Cross Training,18:15-19:15,Kempelen Zita,vaci35
 Kedd,2026-11-03,Alakformáló,18:00-19:00,Ábrahám Zsanna,vaci35
-Kedd,2026-11-03,Cross Training,18:00-19:00,Fodor Gabriella,vaci35
+Kedd,2026-11-03,Cross Training,18:00-19:00,Fábián Roland,vaci35
 Szerda,2026-11-04,Hot Iron II,18:00-19:00,Szalka Andi,vaci35
 Szerda,2026-11-04,Cross Training,18:15-19:15,Kempelen Zita,vaci35
 Csütörtök,2026-11-05,Alakformáló,18:00-19:00,Nagy Zsuzsa,vaci35
