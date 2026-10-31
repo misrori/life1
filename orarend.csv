@@ -182,7 +182,7 @@ Csütörtök,2026-10-29,Hot Iron II,09:00-10:00,Szalka Andi,nyugati
 Szombat,2026-10-31,BOOSTAR,09:30-10:30,Lebedi Zalán,nyugati
 Vasárnap,2026-11-01,Indoor Cycling ICG,09:30-10:30,Králik Eszter HU/EN,nyugati
 Szombat,2026-10-31,Giryafit,10:00-11:00,Fischer Gábor HU/EN,nyugati
-Szombat,2026-10-31,Indoor Cycling ICG,10:00-11:00,Szalai Ági HU/EN,nyugati
+Szombat,2026-10-31,Indoor Cycling ICG,10:00-11:00,Andavölgyi Gábor,nyugati
 Vasárnap,2026-11-01,Alakformáló,10:00-11:00,Berki Betti ,nyugati
 Hétfő,2026-10-26,Pilates.,11:00-12:00,Erdős Réka ,nyugati
 Szerda,2026-10-28,Pilates.,11:00-12:00,Erdős Réka ,nyugati
@@ -279,9 +279,9 @@ Péntek,2026-11-06,TRX köredzés,07:45-08:45,Kárpáti Ildikó HU/EN,nyugati
 Csütörtök,2026-11-05,Dinamikus pilates,08:00-09:00,Szalma Borka,nyugati
 Péntek,2026-11-06,Dinamikus pilates,08:00-09:00,Antal Laura HU/EN,nyugati
 Szombat,2026-11-07,KRAV-MAGA,08:00-09:30,Sira Gyula,nyugati
-Kedd,2026-11-03,Hot Iron Cross,09:00-10:00,Szalka Andi,nyugati
+Kedd,2026-11-03,Hot Iron I,09:00-10:00,Szalka Andi,nyugati
 Kedd,2026-11-03,Jóga,09:00-10:00,Csonka Anita ,nyugati
-Csütörtök,2026-11-05,Hot Iron II,09:00-10:00,Szalka Andi,nyugati
+Csütörtök,2026-11-05,Hot Iron I,09:00-10:00,Szalka Andi,nyugati
 Péntek,2026-11-06,Stresszoldó jóga,09:00-10:00,Antal Laura HU/EN,nyugati
 Szombat,2026-11-07,BOOSTAR,09:30-10:30,Lebedi Zalán,nyugati
 Vasárnap,2026-11-08,Indoor Cycling ICG,09:30-10:30,Králik Eszter HU/EN,nyugati
@@ -814,7 +814,7 @@ Péntek,2026-11-06,Funkcionális köredzés,17:30-19:00,Majoros Anikó,etele
 Péntek,2026-11-06,Pilates,17:45-18:45,Kárpáti Ildikó HU/EN,etele
 Szombat,2026-11-07,Dinamikus pilates,17:00-18:00,Szalma Borka,etele
 Vasárnap,2026-11-08,Zumba,17:00-18:00,Boros Orsolya HU/EN,etele
-Vasárnap,2026-11-08,Indoor Cycling ICG,17:15-18:15,Szőcs Gabi HU/EN,etele
+Vasárnap,2026-11-08,Indoor Cycling ICG,17:15-18:30,Szőcs Gabi HU/EN,etele
 Vasárnap,2026-11-08,Funkcionális köredzés,17:30-18:30,Szalma Borka,etele
 Hétfő,2026-11-02,Zsírégető,18:00-19:00,Adamkó Szilvi,etele
 Hétfő,2026-11-02,Indoor Cycling ICG,18:15-19:15,Kazi Alex,etele
@@ -836,7 +836,6 @@ Péntek,2026-11-06,Indoor Cycling ICG,18:15-19:15,Molnár Tibor  HU/EN/DE,etele
 Péntek,2026-11-06,Jóga,18:45-19:45,Boros Orsolya HU/EN,etele
 Szombat,2026-11-07,Cross Training,18:00-19:00,Szalma Borka,etele
 Vasárnap,2026-11-08,Pilates,18:00-19:00,Boros Orsolya HU/EN,etele
-Vasárnap,2026-11-08,Indoor Cycling ICG,18:15-19:15,Szőcs Gabi HU/EN,etele
 Hétfő,2026-11-02,Kangoo,19:00-20:00,Petracsek Virág,etele
 Hétfő,2026-11-02,Indoor Cycling ICG,19:15-20:15,Adamkó Szilvi,etele
 Hétfő,2026-11-02,Cross Training,19:30-20:30,Kárpáti Ildikó HU/EN,etele
@@ -949,7 +948,7 @@ Hétfő,2026-11-02,Hot Iron Cross,18:00-19:00,Szalka Andi,vaci35
 Hétfő,2026-11-02,Cross Training,18:15-19:15,Kempelen Zita,vaci35
 Kedd,2026-11-03,Alakformáló,18:00-19:00,Ábrahám Zsanna,vaci35
 Kedd,2026-11-03,Cross Training,18:00-19:00,Fábián Roland,vaci35
-Szerda,2026-11-04,Hot Iron II,18:00-19:00,Szalka Andi,vaci35
+Szerda,2026-11-04,Hot Iron I,18:00-19:00,Szalka Andi,vaci35
 Szerda,2026-11-04,Cross Training,18:15-19:15,Kempelen Zita,vaci35
 Csütörtök,2026-11-05,Alakformáló,18:00-19:00,Nagy Zsuzsa,vaci35
 Csütörtök,2026-11-05,Cross Training,18:00-19:00,Fodor Gabriella,vaci35
